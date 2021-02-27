@@ -1,0 +1,26 @@
+{
+    "id": "EC81FD0E",
+    "path": "~/Documents/Side Hustles/CFS EE Website/config/_default/menus.toml",
+    "project_path": "config/_default/menus.toml",
+    "type": "toml",
+    "hash": "3864804313",
+    "contents": "",
+    "dirty": false,
+    "created": 1614357222293.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "42,10",
+        "scrollLine": "35"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614364984,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614364984450,
+    "read_only": false,
+    "read_only_alternatives": []
+}
