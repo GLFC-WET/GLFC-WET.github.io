@@ -1,4 +1,4 @@
-theme: starter-academic
+theme: wowchemy-hugo-modules
 title: Forest Aquatic Ecology
 baseurl: ''
 copyright: ''
@@ -68,5 +68,5 @@ related:
   toLower: yes
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+    - path: wowchemy-hugo-modules/wowchemy
+    - path: wowchemy-hugo-modules/wowchemy-cms

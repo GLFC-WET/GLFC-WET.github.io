@@ -24,10 +24,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
+tags: 
+- staff
 title: Erik Emilson
-user_groups: [Principal Investigators]
-authors:
-- admin
 ---
 
 Some Random text we want to have
