@@ -9,12 +9,12 @@ education:
   - course: BSc Microbiology (Co-op)
     institution: University of Guelph
     year: 2012
-email: "erik.emilson@canada.ca"
-highlight_name: false
+email: "emily.smenderovac@canada.ca"
 interests:
-- Stream Ecosystem Dynamics
-- Aquatic Ecology in Watersheds
-- Forestry Impacts on Aquatic systems
+- Microbiology
+- R Programming
+- Data integration
+highlight_name: false
 organizations:
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
@@ -28,21 +28,18 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/wet_erik?lang=en
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en
+  link: https://twitter.com/Smendero?lang=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/ErikEmilson
+  link: https://github.com/Smendero
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/emily-smenderovac-22889519/
 superuser: false
-title: admin example
-user_groups: []
-authors: 
-- admin
+title: Emily Smenderovac
+user_groups: [Researchers and Staff]
+authors:
+- Emily_Smenderovac
 ---
 
-Any text you want to add to your profile.
+I love troubleshooting R-Code and helping create new visualizations of data. I love applying my existing knowledge and learning new things to achieve mutual goals! 
