@@ -1,6 +1,5 @@
 ---
 bio: My background is in microbiology and forestry. I built a love of data in my Masters and it has only grown.
-  matter.
 education:
   courses:
   - course: MSc Forestry
@@ -42,4 +41,4 @@ authors:
 - Emily_Smenderovac
 ---
 
-I love troubleshooting R-Code and helping create new visualizations of data. I love applying my existing knowledge and learning new things to achieve mutual goals! 
+I enjoy finding giant mushrooms while doing fieldwork! I also like creating data visualizations in R.

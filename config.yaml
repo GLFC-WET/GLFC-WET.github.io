@@ -68,5 +68,5 @@ related:
   toLower: yes
 module:
   imports:
-    - path: wowchemy-hugo-modules/wowchemy
     - path: wowchemy-hugo-modules/wowchemy-cms
+    - path: wowchemy-hugo-modules/wowchemy
