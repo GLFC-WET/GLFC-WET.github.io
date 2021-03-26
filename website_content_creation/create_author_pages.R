@@ -1,13 +1,19 @@
 ## Create profiles from submissions ## 
 library(readxl)
+library(stringr)
 
 ## get all directories in first level
-directories <- list.dirs("website_content_creation", recursive = F)
+directories <- list.dirs("website_content_creation/authors", recursive = F)
 
 ## Iterate through directories
 for(cur_dir in directories){
         filesin <- list.files(cur_dir, full.names = TRUE)
         pic <- filesin[grepl(".jpg|.png|.jpeg", filesin)]
+        
+        if(length(pic) ==0){
+                pic <- "static/media/meeple.jpg"
+        }
+        
         info <- read_excel(filesin[grepl(".xlsx", filesin)])
         colnames(info) <- c("index", "data1", "data2")
         info <- info[!is.na(info$index), ]
@@ -60,7 +66,7 @@ for(cur_dir in directories){
         if(!is.na(basicinf["LinkedIN"])){social_yaml <- paste(social_yaml, "\n- icon: linkedin\n  icon_pack: fab\n  link: ", 
                                                             basicinf["LinkedIN"], sep="") } 
  
-        auth_code <- gsub(" ", "_", trimws(basicinf['name']))
+        auth_code <- str_c(str_extract(str_split(trimws(basicinf['name']), " ")[[1]][1], "^."), str_split(trimws(basicinf['name']), " ")[[1]][length(str_split(trimws(basicinf['name']), " ")[[1]])], sep="_")
         
         usergroups <- ifelse("Groups" %in% names(basicinf), paste("[",basicinf['Groups'], "]", sep=""), "[NEEDS UPDATING]")
         
@@ -77,9 +83,9 @@ for(cur_dir in directories){
                "\nsuperuser: false", 
                "\ntitle: ", basicinf["name"],
                "\nuser_groups: ", usergroups,
-               "\nauthors:\n- ", gsub(" ", "_", trimws(basicinf['name'])),
+               "\nauthors:\n- ", auth_code,
                "\n---\n\n",
-               basicinf["Bio"], "\n", basicinf["Detail_Blurb"],
+               paste(ifelse(!is.na(basicinf["Bio"]), basicinf["Bio"], ""), ifelse(!is.na(basicinf["Detail_Blurb"]), basicinf["Detail_Blurb"], ""), sep="\n"),
                sep="")
         
 

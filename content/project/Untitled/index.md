@@ -7,4 +7,6 @@ summary: An example of linking directly to an external project website using `ex
 tags:
 - Demo
 title: Erik Emilson
+authors:
+- E_Emilson
 ---

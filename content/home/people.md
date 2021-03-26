@@ -14,12 +14,11 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers and Staff",
-                 "Grad Students",
-                 "Administration",
-                 "Collaborators", 
-                 "WETlab Contributors from the Great Lakes Forestry Centre"]
+  user_groups = ["Leadership",
+                 "Watershed Ecology Team",
+                 "Visiting and Co-supervised Students",
+                 "WETlab Contributors from the GLFC",
+                 "Past WETlab Members"]
 
 [design]
   # Show user's social networking links? (true/false)
