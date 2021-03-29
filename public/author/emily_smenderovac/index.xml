@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily_Smenderovac | Watershed Ecology Team</title>
+    <link>/author/emily_smenderovac/</link>
+      <atom:link href="/author/emily_smenderovac/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily_Smenderovac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Emily_Smenderovac</title>
+      <link>/author/emily_smenderovac/</link>
+    </image>
+    
+    <item>
+      <title>Let me tell you a secret</title>
+      <link>/post/silly-walks/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/silly-walks/</guid>
+      <description>&lt;p&gt;Few People know that Erik Emilson has a mastery of silly walks. He&amp;rsquo;s even registered with the bureau.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

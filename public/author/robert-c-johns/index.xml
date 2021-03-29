@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert C Johns | Watershed Ecology Team</title>
+    <link>/author/robert-c-johns/</link>
+      <atom:link href="/author/robert-c-johns/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert C Johns</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Robert C Johns</title>
+      <link>/author/robert-c-johns/</link>
+    </image>
+    
+    <item>
+      <title>A Conceptual Framework for the Spruce Budworm Early Intervention Strategy: Can Outbreaks be Stopped?</title>
+      <link>/publication/rc-johns_jj-bowden_dr-carleton_bj-cooke_s-edwards_ejs-emilson_..._2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rc-johns_jj-bowden_dr-carleton_bj-cooke_s-edwards_ejs-emilson_..._2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

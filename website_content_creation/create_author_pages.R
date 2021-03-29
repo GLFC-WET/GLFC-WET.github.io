@@ -70,6 +70,8 @@ for(cur_dir in directories){
         
         usergroups <- ifelse("Groups" %in% names(basicinf), paste("[",basicinf['Groups'], "]", sep=""), "[NEEDS UPDATING]")
         
+        Supervisor_statement <- ifelse
+        
         ## Compile Yaml header
 
         YHead <- paste("--- \nbio: ", basicinf["Bio"], 
