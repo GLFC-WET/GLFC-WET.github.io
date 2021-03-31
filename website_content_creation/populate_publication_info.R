@@ -45,7 +45,7 @@ for(pub in 1:nrow(Erik_pubs)){
         
         pub_auths_repl<- sapply(pubauths, function(x){
                 authsrch <- paste(str_extract(x, "^."), 
-                                  gsub(" .+ ", "", str_extract(x, " .+$")), 
+                                  gsub(".* ", "", str_extract(x, " .+$")), 
                                   sep="_")
                 if(sum(authsrch == auth_profiles) > 0){auth_profiles[authsrch == auth_profiles]
                         }else{x}
@@ -78,8 +78,8 @@ for(pub in 1:nrow(Erik_pubs)){
                           '\npublication_types:\n- "2"', 
                           "\npublishDate: '", pubdate, "'", 
                           "\ntitle: '", curr_pub$title, "'",
-                          "\nurl_pdf: ", pubhtml_linktopdf, 
-                          "\nurl_source: ", pubhtml_linktofull,
+                          "\nurl_pdf: ", '"', pubhtml_linktopdf, '"',  
+                          "\nurl_source: ", '"',pubhtml_linktofull,'"',
                           "\n--- \n\n",
                           sep="")
         

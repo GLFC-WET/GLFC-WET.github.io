@@ -16,8 +16,8 @@ publication_types:
 - "2"
 publishDate: '2021-04-01T00:00:00Z'
 title: 'Forest management impacts on stream integrity at varying intensities and spatial scales: Do biological effects accumulate spatially?'
-url_pdf: http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=M&aulast=Erdozain&atitle=Forest+management+impacts+on+stream+integrity+at+varying+intensities+and+spatial+scales:+Do+biological+effects+accumulate+spatially%3F&id=doi:10.1016/j.scitotenv.2020.144043&title=The+Science+of+the+total+environment&volume=763&date=2021&spage=144043&issn=0048-9697
-url_source: https://www.sciencedirect.com/science/article/pii/S0048969720375744
+url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=M&aulast=Erdozain&atitle=Forest+management+impacts+on+stream+integrity+at+varying+intensities+and+spatial+scales:+Do+biological+effects+accumulate+spatially%3F&id=doi:10.1016/j.scitotenv.2020.144043&title=The+Science+of+the+total+environment&volume=763&date=2021&spage=144043&issn=0048-9697"
+url_source: "https://www.sciencedirect.com/science/article/pii/S0048969720375744"
 --- 
 
 

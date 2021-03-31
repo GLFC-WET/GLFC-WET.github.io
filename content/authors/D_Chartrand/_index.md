@@ -1,13 +1,6 @@
 --- 
 bio: NA
-education:
-  courses:
-  - course: Organizations
-    institution: NA
-    year: NA
-  - course: Degree/Certification
-    institution: Institution
-    year: Graduation_Year
+
 email: "derek.chartrand@canada.ca"
 interests:
 - Microbial ecology
@@ -29,6 +22,9 @@ user_groups: [Watershed Ecology Team]
 authors:
 - D_Chartrand
 ---
+
+
+
 
 
 Is an Environmental and Ecotoxicology Technologist with the Canadian Forest Service of Natural Resources Canada.  Since graduating in 1996, he has contributed technical support to the planning, conducting and reporting of laboratory and field experiments within a wide variety of projects relating to Canadian forested ecosystems.  Derek brings diverse experiential and technical skills to these studies quantitative analytical chemistry, GPS and radiotelemetry of species at risk, GIS-based spatial analysis and most recently sampling and assessment of macroinvertebrate community via metabarcoding.

@@ -24,16 +24,21 @@ for(cur_dir in directories){
         
         #### Get Educational info into table ####
         Educational_inf <- info[(grep("Educational Background", info$index)+2):(grep("Organizations", info$index)-1),]
-        educ_yaml <- paste("education:\n  courses:")
-        for(ed in 1:nrow(Educational_inf)){
-                educ_yaml <- paste(educ_yaml, "\n  - course: ", 
-                      Educational_inf$index[ed], 
-                      "\n    institution: ",
-                      Educational_inf$data1[ed], 
-                      "\n    year: ",
-                      Educational_inf$data2[ed],
-                      sep="")
+        if(!"Organizations" %in% Educational_inf$index){
+                educ_yaml <- paste("education:\n  courses:")
+                for(ed in 1:nrow(Educational_inf)){
+                        educ_yaml <- paste(educ_yaml, "\n  - course: ", 
+                                           Educational_inf$index[ed], 
+                                           "\n    institution: ",
+                                           Educational_inf$data1[ed], 
+                                           "\n    year: ",
+                                           Educational_inf$data2[ed],
+                                           sep="")
+                }
+        }else{
+                educ_yaml <- ""
         }
+       
         
         #### Get interests ####
         Interests_inf <- info[(grep("Interests", info$index)+1):nrow(info),]
@@ -70,7 +75,7 @@ for(cur_dir in directories){
         
         usergroups <- ifelse("Groups" %in% names(basicinf), paste("[",basicinf['Groups'], "]", sep=""), "[NEEDS UPDATING]")
         
-        Supervisor_statement <- ifelse
+        Supervisor_statement <- ifelse("Academic Supervisor (for students)" %in% names(basicinf), paste("Supervised by: ", basicinf["Academic Supervisor (for students)"], "\n\n", sep= ""), "")
         
         ## Compile Yaml header
 
@@ -87,7 +92,14 @@ for(cur_dir in directories){
                "\nuser_groups: ", usergroups,
                "\nauthors:\n- ", auth_code,
                "\n---\n\n",
-               paste(ifelse(!is.na(basicinf["Bio"]), basicinf["Bio"], ""), ifelse(!is.na(basicinf["Detail_Blurb"]), basicinf["Detail_Blurb"], ""), sep="\n"),
+               paste(Supervisor_statement, 
+                     ifelse(!is.na(basicinf["Bio"]), 
+                            basicinf["Bio"],
+                            ""), 
+                     ifelse(!is.na(basicinf["Detail_Blurb"]),
+                            basicinf["Detail_Blurb"],
+                            ""), 
+                     sep="\n\n"),
                sep="")
         
 

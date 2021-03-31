@@ -1,5 +1,5 @@
 --- 
-abstract: Transformative advances in metagenomics are providing an unprecedented ability to characterize the enormous diversity of microorganisms and invertebrates sustaining soil health and water quality. These advances are enabling a better recognition of the ecological linkages between soil and water, and the biodiversity exchanges between these two reservoirs. They are also providing new perspectives for understanding microorganisms and invertebrates as part of interacting communities (i.e. microbiomes and zoobiomes), and considering plants, animals, and humans as holobionts comprised of their own cells as well as diverse microorganisms and invertebrates often acquired from soil and water. The Government of Canada's Genomics Research and Development Initiative (GRDI) launched the Ecobiomics Project to coordinate metagenomics capacity building across federal departments, and to apply …
+abstract: "Transformative advances in metagenomics are providing an unprecedented ability to characterize the enormous diversity of microorganisms and invertebrates sustaining soil health and water quality. These advances are enabling a better recognition of the ecological linkages between soil and water, and the biodiversity exchanges between these two reservoirs. They are also providing new perspectives for understanding microorganisms and invertebrates as part of interacting communities (i.e. microbiomes and zoobiomes), and considering plants, animals, and humans as holobionts comprised of their own cells as well as diverse microorganisms and invertebrates often acquired from soil and water. The Government of Canada's Genomics Research and Development Initiative (GRDI) launched the Ecobiomics Project to coordinate metagenomics capacity building across federal departments, and to apply …"
 authors: 
 -  Thomas A Edge
 -  Donald J Baird
@@ -36,7 +36,7 @@ authors:
 -  Joel Sachs
 -  Zachery Staley
 -  Royce Steeves
--  Lisa Venier
+-  L_Venier
 -  Teodor Veres
 -  Cynthia Watson
 -  Susan Watson
@@ -49,8 +49,8 @@ publication_types:
 - "2"
 publishDate: '2020-03-25T00:00:00Z'
 title: 'The ecobiomics project: Advancing metagenomics assessment of soil health and freshwater quality in Canada'
-url_pdf: http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=TA&aulast=Edge&atitle=The+Ecobiomics+project:+Advancing+metagenomics+assessment+of+soil+health+and+freshwater+quality+in+Canada&id=doi:10.1016/j.scitotenv.2019.135906&title=The+Science+of+the+total+environment&volume=710&date=2020&spage=135906&issn=0048-9697
-url_source: https://www.sciencedirect.com/science/article/pii/S0048969719359017
+url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=TA&aulast=Edge&atitle=The+Ecobiomics+project:+Advancing+metagenomics+assessment+of+soil+health+and+freshwater+quality+in+Canada&id=doi:10.1016/j.scitotenv.2019.135906&title=The+Science+of+the+total+environment&volume=710&date=2020&spage=135906&issn=0048-9697"
+url_source: "https://www.sciencedirect.com/science/article/pii/S0048969719359017"
 --- 
 
 

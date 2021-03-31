@@ -32,5 +32,8 @@ authors:
 - H_Campbell
 ---
 
+
+
 I enjoy babbling brooks and hilltop views, for science of course.
+
 I am a stream technician based out of Fredericton, NB mainly working on a watershed study in Gaspe, Quebec.

@@ -36,5 +36,8 @@ authors:
 - C_Emilson
 ---
 
+
+
 Ecologist specializing in environmental genomics and microbial ecology.
+
 I am an ecologist specializing in environmental genomics and microbial ecology. My current research interests include exploring the influence of forest management on microbal communities and overall ecosystem health, and exploring the utility of the many available molecular and microbial based tools for forest ecosystem assessment and monitoring.

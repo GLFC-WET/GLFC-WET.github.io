@@ -24,7 +24,7 @@ organizations:
   url: https://www.plantsci.cam.ac.uk/directory/freeman-erika
 - name: Gates Cambridge
   url: https://www.gatescambridge.org/biography/14622/
-role: PhD Student
+role: PhD Student, Cambridge University
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,6 +41,11 @@ user_groups: [Visiting and Co-supervised Students]
 authors:
 - E_Freeman
 ---
+
+Supervised by: Andrew Tanentzap
+
+
+
 
 
 https://carboncaudex.com/

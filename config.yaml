@@ -1,6 +1,6 @@
 theme: wowchemy-hugo-modules
 title: Watershed Ecology Team
-baseurl: ''
+baseurl: '/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en

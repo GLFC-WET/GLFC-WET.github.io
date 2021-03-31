@@ -16,7 +16,7 @@
 theme = "Forest"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -37,7 +37,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Organization"
+site_type = "Research"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Forest Aquatic Ecology Lab, Natural Resources Canada"
+org_name = "Watershed Ecology Team, Natural Resources Canada"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Watershed Ecology Team"
 
 ############################
 ## Site Features
@@ -88,8 +88,8 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "erik.emilson@canada.ca"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -105,7 +105,7 @@ coordinates = {latitude = "46.50381", longitude = "-84.30450"}
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "meeple.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "wet_erik"
