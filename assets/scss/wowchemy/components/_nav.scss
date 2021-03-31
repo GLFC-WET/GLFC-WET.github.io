@@ -179,15 +179,15 @@
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
     position: absolute;
-    right: 5px;
-    bottom: 0px;
+    right: 0px;
+    top: 10%;
   }
   .navbar-brand {
     // Center logo in mobile navbar.
-    margin: 0px auto;
+    margin: auto auto;
   }
   .navbar-brand img {
-    max-width: 80%; // 40px height + 10px v-padding = 50px.
+    max-width: 100%; // 40px height + 10px v-padding = 50px.
   }
   .navbar-toggler {
     border-color: transparent; // Remove Bootstrap's border from Toggle button.
@@ -199,10 +199,10 @@
   .navbar-collapse {
     z-index: 1031 !important; // Appear just over navbar.
     position: absolute;
-    top: 0px;
+    top: 2.5%;
     left: 0px;
-    height: 80%;
-    width: 20%;
+    height: 97.5%;
+    width: 500%;
     background-color: $sta-menu-primary;
     text-align: center !important;
     font-size: #{$sta-font-size-small *0.075}rem;

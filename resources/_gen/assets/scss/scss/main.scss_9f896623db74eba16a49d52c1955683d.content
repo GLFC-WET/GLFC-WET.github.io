@@ -3064,8 +3064,8 @@ input.btn-block[type="button"] {
 
 .navbar-toggler-icon {
   display: inline-block;
-  width: 1.5em;
-  height: 1.5em;
+  width: 5rem;
+  height: 5rem;
   vertical-align: middle;
   content: "";
   background: 50% / 100% 100% no-repeat; }
@@ -3081,7 +3081,7 @@ input.btn-block[type="button"] {
   .navbar-expand-sm > .container-md,
   .navbar-expand-sm > .container-lg,
   .navbar-expand-sm > .container-xl {
-    padding-right: 0;
+    padding-top: 0rem;
     padding-left: 0; } }
 
 @media (min-width: 576px) {
@@ -3117,7 +3117,7 @@ input.btn-block[type="button"] {
   .navbar-expand-md > .container-md,
   .navbar-expand-md > .container-lg,
   .navbar-expand-md > .container-xl {
-    padding-right: 0;
+    padding-top: 0rem;
     padding-left: 0; } }
 
 @media (min-width: 768px) {
@@ -3153,7 +3153,7 @@ input.btn-block[type="button"] {
   .navbar-expand-lg > .container-md,
   .navbar-expand-lg > .container-lg,
   .navbar-expand-lg > .container-xl {
-    padding-right: 0;
+    padding-top: 0rem;
     padding-left: 0; } }
 
 @media (min-width: 992px) {
@@ -3189,7 +3189,7 @@ input.btn-block[type="button"] {
   .navbar-expand-xl > .container-md,
   .navbar-expand-xl > .container-lg,
   .navbar-expand-xl > .container-xl {
-    padding-right: 0;
+    padding-top: 0rem;
     padding-left: 0; } }
 
 @media (min-width: 1200px) {
@@ -3227,7 +3227,7 @@ input.btn-block[type="button"] {
   .navbar-expand > .container-md,
   .navbar-expand > .container-lg,
   .navbar-expand > .container-xl {
-    padding-right: 0;
+    padding-top: 0rem;
     padding-left: 0; }
   .navbar-expand .navbar-nav {
     flex-direction: col; }
@@ -8197,12 +8197,12 @@ a.summary-link {
 @media (max-width: 991.98px) {
   .navbar-brand-mobile-wrapper {
     position: absolute;
-    right: 5px;
-    bottom: 0px; }
+    right: 0px;
+    top: 10%; }
   .navbar-brand {
-    margin: 0px auto; }
+    margin: auto auto; }
   .navbar-brand img {
-    max-width: 80%; }
+    max-width: 100%; }
   .navbar-toggler {
     border-color: transparent; }
   #navbar-main .main-menu-item {
@@ -8211,10 +8211,10 @@ a.summary-link {
   .navbar-collapse {
     z-index: 1031 !important;
     position: absolute;
-    top: 0px;
+    top: 2.5%;
     left: 0px;
-    height: 80%;
-    width: 20%;
+    height: 97.5%;
+    width: 500%;
     background-color: #4caf50;
     text-align: center !important;
     font-size: 1.0395rem; }

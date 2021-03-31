@@ -133,8 +133,8 @@
 // or image file as needed.
 .navbar-toggler-icon {
   display: inline-block;
-  width: 1.5em;
-  height: 1.5em;
+  width: 5rem;
+  height: 5rem;
   vertical-align: middle;
   content: "";
   background: 50% / 100% 100% no-repeat;
@@ -155,7 +155,7 @@
     &#{$infix} {
       @include media-breakpoint-down($breakpoint) {
         %container-navbar-expand-#{$breakpoint} {
-          padding-right: 0;
+          padding-top: 0rem;
           padding-left: 0;
         }
 
