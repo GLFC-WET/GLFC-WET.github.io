@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Bush | Watershed Ecology Team</title>
+    <link>/author/alex-bush/</link>
+      <atom:link href="/author/alex-bush/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Bush</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue38df3345a3517ffa720d234d294d7ac_30383_300x300_fit_lanczos_2.png</url>
+      <title>Alex Bush</title>
+      <link>/author/alex-bush/</link>
+    </image>
+    
+    <item>
+      <title>Studying ecosystems with DNA metabarcoding: lessons from biomonitoring of aquatic macroinvertebrates</title>
+      <link>/publication/a-bush_zg-compson_w-monk_tm-porter_r-steeves_ejs-emilson_..._2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/a-bush_zg-compson_w-monk_tm-porter_r-steeves_ejs-emilson_..._2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

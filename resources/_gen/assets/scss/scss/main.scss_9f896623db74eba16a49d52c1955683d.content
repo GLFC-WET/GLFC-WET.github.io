@@ -3048,7 +3048,7 @@ input.btn-block[type="button"] {
   padding-bottom: 0.5rem; }
 
 .navbar-collapse {
-  flex-basis: 20%;
+  flex-basis: 100%;
   flex-grow: 1;
   align-items: center; }
 
@@ -3063,9 +3063,9 @@ input.btn-block[type="button"] {
     text-decoration: none; }
 
 .navbar-toggler-icon {
-  display: block;
-  width: 1.5em;
-  height: 1.5em;
+  display: inline-block;
+  width: 3em;
+  height: 3em;
   vertical-align: middle;
   content: "";
   background: 50% / 100% 100% no-repeat; }
@@ -7218,6 +7218,7 @@ body {
   margin-left: 20%; }
   @media (max-width: 991.98px) {
     body {
+      width: 80%;
       margin-left: 20%;
       scroll-padding-top: 0 !important; } }
 body.no-navbar {
@@ -7378,7 +7379,7 @@ video {
 
 figure {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column nowrap;
   justify-content: center; }
 
 figure img {
@@ -8106,7 +8107,7 @@ a.summary-link {
     .navbar {
       height: 100%; }
       .navbar .navbar-nav-scroll {
-        width: 20%;
+        width: 15%;
         overflow: hidden; }
         .navbar .navbar-nav-scroll .navbar-nav {
           overflow-x: auto;
@@ -8165,8 +8166,8 @@ a.summary-link {
   /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
   position: absolute;
   /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
-  right: 0;
-  left: auto; }
+  right: auto;
+  left: 0; }
 
 /*
 .navbar .collapse {
@@ -8189,7 +8190,7 @@ a.summary-link {
   width: -webkit-fill-available;
   width: -webkit-stretch;
   width: stretch;
-  max-width: 15%;
+  max-width: 100%;
   max-width: fit-content; }
 
 #navbar-main .main-menu-item ul li .nav-link {
@@ -8206,7 +8207,7 @@ a.summary-link {
   .navbar-brand {
     margin: 0 auto; }
   .navbar-brand img {
-    max-width: 15%; }
+    max-width: 100%; }
   .navbar-toggler {
     border-color: transparent; }
   #navbar-main .main-menu-item {
@@ -8215,9 +8216,10 @@ a.summary-link {
   .navbar-collapse {
     z-index: 1031 !important;
     position: absolute;
-    top: 0;
-    left: 50px;
-    height: 100%;
+    top: 21%;
+    left: 0px;
+    height: 80%;
+    width: 20%;
     background-color: #4caf50;
     text-align: center !important; }
   .dark .navbar-collapse {

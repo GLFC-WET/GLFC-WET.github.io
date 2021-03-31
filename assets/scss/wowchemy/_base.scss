@@ -40,6 +40,7 @@ body {
 
   @include media-breakpoint-down(md) {
     // Offset body content by fixed navbar width.
+    width: 80%;
     margin-left: 20%;
     scroll-padding-top: 0 !important;
   }
@@ -239,7 +240,7 @@ video {
 // Center all figure images by default.
 figure {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column nowrap;
   justify-content: center;
 }
 

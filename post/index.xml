@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Watershed Ecology Team</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hue38df3345a3517ffa720d234d294d7ac_30383_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Let me tell you a secret</title>
+      <link>/post/silly-walks/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/silly-walks/</guid>
+      <description>&lt;p&gt;Few People know that Erik Emilson has a mastery of silly walks. He&amp;rsquo;s even registered with the bureau.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
