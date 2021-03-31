@@ -1,6 +1,6 @@
-theme: wowchemy-hugo-modules
+theme: starter-academic
 title: Watershed Ecology Team
-baseurl: '/'
+baseurl: 'https://smendero.github.io/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
@@ -68,5 +68,5 @@ related:
   toLower: yes
 module:
   imports:
-    - path: wowchemy-hugo-modules/wowchemy-cms
-    - path: wowchemy-hugo-modules/wowchemy
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy

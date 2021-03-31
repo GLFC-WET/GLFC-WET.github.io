@@ -7,13 +7,38 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+require(blogdown)
+```
+
+## Website Basis
+
+The website skeleton is adapted from the wowchemy academic-starter theme. Which can be downloaded below.
+
+```{r update_hugo}
+## Make sure you have most recent version of hugo installed
+
+blogdown::new_site(theme = "wowchemy/starter-academic", sample=TRUE)
+
+```
+
+Initial example site used as basis, then modifications made to css, js and html to allow for pages to be made in the required ways.
+
+## Make sure you have most recent version of hugo installed
+
+```{r update_hugo}
+blogdown::hugo_version()
+## if you don't have the newest, update
+blogdown::install_hugo()
+## update options for new version
+options(blogdown.hugo.version = "0.82.0")
+
 ```
 
 ## Create a version of the website for the web
 
 
 ```{r publish}
-blogdown::build_site(local=FALSE, build_rmd = TRUE)
+blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)
 ```
 
 ## Including Plots

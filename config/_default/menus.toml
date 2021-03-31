@@ -5,43 +5,43 @@
 
 [[main]]
   name = "About Us"
-  url = "/#landing"
+  url = "#landing"
   weight = 10
 
 [[main]]
   name = "WET lab posts"
-  url = "/#social_feed"
+  url = "#social_feed"
   weight = 20
   
 [[main]]
   name = "People"
-  url = "/#people"
+  url = "#people"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "/#publications"
+  url = "#publications"
   weight = 50
   
 [[main]]
   name = "Talks"
-  url = "/#talks"
+  url = "#talks"
   weight = 40
 
 [[main]]
   name = "Tools and Tutorials"
-  url = "/#posts"
+  url = "#posts"
   weight = 60
 
 [[main]]
   name = "Projects"
-  url = "/#projects"
+  url = "#projects"
   weight = 70
 
 
 [[main]]
   name = "Contact"
-  url = "/#contact"
+  url = "#contact"
   weight = 80
   
   

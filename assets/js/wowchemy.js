@@ -7,7 +7,7 @@
 
 import mediumZoom from './_vendor/medium-zoom.esm';
 import {hugoEnvironment, codeHighlighting, searchEnabled} from '@params';
-import {fixMermaid, scrollParentToChild} from './wowchemy-utils';
+import {scrollParentToChild} from './wowchemy-utils';
 import {
   changeThemeModeClick,
   initThemeVariation,
@@ -105,7 +105,7 @@ $('#navbar-main li.nav-item a.nav-link, .js-scroll').on('click', function (event
     // Uncomment to debug.
     // let scrollTop = $(window).scrollTop();
     // let scrollDelta = (elementOffset - scrollTop);
-    // console.debug('Scroll Delta: ' + scrollDelta);
+    // console.debug('Scroll Delta: ' + scrollDelta);F
 
     $('html, body').animate(
       {
@@ -423,17 +423,16 @@ function getSiblings(elem) {
 
 $(document).ready(function () {
   fixHugoOutput();
-  fixMermaid();
+
+  // Render theme variation, including any HLJS and Mermaid themes.
+  let {isDarkTheme, themeMode} = initThemeVariation();
+  renderThemeVariation(isDarkTheme, themeMode, true);
 
   // Initialise code highlighting if enabled for this page.
   // Note: this block should be processed after the Mermaid code-->div conversion.
   if (codeHighlighting) {
     hljs.initHighlighting();
   }
-
-  // Render theme variation, including any HLJS and Mermaid themes.
-  let {isDarkTheme, themeMode} = initThemeVariation();
-  renderThemeVariation(isDarkTheme, themeMode, true);
 
   // Scroll Book page's active menu sidebar link into view.
   let child = document.querySelector('.docs-links .active');
