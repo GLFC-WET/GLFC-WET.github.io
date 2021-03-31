@@ -13,7 +13,7 @@
   width: 20%;
   background: $sta-menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-  font-size: #{$sta-font-size-small}px;
+  font-size: #{$sta-font-size-small*0.075}rem;
   position: fixed;
   top: 0;
   right: 0;
@@ -163,12 +163,8 @@
 // See https://caniuse.com/#feat=mdn-css_properties_width_stretch .
 .navbar-brand img {
   height: auto;
-  width: -moz-available;
-  width: -webkit-fill-available;
-  width: -webkit-stretch;
-  width: stretch;
-  max-width: 100%; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
-  max-width: fit-content; // Must override default responsive image style.
+  width: 15rem;
+
 }
 
 #navbar-main .main-menu-item ul li .nav-link {
@@ -183,32 +179,33 @@
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
     position: absolute;
-    top: 0;
-    bottom: 0;
+    right: 5px;
+    bottom: 0px;
   }
   .navbar-brand {
     // Center logo in mobile navbar.
-    margin: 0 auto;
+    margin: 0px auto;
   }
   .navbar-brand img {
-    max-width: 100%; // 40px height + 10px v-padding = 50px.
+    max-width: 80%; // 40px height + 10px v-padding = 50px.
   }
   .navbar-toggler {
     border-color: transparent; // Remove Bootstrap's border from Toggle button.
   }
   #navbar-main .main-menu-item {
     text-align: left !important;
-    padding-top: 0;
+    padding-top: 0%;
   }
   .navbar-collapse {
     z-index: 1031 !important; // Appear just over navbar.
     position: absolute;
-    top: 21%;
+    top: 0px;
     left: 0px;
     height: 80%;
     width: 20%;
     background-color: $sta-menu-primary;
     text-align: center !important;
+    font-size: #{$sta-font-size-small *0.075}rem;
   }
   .dark .navbar-collapse {
     background-color: $sta-dark-menu-primary;

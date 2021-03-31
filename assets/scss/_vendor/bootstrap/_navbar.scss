@@ -26,7 +26,7 @@
   // Because flex properties aren't inherited, we need to redeclare these first
   // few properties so that content nested within behave properly.
   %container-flex-properties {
-    display: inline;
+    display: inline-block;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
@@ -172,7 +172,7 @@
       }
 
       @include media-breakpoint-up($next) {
-        flex-flow: column nowrap;
+        flex-flow: row nowrap;
         justify-content: flex-start;
 
         .navbar-nav {
