@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "Forest"
+theme = "my_theme"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -22,7 +22,7 @@ day_night = false
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "my_font_set"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1219 Queen Street", city = "Sault Ste. Marie", region = "ON", postcode = "P6A 2E5", country = "Canada", country_code = "CA"}
+address = {street = "Great Lakes Forestry Centre, 1219 Queen Street East", city = "Sault Ste. Marie", region = "ON", postcode = "P6A 2E5", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -105,7 +105,7 @@ coordinates = {latitude = "46.50381", longitude = "-84.30450"}
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "meeple.jpg"
+sharing_image = "logo.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "wet_erik"

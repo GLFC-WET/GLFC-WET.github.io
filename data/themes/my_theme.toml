@@ -1,0 +1,25 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+is_light = true
+
+# Primary
+primary = "#262262"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#262262"
+menu_text_active = "#0d743b"
+menu_title = "#262262"
+
+# Links
+link = "#0d743b"
+link_hover = "#262262"
+link_decoration = "underline"
+
+# Home sections
+home_section_odd = "#fbfbfd"
+home_section_even = "#ffffff"
+
+font = "my_font_set"

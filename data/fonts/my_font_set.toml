@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+google_fonts = "Questrial|Quicksand|Anonymous+Pro"
+
+# Font families
+heading_font = "Questrial"
+body_font = "Quicksand"
+nav_font = "Questrial"
+mono_font = "Anonymous Pro"

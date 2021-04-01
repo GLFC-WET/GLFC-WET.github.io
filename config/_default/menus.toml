@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "WET lab posts"
+  name = "WET lab Instagram"
   url = "#social_feed"
   weight = 20
   
 [[main]]
-  name = "People"
+  name = "Meet the Team"
   url = "#people"
   weight = 30
 
@@ -27,17 +27,11 @@
   name = "Talks"
   url = "#talks"
   weight = 40
-
+  
 [[main]]
-  name = "Tools and Tutorials"
-  url = "#posts"
-  weight = 60
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Gallery"
+  url = "#gallery"
   weight = 70
-
 
 [[main]]
   name = "Contact"

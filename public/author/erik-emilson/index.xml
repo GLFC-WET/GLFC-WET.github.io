@@ -5,12 +5,20 @@
     <link>/author/erik-emilson/</link>
       <atom:link href="/author/erik-emilson/index.xml" rel="self" type="application/rss+xml" />
     <description>Erik Emilson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/erik-emilson/avatar_hudb837359f424afdc5a467ee4b5a7206d_528727_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Erik Emilson</title>
       <link>/author/erik-emilson/</link>
     </image>
+    
+    <item>
+      <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do biological effects accumulate spatially?</title>
+      <link>/publication/m-erdozain_ka-kidd_..._2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/m-erdozain_ka-kidd_..._2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do abiotic effects accumulate spatially?</title>
@@ -129,14 +137,6 @@
       <link>/publication/gl-lescord_ejs-emilson_ta-johnston_ba-branfireun_jm-gunn_2018/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/publication/gl-lescord_ejs-emilson_ta-johnston_ba-branfireun_jm-gunn_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPWD</title>
-      <link>/project/spwd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/spwd/</guid>
       <description></description>
     </item>
     

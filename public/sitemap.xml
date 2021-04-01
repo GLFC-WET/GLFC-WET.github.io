@@ -11,25 +11,52 @@
     <loc>/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/d.p.-kreutzweiser/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/erik-emilson/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/m-erdozain_ka-kidd_..._2021/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/k.a.-kidd/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/m.-erdozain/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/m.a.-gray/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/scott-capell/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/t.-luu/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/david-p-kreutzweiser/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/erik-emilson/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/m-erdozain_ka-kidd_ejs-emilson_ss-capell_dp-kreutzweiser_ma-gray_2021/</loc>
@@ -42,15 +69,6 @@
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/michelle-a-gray/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/scott-capell/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/jeffrey-d-muehlbauer/</loc>
@@ -362,15 +380,6 @@
     <loc>/author/veronique-martel/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/emily_smenderovac/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/silly-walks/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/john-m-gunn/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -557,8 +566,6 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/tag/demo/</loc>
-  </url><url>
     <loc>/author/emily-smenderovac/</loc>
   </url><url>
     <loc>/author/erika-c.-freeman/</loc>
@@ -568,10 +575,6 @@
     <loc>/author/joe-schadenberg/</loc>
   </url><url>
     <loc>/author/mikkealla-hurley/</loc>
-  </url><url>
-    <loc>/project/</loc>
-  </url><url>
-    <loc>/project/spwd/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

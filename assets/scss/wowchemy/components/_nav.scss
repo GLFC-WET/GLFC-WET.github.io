@@ -187,7 +187,7 @@
     margin: auto auto;
   }
   .navbar-brand img {
-    max-width: 100%; // 40px height + 10px v-padding = 50px.
+    max-width: auto; // 40px height + 10px v-padding = 50px.
   }
   .navbar-toggler {
     border-color: transparent; // Remove Bootstrap's border from Toggle button.
