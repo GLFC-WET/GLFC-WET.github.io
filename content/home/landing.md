@@ -39,7 +39,7 @@ subtitle = ""
  css_class = ""
 +++
 
-We study the ecological changes in systems impacted by human activity (e.g., forestry, roads). 
+The Watershed Ecology Team is a research group at Natural Resource Canada's Great Lakes Forestry Centre in Sault Ste. Marie, Canada. 
+We study how aquatic ecosystem functions and services are influenced by watershed-scale processes, and the ways that forest disturbances and land management decisions influence these process and ecosystem responses. 
 
-Our group uses integrated approaches involving GIS, macro- and micro- biological indicators, and various water chemistry indicators to explain how human impacts on land relate to changes in the water.
-
+Our group integrates fine-scale microbial and molecular processes across spatial and temporal scales, to inform land-based resource management and policies to mitigate and avoid impacts on freshwater resources. 
