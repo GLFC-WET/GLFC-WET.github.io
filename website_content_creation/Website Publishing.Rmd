@@ -41,4 +41,8 @@ options(blogdown.hugo.version = "0.82.0")
 blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)
 ```
 
+## Publish to web
 
+On github, go to the pages section of the options on the website repository. Select the public folder as the folder to publish from. After this, updating the git repository after publishing will update the website.
+
+Caution: Make sure to delete and replace the public folder when re-publishing to ensure all content is overwritten!
