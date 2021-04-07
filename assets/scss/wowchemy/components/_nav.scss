@@ -163,7 +163,8 @@
 // See https://caniuse.com/#feat=mdn-css_properties_width_stretch .
 .navbar-brand img {
   height: auto;
-  width: 15rem;
+  max-height: 30vh;
+  width: auto;
 
 }
 

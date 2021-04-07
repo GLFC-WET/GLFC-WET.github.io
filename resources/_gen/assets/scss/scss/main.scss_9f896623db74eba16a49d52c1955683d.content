@@ -8186,7 +8186,8 @@ a.summary-link {
 
 .navbar-brand img {
   height: auto;
-  width: 15rem; }
+  max-height: 30vh;
+  width: auto; }
 
 #navbar-main .main-menu-item ul li .nav-link {
   color: #262262; }
