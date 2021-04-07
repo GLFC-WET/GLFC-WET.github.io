@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Our Research"
+  url = "#infographic"
+  weight = 15
+  
+[[main]]
   name = "WET lab Instagram"
   url = "#social_feed"
   weight = 20
