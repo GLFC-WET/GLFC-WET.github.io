@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
 share: false
-title: Privacy Policy
+title: "Logo created by Amanda Roe"
 ---
 
-...
+Many thanks to Amanda Roe for developing our fantastic Logo.
