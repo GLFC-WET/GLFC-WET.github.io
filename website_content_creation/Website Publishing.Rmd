@@ -14,7 +14,7 @@ require(blogdown)
 
 The website skeleton is adapted from the wowchemy academic-starter theme. Which can be downloaded below.
 
-```{r update_hugo}
+```{r create_site, eval=FALSE}
 ## Make sure you have most recent version of hugo installed
 
 blogdown::new_site(theme = "wowchemy/starter-academic", sample=TRUE)
@@ -43,6 +43,6 @@ blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)
 
 ## Publish to web
 
-On github, go to the pages section of the options on the website repository. Select the public folder as the folder to publish from. After this, updating the git repository after publishing will update the website.
+On github, go to the pages section of the options on the website repository. Select the docs folder as the folder to publish from. After this, updating the git repository after publishing will update the website.
 
 Caution: Make sure to delete and replace the public folder when re-publishing to ensure all content is overwritten!
