@@ -39,7 +39,8 @@ subtitle = ""
  css_class = ""
 +++
 
-The Watershed Ecology Team is a research group at Natural Resource Canada's Great Lakes Forestry Centre in Sault Ste. Marie, Canada. 
+**The Watershed Ecology Team is a research group at Natural Resource Canada's Great Lakes Forestry Centre in Sault Ste. Marie, Canada.**
+
 We study how aquatic ecosystem functions and services are influenced by watershed-scale processes, and the ways that forest disturbances and land management decisions influence these process and ecosystem responses. 
 
 Our group integrates fine-scale microbial and molecular processes across spatial and temporal scales, to inform land-based resource management and policies to mitigate and avoid impacts on freshwater resources. 

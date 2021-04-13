@@ -34,15 +34,25 @@ options(blogdown.hugo.version = "0.82.0")
 
 ```
 
-## Create a version of the website for the web
+## Updating and Adding content
 
+Two helper scripts have been written to help make the periodic updating of website content easier. These are located in the website_content_creation folder, along with folders containing images and author form submissions. 
+
+
+## Build the website for hosting on github
 
 ```{r publish}
 blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)
 ```
 
+After building the site with hugo, rename the public folder to 'docs'.
+
+
+**Caution: Make sure to delete and replace the docs folder when re-publishing to ensure all content is overwritten!**
+
+
 ## Publish to web
 
-On github, go to the pages section of the options on the website repository. Select the docs folder as the folder to publish from. After this, updating the git repository after publishing will update the website.
+On github, go to the pages section of the settings for the website repository. Select the docs folder as the folder to publish from. After this, updating the git repository after publishing and renaming the docs folder will update the website.
 
-Caution: Make sure to delete and replace the public folder when re-publishing to ensure all content is overwritten!
+
