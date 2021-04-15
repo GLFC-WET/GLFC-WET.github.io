@@ -37,7 +37,7 @@ authors:
 - J_Lavigne
 ---
 
-Supervised by: Nathan Basiliko
+Supervised by: Nathan Basiliko and Peter Beckett
 
 
 
