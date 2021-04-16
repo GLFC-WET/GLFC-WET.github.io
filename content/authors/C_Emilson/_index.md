@@ -29,6 +29,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.researchgate.net/profile/Caroline-Emilson
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=RkiCnGIAAAAJ&hl=en&oi=ao
 superuser: false
 title: Caroline Emilson
 user_groups: [WETlab Contributors from the GLFC]
@@ -41,3 +44,5 @@ authors:
 Ecologist specializing in environmental genomics and microbial ecology.
 
 I am an ecologist specializing in environmental genomics and microbial ecology. My current research interests include exploring the influence of forest management on microbal communities and overall ecosystem health, and exploring the utility of the many available molecular and microbial based tools for forest ecosystem assessment and monitoring.
+
+[Google Scholar](https://scholar.google.com/citations?user=RkiCnGIAAAAJ&hl=en&oi=ao)

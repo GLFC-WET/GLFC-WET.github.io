@@ -1,5 +1,5 @@
 --- 
-bio: Both field and lab work environmental effects
+bio: Environmental Technician for both field and lab work on environmental effects
 education:
   courses:
   - course: Forestry Technician
@@ -31,6 +31,8 @@ authors:
 
 
 
-Both field and lab work environmental effects
+Environmental Technician for both field and lab work on environmental effects
+
+
 
 

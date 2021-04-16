@@ -43,3 +43,5 @@ authors:
 Trained in microbial ecology and bioinformatic analysis of community datasets.
 
 I completed my M.Sc. Forestry studying microbial community structures in coarse woody residues and harvesting impacted soils from sites in Ontario, Canada.  I enjoy R coding, troubleshooting and teaching, lab work and, field work.
+
+

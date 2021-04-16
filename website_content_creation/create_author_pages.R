@@ -70,12 +70,14 @@ for(cur_dir in directories){
                                                              basicinf["github"], sep="") }    
         if(!is.na(basicinf["LinkedIN"])){social_yaml <- paste(social_yaml, "\n- icon: linkedin\n  icon_pack: fab\n  link: ", 
                                                             basicinf["LinkedIN"], sep="") } 
+        if(!is.na(basicinf["Google Scholar"])){social_yaml <- paste(social_yaml, "\n- icon: google-scholar\n  icon_pack: ai\n  link: ", 
+                                                              gsub("\u202a|\u202c", "", basicinf["Google Scholar"]), sep="") }
  
         auth_code <- str_c(str_extract(str_split(trimws(basicinf['name']), " ")[[1]][1], "^."), str_split(trimws(basicinf['name']), " ")[[1]][length(str_split(trimws(basicinf['name']), " ")[[1]])], sep="_")
         
         usergroups <- ifelse("Groups" %in% names(basicinf), paste("[",basicinf['Groups'], "]", sep=""), "[NEEDS UPDATING]")
         
-        Supervisor_statement <- ifelse("Academic Supervisor (for students)" %in% names(basicinf), paste("Supervised by: ", basicinf["Academic Supervisor (for students)"], "\n\n", sep= ""), "")
+        Supervisor_statement <- ifelse(!is.na(basicinf["Academic Supervisor (for students)"]) & "Academic Supervisor (for students)" %in% names(basicinf), paste("Supervised by: ", basicinf["Academic Supervisor (for students)"], "\n\n", sep= ""), "")
         
         ## Compile Yaml header
 
@@ -99,6 +101,9 @@ for(cur_dir in directories){
                      ifelse(!is.na(basicinf["Detail_Blurb"]),
                             basicinf["Detail_Blurb"],
                             ""), 
+                     ifelse(!is.na(basicinf["Google Scholar"]),
+                            paste("[Google Scholar](", gsub("\u202a|\u202c", "", basicinf["Google Scholar"]), ")", sep=""),
+                            ""),
                      sep="\n\n"),
                sep="")
         

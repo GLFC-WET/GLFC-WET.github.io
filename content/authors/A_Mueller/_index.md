@@ -31,10 +31,10 @@ authors:
 - A_Mueller
 ---
 
-Supervised by: NA
-
 
 
 I am an undergraduate student currently studying environmental biology at the University of Guelph. I became affiliated with Natural Resources Canada in my last year of high school as a co-op student and have since spent two summers working as a field and lab technician at the Great Lakes Forestry Centre. I am passionate about field studies in entomology and forest ecology. My interests also include any work involving the study of anthropogenic effects on the environment; my hope is to be involved in research that may lead to the implementation of policies that allow scientists to take remedial measures to reverse some of the damage humans have done to ecosystems within Canada.
+
+
 
 

@@ -29,6 +29,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/bkielstr
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?hl=en&inst=17001591832933267808&user=qaB6gp8AAAAJ
 superuser: false
 title: Brian Kielstra
 user_groups: [Watershed Ecology Team]
@@ -41,3 +44,5 @@ authors:
 I am a landscape/aquatic ecologist generally interested in the cumulative effects of landscape pattern and process on recipient waters
 
 
+
+[Google Scholar](https://scholar.google.ca/citations?hl=en&inst=17001591832933267808&user=qaB6gp8AAAAJ)

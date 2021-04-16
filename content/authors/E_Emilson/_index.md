@@ -33,6 +33,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ErikEmilson
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en&oi=ao
 superuser: false
 title: Erik Emilson
 user_groups: [Leadership]
@@ -45,3 +48,5 @@ authors:
 I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and distubances affect ecosystem functions in headwater streams and lakes.
 
 
+
+[Google Scholar](https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en&oi=ao)
