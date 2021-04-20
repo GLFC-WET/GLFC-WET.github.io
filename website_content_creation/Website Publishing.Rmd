@@ -6,13 +6,13 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
 require(blogdown)
 ```
 
 ## Website Basis
 
-The website skeleton is adapted from the wowchemy academic-starter theme. Which can be downloaded below.
+The website skeleton is adapted from the wowchemy academic-starter theme. Which can be downloaded using the code below.
 
 ```{r create_site, eval=FALSE}
 ## Make sure you have most recent version of hugo installed
@@ -21,9 +21,10 @@ blogdown::new_site(theme = "wowchemy/starter-academic", sample=TRUE)
 
 ```
 
-Initial example site used as basis, then modifications made to css, js and html to allow for pages to be made in the required ways.
+Initial example site was used as the basis for the website design, then modifications were made to the css, js and html to allow for our custom theme and layout. These modified files are in the `assets` folder.
 
-## Make sure you have most recent version of hugo installed
+
+Make sure you have most recent version of hugo installed.
 
 ```{r update_hugo}
 blogdown::hugo_version()
@@ -36,10 +37,36 @@ options(blogdown.hugo.version = "0.82.0")
 
 ## Updating and Adding content
 
-Two helper scripts have been written to help make the periodic updating of website content easier. These are located in the website_content_creation folder, along with folders containing images and author form submissions. 
+### Updating profiles and publications
+Two helper scripts have been written to help make the periodic updating of website content easier. These are located in the website_content_creation folder and are called `create_author_pages.R` and `populate_publication_info.R`, along with folders containing images and the author form/photo submissions are located in separate folders in website_content_creation/authors folder.
 
+Author submissions should consist of a completed author form and selected photo as jpeg or png inside a folder.
+
+### Updating Instagram
+
+- Go into the layouts/partials/widgets folder and open the Instagram_feed.html file in the editor. 
+- Select an instagram post to embed from the [WETlab instagram](https://www.instagram.com/wet_erik/)
+- On the post options (ellipses at top right of post), select 'Embed'
+- With 'Include caption' selected, click copy embed code
+- Replace the code *between* one of the `<div id="left"><\div>`, `<div id="center"><\div>` or `<div id="right"><\div>` pairs with the copied embed link
+- save the Instagram.html file rebuild and re-publish to activate the changes
+
+### Updating the Gallery
+
+Updating the gallery is fairly simple.
+
+- Select the photos you want to include in the gallery
+- Copy the images into the content/home/gallery/gallery folder
+- update the numbering of the image names to control the order of presentation (if required)
+- rebuild and re-publish to activate the changes
 
 ## Build the website for hosting on github
+
+You can have a live version of the website on your computer while you are implementing changes to the website. Use the `blogdown::serve_site()` in order to view the website on your computer to assist with editing, and to perform a double-check before you commit changes. 
+
+
+Once you are sure of your changes, run `blogdown::stop_server()` to shut of the website instance and build the website. You want to ensure you have removed the public folder before building, or else some of the files used for local serving could be retained, and they will stop the website from operating on the server.
+
 
 ```{r publish}
 blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)
@@ -53,6 +80,8 @@ After building the site with hugo, rename the public folder to 'docs'.
 
 ## Publish to web
 
-On github, go to the pages section of the settings for the website repository. Select the docs folder as the folder to publish from. After this, updating the git repository after publishing and renaming the docs folder will update the website.
+Push the changes you have made to the repository, this will update the website. 
+
+If it is the first time you publish, or if you are changing the website from private to public, go to the pages section of the github repository settings for the website repository. Select the docs folder as the folder to publish from. After this, updating the git repository after publishing and renaming the docs folder will update the website.
 
 
