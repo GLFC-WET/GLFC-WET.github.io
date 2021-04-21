@@ -21,7 +21,7 @@ blogdown::new_site(theme = "wowchemy/starter-academic", sample=TRUE)
 
 ```
 
-Initial example site was used as the basis for the website design, then modifications were made to the css, js and html to allow for our custom theme and layout. These modified files are in the `assets` folder.
+Initial example site was used as the basis for the website design, then modifications were made to the css, js and html to allow for our custom theme and layout. These modified files are in the `assets` folder. Instructions for some simple modifications can be found in the WOWCHEMY FAQ. 
 
 
 Make sure you have most recent version of hugo installed.
@@ -59,6 +59,17 @@ Updating the gallery is fairly simple.
 - Copy the images into the content/home/gallery/gallery folder
 - update the numbering of the image names to control the order of presentation (if required)
 - rebuild and re-publish to activate the changes
+
+### Updating Talks
+
+Steps to update the Talks page:
+
+- Make a copy of an existing talk in the content/event folder. 
+- Rename the folder
+- replace the featured.png with a new jpeg or png file that you want to use for the talk, make sure it is named "featured"
+- Update the index.md file in the folder
+        - update all the fields in the header (any blanks should be left as "")
+        - Replace the iframe code with the embed code from the video you wish to feature. You can pull the embed code from a facebook video by clicking the "embed" option from the menu accessible from the ellipses on the upper right of the video. 
 
 ## Build the website for hosting on github
 

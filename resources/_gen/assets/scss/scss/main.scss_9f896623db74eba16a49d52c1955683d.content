@@ -9476,3 +9476,58 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+iframe.instagram-media {
+  max-width: 100% !important;
+  width: 100% !important;
+  min-width: auto !important; }
+
+/* On higher resolutions, style for large screens */
+@media only screen and (min-width: 900px) {
+  .instagramcontainer #container {
+    height: 100%;
+    width: 100%;
+    font-size: 0; }
+  .instagramcontainer #left, .instagramcontainer #middle, .instagramcontainer #right {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+    font-size: 12px; }
+  .instagramcontainer #left {
+    width: 32%;
+    height: 100%;
+    background: white; }
+  .instagramcontainer #middle {
+    width: 32%;
+    height: 100%;
+    background: white; }
+  .instagramcontainer #right {
+    width: 32%;
+    height: 100%;
+    background: white; } }
+
+/*On larger resolutions, style for small screens*/
+@media only screen and (max-width: 900px) {
+  .instagramcontainer #container {
+    height: 100%;
+    width: 100%;
+    font-size: 0; }
+  .instagramcontainer #left, .instagramcontainer #middle, .instagramcontainer #right {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+    font-size: 12px; }
+  .instagramcontainer #left {
+    width: 100%;
+    height: 100%;
+    background: white; }
+  .instagramcontainer #middle {
+    width: 100%;
+    height: 100%;
+    background: white; }
+  .instagramcontainer #right {
+    width: 100%;
+    height: 100%;
+    background: white; } }
