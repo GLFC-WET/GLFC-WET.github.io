@@ -40,6 +40,8 @@ options(blogdown.hugo.version = "0.82.0")
 ### Updating profiles and publications
 Two helper scripts have been written to help make the periodic updating of website content easier. These are located in the website_content_creation folder and are called `create_author_pages.R` and `populate_publication_info.R`, along with folders containing images and the author form/photo submissions are located in separate folders in website_content_creation/authors folder.
 
+Always check the pages that are created with these scripts and correct YAML headers in the files where necessary. (Sometimes Google pubs has a weird author list)
+
 Author submissions should consist of a completed author form and selected photo as jpeg or png inside a folder.
 
 ### Updating Instagram
