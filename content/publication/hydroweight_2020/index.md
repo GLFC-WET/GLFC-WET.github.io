@@ -10,7 +10,7 @@ projects: [R Packages]
 publication: '*zenodo*'
 publication_short: ''
 publication_types:
-- "2"
+- "0"
 publishDate: '2021-04-29T00:00:00Z'
 title: 'hydroweight: Inverse distance-weighted rasters and landscape attributes'
 url_code: "https://github.com/bkielstr/hydroweight/tree/v1.0.0"
