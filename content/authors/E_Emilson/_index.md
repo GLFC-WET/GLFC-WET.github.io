@@ -1,5 +1,5 @@
 --- 
-bio: I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and distubances affect ecosystem functions in headwater streams and lakes.
+bio: I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
 education:
   courses:
   - course: PhD Boreal Ecology
