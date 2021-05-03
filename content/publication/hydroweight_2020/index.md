@@ -2,9 +2,9 @@
 abstract: "hydroweight calculates landscape attributes based on distances to waterbodies — areas nearby have more influence than those farther away (i.e., inverse distance-weighting). We implement various scenarios described by Peterson et al. (2011) that include different types of straight-line and flow-path distances to waterbodies. hydroweight provides a set of simple and flexible functions to accommodate a wider set of scenarios and statistics (e.g., numerical and categorical raster and polygon inputs) in R using WhiteboxTools spatial software"
 authors: 
 -  B_Kielstra
--  E_Emilson
 -  Rob Mackereth
 -  Stephanie Melles
+-  E_Emilson
 featured: true
 projects: [R Packages]
 publication: '*zenodo*'
