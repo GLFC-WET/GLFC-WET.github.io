@@ -2,13 +2,13 @@
 # A "Meet the Team" section created with the People widget.
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "landing"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1
 # Order that this section will appear.
 
-title = "About Us"
+title = ""
 subtitle = ""
   
 [design.background]
@@ -44,3 +44,4 @@ subtitle = ""
 We study how aquatic ecosystem functions and services are influenced by watershed-scale processes, and the ways that forest disturbances and land management decisions influence these process and ecosystem responses. 
 
 Our group integrates fine-scale microbial and molecular processes across spatial and temporal scales, to inform land-based resource management and policies to mitigate and avoid impacts on freshwater resources. 
+
