@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Kielstra | Watershed Ecology Team</title>
+    <link>/author/brian-kielstra/</link>
+      <atom:link href="/author/brian-kielstra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Kielstra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/brian-kielstra/avatar_hu9c24ef7a8a13cbac8b8820a921ee561a_66800_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Brian Kielstra</title>
+      <link>/author/brian-kielstra/</link>
+    </image>
+    
+    <item>
+      <title>hydroweight: Inverse distance-weighted rasters and landscape attributes</title>
+      <link>/publication/hydroweight_2020/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hydroweight_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cumulative and comparative effects of disturbances on fish contamination across managed forest landscapes</title>
+      <link>/talk/cumulative-and-comparative-effects-of-disturbances-on-fish-contamination-across-managed-forest-landscapes/</link>
+      <pubDate>Fri, 27 Nov 2020 08:00:00 +0000</pubDate>
+      <guid>/talk/cumulative-and-comparative-effects-of-disturbances-on-fish-contamination-across-managed-forest-landscapes/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FGLFC.CFS%2Fvideos%2F223379869204279%2F&amp;show_text=false&amp;width=560&#34; width=&#34;800&#34; height=&#34;600&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

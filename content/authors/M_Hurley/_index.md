@@ -5,7 +5,7 @@ education:
   - course: Fish and Wildlife Conservation Technician
     institution: Sault College
     year: 2019
-  - course: BSc. Zoology
+  - course: B.Sc. Zoology
     institution: Laurentian University
     year: 2016
 email: "mhurley@laurentian.ca"

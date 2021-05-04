@@ -2,10 +2,10 @@
 bio: Trained in microbial ecology and bioinformatic analysis of community datasets.
 education:
   courses:
-  - course: MSc Forestry
+  - course: M.Sc. Forestry
     institution: University of Toronto
     year: 2014
-  - course: BSc Microbiology (Co-op)
+  - course: B.Sc. Microbiology (Co-op)
     institution: University of Guelph
     year: 2012
 email: "emily.smenderovac@canada.ca"

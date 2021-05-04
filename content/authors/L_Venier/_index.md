@@ -2,16 +2,16 @@
 bio: I research biota (large and small) as indicators of sustaniable forest management
 education:
   courses:
-  - course: PhD Landscape Ecology
+  - course: Ph.D. Landscape Ecology
     institution: Carleton University, Ottawa
     year: 1996
-  - course: MSc Behavioural Ecology
+  - course: M.Sc. Behavioural Ecology
     institution: Queens University, Kingston
     year: 1991
-  - course: B Ed Education
+  - course: B.Ed. Education
     institution: Queens University, Kingston
     year: 1989
-  - course: BSc
+  - course: B.Sc.
     institution: Queens University, Kingston
     year: 1988
 email: "lisa.venier@canada.ca"

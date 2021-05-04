@@ -2,10 +2,10 @@
 bio: Ecologist specializing in environmental genomics and microbial ecology.
 education:
   courses:
-  - course: MSc Biology
+  - course: M.Sc. Biology
     institution: Laurentian University
     year: 2014
-  - course: BSc Terrestrial & Aquatic Eology (Honours)
+  - course: B.Sc. Terrestrial & Aquatic Eology (Honours)
     institution: Laurentian University /University of Helsinki
     year: 2012
 email: "caroline.emilson@canada.ca"

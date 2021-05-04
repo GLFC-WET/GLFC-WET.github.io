@@ -2,13 +2,13 @@
 bio: I am a landscape/aquatic ecologist generally interested in the cumulative effects of landscape pattern and process on recipient waters
 education:
   courses:
-  - course: PhD Forestry
+  - course: Ph.D. Forestry
     institution: University of British Columbia (Richardson)
     year: 2020
-  - course: MSc Biology
+  - course: M.Sc. Biology
     institution: Queen's University (Arnott and Gunn)
     year: 2014
-  - course: BSc Environmental Science
+  - course: B.Sc. Environmental Science
     institution: University of Guelph (Natural Resources Management Co-op)
     year: 2010
 email: "brian.kielstra@canada.ca"

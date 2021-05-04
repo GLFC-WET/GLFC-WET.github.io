@@ -6,7 +6,6 @@ interests:
 - Microbial ecology
 - Environmental genomics
 - Forest management
-- R Programming
 highlight_name: false
 organizations:
 - name: Great Lakes Forestry Centre, Natural Resources Canada

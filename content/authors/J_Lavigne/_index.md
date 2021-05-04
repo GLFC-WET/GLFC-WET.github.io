@@ -2,13 +2,13 @@
 bio: NA
 education:
   courses:
-  - course: PhD Boreal Ecology
+  - course: Ph.D. Boreal Ecology
     institution: Laurentian University
     year: 2020-
-  - course: MSc Biology
+  - course: M.Sc. Biology
     institution: Laurentian University
     year: 2020
-  - course: BSc Environmental Science
+  - course: B.Sc. Environmental Science
     institution: Laurentian University
     year: 2017
 email: "jlavigne1@laurentian.ca"
@@ -22,7 +22,7 @@ organizations:
   url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
 - name: Living with Lakes Centre, Laurentian University
   url: Vale Living with Lakes Centre (laurentian.ca)
-role: PhD Student, Laurentian University
+role: Ph.D. Student, Laurentian University
 social:
 - icon: envelope
   icon_pack: fas

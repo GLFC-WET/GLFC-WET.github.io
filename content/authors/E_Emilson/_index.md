@@ -2,13 +2,13 @@
 bio: I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
 education:
   courses:
-  - course: PhD Boreal Ecology
+  - course: Ph.D. Boreal Ecology
     institution: Laurentian University
     year: 2014
-  - course: MSc Biology
+  - course: M.Sc. Biology
     institution: Laurentian University
     year: 2009
-  - course: BSc Marine and Freshwater Biology
+  - course: B.Sc. Marine and Freshwater Biology
     institution: University of Guelph
     year: 2005
 email: "erik.emilson@canada.ca"
@@ -45,7 +45,7 @@ authors:
 
 
 
-I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and distubances affect ecosystem functions in headwater streams and lakes.
+I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
 
 
 

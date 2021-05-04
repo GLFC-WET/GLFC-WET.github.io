@@ -2,13 +2,13 @@
 bio: NA
 education:
   courses:
-  - course: PhD Plant Sciences
+  - course: Ph.D. Plant Sciences
     institution: Cambridge University
     year: 2018-
-  - course: MSc Geography
+  - course: M.Sc. Geography
     institution: Western University
     year: 2018
-  - course: BSc Environmental Science, Geographic Information Science (coop)
+  - course: B.Sc. Environmental Science, Geographic Information Science (coop)
     institution: Western University
     year: 2016
 email: "erika.freem@gmail.com"
@@ -24,7 +24,7 @@ organizations:
   url: https://www.plantsci.cam.ac.uk/directory/freeman-erika
 - name: Gates Cambridge
   url: https://www.gatescambridge.org/biography/14622/
-role: PhD Student, Cambridge University
+role: Ph.D. Student, Cambridge University
 social:
 - icon: envelope
   icon_pack: fas

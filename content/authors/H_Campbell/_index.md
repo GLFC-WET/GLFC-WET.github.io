@@ -2,7 +2,7 @@
 bio: I enjoy babbling brooks and hilltop views, for science of course.
 education:
   courses:
-  - course: BSc Environment and Natural Resources
+  - course: B.Sc. Environment and Natural Resources
     institution: University of New Brunswick
     year: 2018
 email: "hcampbell@forestprotectionlimited.com"
