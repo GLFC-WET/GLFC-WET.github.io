@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 140
 
 title: Gallery
-subtitle:
+subtitle: 'A collection of photos from the Watershed Ecology Team'
 ---
 
 {{< gallery >}}
