@@ -22,7 +22,7 @@ authors:
 -  Iyad Kandalaft
 -  Izhar UH Khan
 -  Ian King
--  David Kreutzweiser
+-  D_Kreutzweiser
 -  David Lapen
 -  John Lawrence
 -  Christine Lowe

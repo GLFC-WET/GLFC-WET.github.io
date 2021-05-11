@@ -5,7 +5,7 @@ authors:
 -  Karen A Kidd
 -  E_Emilson
 -  S_Capell
--  David P Kreutzweiser
+-  D_Kreutzweiser
 -  Michelle A Gray
 featured: false
 projects: []

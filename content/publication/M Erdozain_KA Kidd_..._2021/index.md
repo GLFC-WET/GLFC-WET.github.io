@@ -6,7 +6,7 @@ authors:
 -  E_Emilson
 -  S_Capell
 -  T. Luu
--  D.P. Kreutzweiser
+-  D_Kreutzweiser
 -  M.A. Gray
 featured: false
 projects: []
