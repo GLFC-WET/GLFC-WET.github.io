@@ -85,7 +85,7 @@ Once you are sure of your changes, run `blogdown::stop_server()` to shut of the 
 blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)
 ```
 
-After building the site with hugo, rename the public folder to 'docs'.
+After building the site with hugo, rename the public folder to 'docs'. Also, copy the googlec81053d42a342e11.html into the docs folder for website tracking.
 
 
 **Caution: Make sure to delete and replace the docs folder when re-publishing to ensure all content is overwritten!**

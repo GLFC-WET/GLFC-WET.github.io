@@ -230,7 +230,7 @@ options(blogdown.hugo.version = &quot;0.82.0&quot;)</code></pre>
 <p>You can have a live version of the website on your computer while you are implementing changes to the website. Use the <code>blogdown::serve_site()</code> in order to view the website on your computer to assist with editing, and to perform a double-check before you commit changes.</p>
 <p>Once you are sure of your changes, run <code>blogdown::stop_server()</code> to shut of the website instance and build the website. You want to ensure you have removed the public folder before building, or else some of the files used for local serving could be retained, and they will stop the website from operating on the server.</p>
 <pre class="r"><code>blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)</code></pre>
-<p>After building the site with hugo, rename the public folder to ‘docs’.</p>
+<p>After building the site with hugo, rename the public folder to ‘docs’. Also, copy the googlec81053d42a342e11.html into the docs folder for website tracking.</p>
 <p><strong>Caution: Make sure to delete and replace the docs folder when re-publishing to ensure all content is overwritten!</strong></p>
 </div>
 <div id="publish-to-web" class="section level2">
