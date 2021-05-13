@@ -37,7 +37,7 @@ font_size = "M"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Research"
+site_type = "Organization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Watershed Ecology Team, Natural Resources Canada"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Watershed Ecology Team"
+description = "The Watershed Ecology Team is a research group at Natural Resource Canada's Great Lakes Forestry Centre in Sault Ste. Marie, Canada. We study how aquatic ecosystem functions and services are influenced by watershed-scale processes, and the ways that forest disturbances and land management decisions influence these process and ecosystem responses."
 
 ############################
 ## Site Features
