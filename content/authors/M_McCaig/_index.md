@@ -8,7 +8,7 @@ education:
   - course: B.Sc. Environmental Science
     institution: University of Ottawa
     year: 2017
-email: "madison.mccaig@canada.ca"
+email: "mccaigml@mcmaster.ca"
 interests:
 - Aquatic Ecology
 - Forest Health
