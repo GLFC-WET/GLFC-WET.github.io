@@ -16,6 +16,8 @@ highlight_name: false
 organizations:
 - name: University of Guelph
   url: https://www.uoguelph.ca/
+- name: Great Lakes Forestry Centre, Natural Resources Canada
+  url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
 role: Summer Student Technician
 social:
 - icon: envelope

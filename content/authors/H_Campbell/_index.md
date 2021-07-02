@@ -27,7 +27,7 @@ social:
   link: www.linkedin.com/in/holly-campbell
 superuser: false
 title: Holly Campbell
-user_groups: [Watershed Ecology Team]
+user_groups: [Past WETlab Members]
 authors:
 - H_Campbell
 ---
