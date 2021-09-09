@@ -72,6 +72,8 @@ for(cur_dir in directories){
                                                             basicinf["LinkedIN"], sep="") } 
         if(!is.na(basicinf["Google Scholar"])){social_yaml <- paste(social_yaml, "\n- icon: google-scholar\n  icon_pack: ai\n  link: ", 
                                                               gsub("\u202a|\u202c", "", basicinf["Google Scholar"]), sep="") }
+        if(!is.na(basicinf["OrcID"])){social_yaml <- paste(social_yaml, "\n- icon: orcid\n  icon_pack: ai\n  link: ", 
+                                                                    gsub("\u202a|\u202c", "", paste0("https://orcid.org/", basicinf["OrcID"])), sep="") }
  
         auth_code <- str_c(str_extract(str_split(trimws(basicinf['name']), " ")[[1]][1], "^."), str_split(trimws(basicinf['name']), " ")[[1]][length(str_split(trimws(basicinf['name']), " ")[[1]])], sep="_")
         

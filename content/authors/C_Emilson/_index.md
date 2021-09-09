@@ -32,6 +32,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RkiCnGIAAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4770-1117
 superuser: false
 title: Caroline Emilson
 user_groups: [WETlab Contributors from the GLFC]

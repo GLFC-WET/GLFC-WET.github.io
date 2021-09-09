@@ -28,7 +28,7 @@ social:
   link: linkedin.com/in/ashley-mueller-2106891b4
 superuser: false
 title: Ashley Mueller
-user_groups: [Watershed Ecology Team]
+user_groups: [Past WETlab Members]
 authors:
 - A_Mueller
 ---

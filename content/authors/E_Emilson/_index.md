@@ -36,6 +36,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1516-9728
 superuser: false
 title: Erik Emilson
 user_groups: [Leadership]

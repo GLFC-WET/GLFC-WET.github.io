@@ -35,6 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/erikafreeman
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7161-6038
 superuser: false
 title: Erika C. Freeman
 user_groups: [Visiting and Co-supervised Students]

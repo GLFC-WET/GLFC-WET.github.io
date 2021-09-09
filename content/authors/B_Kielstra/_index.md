@@ -32,6 +32,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?hl=en&inst=17001591832933267808&user=qaB6gp8AAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1105-4971
 superuser: false
 title: Brian Kielstra
 user_groups: [Watershed Ecology Team]

@@ -28,6 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: lisa.venier@canada.ca
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7738-1361
 superuser: false
 title: Lisa Venier
 user_groups: [WETlab Contributors from the GLFC]
