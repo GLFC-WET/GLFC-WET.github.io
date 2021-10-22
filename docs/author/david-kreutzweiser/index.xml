@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Kreutzweiser | Watershed Ecology Team</title>
-    <link>/author/david-kreutzweiser/</link>
-      <atom:link href="/author/david-kreutzweiser/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glfc-wet.github.io/author/david-kreutzweiser/</link>
+      <atom:link href="https://glfc-wet.github.io/author/david-kreutzweiser/index.xml" rel="self" type="application/rss+xml" />
     <description>David Kreutzweiser</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/david-kreutzweiser/avatar_hu61c3510ff6430947e71ca8ae26f6157b_1271547_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glfc-wet.github.io/author/david-kreutzweiser/avatar_hu61c3510ff6430947e71ca8ae26f6157b_1271547_270x270_fill_q75_lanczos_center.jpg</url>
       <title>David Kreutzweiser</title>
-      <link>/author/david-kreutzweiser/</link>
+      <link>https://glfc-wet.github.io/author/david-kreutzweiser/</link>
     </image>
     
     <item>
       <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do biological effects accumulate spatially?</title>
-      <link>/publication/m-erdozain_ka-kidd_..._2021/</link>
+      <link>https://glfc-wet.github.io/publication/m-erdozain_ka-kidd_..._2021/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/m-erdozain_ka-kidd_..._2021/</guid>
+      <guid>https://glfc-wet.github.io/publication/m-erdozain_ka-kidd_..._2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do abiotic effects accumulate spatially?</title>
-      <link>/publication/m-erdozain_ka-kidd_ejs-emilson_ss-capell_dp-kreutzweiser_ma-gray_2021/</link>
+      <link>https://glfc-wet.github.io/publication/m-erdozain_ka-kidd_ejs-emilson_ss-capell_dp-kreutzweiser_ma-gray_2021/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/m-erdozain_ka-kidd_ejs-emilson_ss-capell_dp-kreutzweiser_ma-gray_2021/</guid>
+      <guid>https://glfc-wet.github.io/publication/m-erdozain_ka-kidd_ejs-emilson_ss-capell_dp-kreutzweiser_ma-gray_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ecobiomics project: Advancing metagenomics assessment of soil health and freshwater quality in Canada</title>
-      <link>/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</link>
+      <link>https://glfc-wet.github.io/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</guid>
+      <guid>https://glfc-wet.github.io/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</guid>
       <description></description>
     </item>
     

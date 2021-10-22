@@ -22,7 +22,9 @@ highlight_name: false
 organizations:
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
-role: Research Scientist, Watershed Ecology Team Lead
+- name: Canadian Journal of Forestry Research
+  url: https://cdnsciencepub.com/journal/cjfr/about/editorial-board
+role: Research Scientist, Watershed Ecology Team Lead, Associate Editor CJFR
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,8 +50,11 @@ authors:
 
 
 
-I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
+I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to understand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
 
 
 
 [Google Scholar](https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en&oi=ao)
+
+
+

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Lavigne | Watershed Ecology Team</title>
-    <link>/author/jonathan-lavigne/</link>
-      <atom:link href="/author/jonathan-lavigne/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glfc-wet.github.io/author/jonathan-lavigne/</link>
+      <atom:link href="https://glfc-wet.github.io/author/jonathan-lavigne/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Lavigne</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/author/jonathan-lavigne/avatar_hud5f2901b4251845c9ca87f2ec02bde8d_97329_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glfc-wet.github.io/author/jonathan-lavigne/avatar_hud5f2901b4251845c9ca87f2ec02bde8d_97329_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jonathan Lavigne</title>
-      <link>/author/jonathan-lavigne/</link>
+      <link>https://glfc-wet.github.io/author/jonathan-lavigne/</link>
     </image>
     
   </channel>

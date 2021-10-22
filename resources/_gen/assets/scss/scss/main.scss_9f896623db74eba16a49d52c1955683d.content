@@ -9550,3 +9550,18 @@ iframe.instagram-media {
 .landingstyle #right {
   width: 80%;
   height: 100%; }
+
+.mybtn {
+  background-color: #0d743b;
+  margin: 9px;
+  border: 0;
+  border-radius: 20px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px; }
+
+.mybtn:active {
+  background-color: #262262; }
