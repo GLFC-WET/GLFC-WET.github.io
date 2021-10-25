@@ -1,7 +1,7 @@
 --- 
 bio: NA
 
-email: "derek.chartrand@canada.ca"
+email: "derek.chartrand@NRCan-RNCan.gc.ca"
 interests:
 - Microbial ecology
 - Environmental genomics
@@ -14,7 +14,7 @@ role: Chemistry Lab Technician
 social:
 - icon: envelope
   icon_pack: fas
-  link: derek.chartrand@canada.ca
+  link: derek.chartrand@NRCan-RNCan.gc.ca
 superuser: false
 title: Derek Chartrand
 user_groups: [Watershed Ecology Team]

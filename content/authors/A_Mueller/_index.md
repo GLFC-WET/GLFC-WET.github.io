@@ -5,7 +5,7 @@ education:
   - course: Honours B.Sc. In Environmental Biology
     institution: University of Guelph
     year: 2023
-email: "ashley.mueller@canada.ca"
+email: "ashley.mueller@NRCan-RNCan.gc.ca"
 interests:
 - Indoor Rock Climbing
 - Cycling
@@ -22,7 +22,7 @@ role: Summer Student Technician
 social:
 - icon: envelope
   icon_pack: fas
-  link: ashley.mueller@canada.ca
+  link: ashley.mueller@NRCan-RNCan.gc.ca
 - icon: linkedin
   icon_pack: fab
   link: linkedin.com/in/ashley-mueller-2106891b4

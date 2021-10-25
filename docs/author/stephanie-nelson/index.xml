@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephanie Nelson | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/stephanie-nelson/</link>
-      <atom:link href="https://glfc-wet.github.io/author/stephanie-nelson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/stephanie-nelson/</link>
+      <atom:link href="/author/stephanie-nelson/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephanie Nelson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glfc-wet.github.io/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
       <title>Stephanie Nelson</title>
-      <link>https://glfc-wet.github.io/author/stephanie-nelson/</link>
+      <link>/author/stephanie-nelson/</link>
     </image>
     
     <item>
       <title>Turkey Lakes Watershed, Ontario, Canada: 40 years of interdisciplinary whole-ecosystem research</title>
-      <link>https://glfc-wet.github.io/publication/k-webster_j-leach_p-hazlett_r-fleming_e-emilson_d-houle_k-chan_..._2020/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/k-webster_j-leach_p-hazlett_r-fleming_e-emilson_d-houle_k-chan_..._2020/</guid>
+      <link>/publication/k-webster_j-leach_p-hazlett_r-fleming_e-emilson_d-houle_k-chan_..._2020/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/k-webster_j-leach_p-hazlett_r-fleming_e-emilson_d-houle_k-chan_..._2020/</guid>
       <description></description>
     </item>
     

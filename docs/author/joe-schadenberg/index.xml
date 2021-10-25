@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Schadenberg | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/joe-schadenberg/</link>
-      <atom:link href="https://glfc-wet.github.io/author/joe-schadenberg/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/joe-schadenberg/</link>
+      <atom:link href="/author/joe-schadenberg/index.xml" rel="self" type="application/rss+xml" />
     <description>Joe Schadenberg</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://glfc-wet.github.io/author/joe-schadenberg/avatar_hu5b6403e3bd9b8c11c510debedb91dd05_366001_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/joe-schadenberg/avatar_hu5b6403e3bd9b8c11c510debedb91dd05_366001_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Joe Schadenberg</title>
-      <link>https://glfc-wet.github.io/author/joe-schadenberg/</link>
+      <link>/author/joe-schadenberg/</link>
     </image>
     
   </channel>

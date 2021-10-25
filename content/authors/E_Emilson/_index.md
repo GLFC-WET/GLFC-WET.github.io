@@ -11,7 +11,7 @@ education:
   - course: B.Sc. Marine and Freshwater Biology
     institution: University of Guelph
     year: 2005
-email: "erik.emilson@canada.ca"
+email: "erik.emilson@NRCan-RNCan.gc.ca"
 interests:
 - Northern Forests
 - Watershed Ecology
@@ -28,7 +28,7 @@ role: Research Scientist, Watershed Ecology Team Lead, Associate Editor CJFR
 social:
 - icon: envelope
   icon_pack: fas
-  link: erik.emilson@canada.ca
+  link: erik.emilson@NRCan-RNCan.gc.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wet_erik?lang=en
@@ -50,11 +50,8 @@ authors:
 
 
 
-I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to understand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
+I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
 
 
 
 [Google Scholar](https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en&oi=ao)
-
-
-

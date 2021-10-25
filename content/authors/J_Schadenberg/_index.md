@@ -1,7 +1,7 @@
 --- 
 bio: NA
 
-email: "joe.schadenberg@canada.ca"
+email: "joe.schadenberg@NRCan-RNCan.gc.ca"
 interests:
 - Spatial data mapping and visualization
 - Forest health and succession
@@ -13,7 +13,7 @@ role: Watershed Analyst
 social:
 - icon: envelope
   icon_pack: fas
-  link: joe.schadenberg@canada.ca
+  link: joe.schadenberg@NRCan-RNCan.gc.ca
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joe-schadenberg/

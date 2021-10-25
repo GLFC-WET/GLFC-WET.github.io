@@ -14,7 +14,7 @@ education:
   - course: B.Sc.
     institution: Queens University, Kingston
     year: 1988
-email: "lisa.venier@canada.ca"
+email: "lisa.venier@NRCan-RNCan.gc.ca"
 interests:
 - Wildlife
 - Habitat
@@ -27,7 +27,7 @@ role: Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: lisa.venier@canada.ca
+  link: lisa.venier@NRCan-RNCan.gc.ca
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7738-1361

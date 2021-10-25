@@ -11,7 +11,7 @@ education:
   - course: B.Sc. Environmental Science
     institution: University of Guelph (Natural Resources Management Co-op)
     year: 2010
-email: "brian.kielstra@canada.ca"
+email: "brian.kielstra@NRCan-RNCan.gc.ca"
 interests:
 - Terrestrial-aquatic linkages
 - Spatial analysis
@@ -25,7 +25,7 @@ role: Cumulative Effects Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: brian.kielstra@canada.ca
+  link: brian.kielstra@NRCan-RNCan.gc.ca
 - icon: github
   icon_pack: fab
   link: https://github.com/bkielstr

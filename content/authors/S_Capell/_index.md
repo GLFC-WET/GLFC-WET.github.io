@@ -8,7 +8,7 @@ education:
   - course: Fish & Wildlife Technology
     institution: Sault College
     year: 1981
-email: "scott.capell@canada.ca"
+email: "scott.capell@NRCan-RNCan.gc.ca"
 interests:
 - Natural Environment
 - Water Quality
@@ -21,7 +21,7 @@ role: Environmental Technician
 social:
 - icon: envelope
   icon_pack: fas
-  link: scott.capell@canada.ca
+  link: scott.capell@NRCan-RNCan.gc.ca
 superuser: false
 title: Scott Capell
 user_groups: [Watershed Ecology Team]

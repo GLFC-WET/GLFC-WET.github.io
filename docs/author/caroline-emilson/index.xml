@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caroline Emilson | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/caroline-emilson/</link>
-      <atom:link href="https://glfc-wet.github.io/author/caroline-emilson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/caroline-emilson/</link>
+      <atom:link href="/author/caroline-emilson/index.xml" rel="self" type="application/rss+xml" />
     <description>Caroline Emilson</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glfc-wet.github.io/author/caroline-emilson/avatar_hue3dfce5a7a95967e27128fe51e2034e3_116194_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/caroline-emilson/avatar_hue3dfce5a7a95967e27128fe51e2034e3_116194_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Caroline Emilson</title>
-      <link>https://glfc-wet.github.io/author/caroline-emilson/</link>
+      <link>/author/caroline-emilson/</link>
     </image>
     
     <item>
       <title>Variations in terrestrial arthropod DNA metabarcoding methods recovers robust beta diversity but variable richness and site indicators</title>
-      <link>https://glfc-wet.github.io/publication/tm-porter_dm-morris_n-basiliko_m-hajibabaei_d-doucet_s-bowman_..._2019/</link>
+      <link>/publication/tm-porter_dm-morris_n-basiliko_m-hajibabaei_d-doucet_s-bowman_..._2019/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/tm-porter_dm-morris_n-basiliko_m-hajibabaei_d-doucet_s-bowman_..._2019/</guid>
+      <guid>/publication/tm-porter_dm-morris_n-basiliko_m-hajibabaei_d-doucet_s-bowman_..._2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ten-year assessment of the 100 priority questions for global biodiversity conservation</title>
-      <link>https://glfc-wet.github.io/publication/t-jucker_b-wintle_g-shackelford_p-bocquillon_jl-geffert_t-kasoar_..._2018/</link>
+      <link>/publication/t-jucker_b-wintle_g-shackelford_p-bocquillon_jl-geffert_t-kasoar_..._2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/t-jucker_b-wintle_g-shackelford_p-bocquillon_jl-geffert_t-kasoar_..._2018/</guid>
+      <guid>/publication/t-jucker_b-wintle_g-shackelford_p-bocquillon_jl-geffert_t-kasoar_..._2018/</guid>
       <description></description>
     </item>
     

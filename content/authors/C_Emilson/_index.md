@@ -8,7 +8,7 @@ education:
   - course: B.Sc. Terrestrial & Aquatic Eology (Honours)
     institution: Laurentian University /University of Helsinki
     year: 2012
-email: "caroline.emilson@canada.ca"
+email: "caroline.emilson@NRCan-RNCan.gc.ca"
 interests:
 - Microbial ecology
 - Environmental genomics
@@ -22,7 +22,7 @@ role: Molecular Ecologist/ Bioinformatician
 social:
 - icon: envelope
   icon_pack: fas
-  link: caroline.emilson@canada.ca
+  link: caroline.emilson@NRCan-RNCan.gc.ca
 - icon: github
   icon_pack: fab
   link: https://github.com/cemilson

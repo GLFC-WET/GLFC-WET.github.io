@@ -8,7 +8,7 @@ education:
   - course: B.Sc. Microbiology (Co-op)
     institution: University of Guelph
     year: 2012
-email: "emily.smenderovac@canada.ca"
+email: "emily.smenderovac@NRCan-RNCan.gc.ca"
 interests:
 - Microbiology
 - R
@@ -21,7 +21,7 @@ role: Forest Bioenergy Analyst
 social:
 - icon: envelope
   icon_pack: fas
-  link: emily.smenderovac@canada.ca
+  link: emily.smenderovac@NRCan-RNCan.gc.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Smendero?lang=en
