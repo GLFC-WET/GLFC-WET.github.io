@@ -22,7 +22,7 @@ role: Summer Student Technician
 social:
 - icon: envelope
   icon_pack: fas
-  link: ashley.mueller@NRCan-RNCan.gc.ca
+  link: mailto:ashley.mueller@NRCan-RNCan.gc.ca
 - icon: linkedin
   icon_pack: fab
   link: linkedin.com/in/ashley-mueller-2106891b4

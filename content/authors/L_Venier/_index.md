@@ -27,7 +27,7 @@ role: Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: lisa.venier@NRCan-RNCan.gc.ca
+  link: mailto:lisa.venier@NRCan-RNCan.gc.ca
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7738-1361

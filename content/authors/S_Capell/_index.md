@@ -21,7 +21,7 @@ role: Environmental Technician
 social:
 - icon: envelope
   icon_pack: fas
-  link: scott.capell@NRCan-RNCan.gc.ca
+  link: mailto:scott.capell@NRCan-RNCan.gc.ca
 superuser: false
 title: Scott Capell
 user_groups: [Watershed Ecology Team]

@@ -60,7 +60,7 @@ for(cur_dir in directories){
         #### Create social section ####
         social_yaml <- paste("social:")
         if(!is.na(basicinf["e-mail"])){social_yaml <- paste(social_yaml, "\n- icon: envelope\n  icon_pack: fas\n  link: ", 
-                                                            basicinf["e-mail"], sep="")}else{
+                                                            paste0("mailto:", basicinf["e-mail"]), sep="")}else{
                                                                     paste(social_yaml, "\n- icon: envelope\n  icon_pack: fas\n  link: /#contact", sep="") 
                                                             }
         if(!is.na(basicinf["Twitter"])){social_yaml <- paste(social_yaml, "\n- icon: twitter\n  icon_pack: fab\n  link: ", 

@@ -28,7 +28,7 @@ role: Research Scientist, Emeritus
 social:
 - icon: envelope
   icon_pack: fas
-  link: davek.636@gmail.com
+  link: mailto:davek.636@gmail.com
 superuser: false
 title: David Kreutzweiser
 user_groups: [Past WETlab Members]

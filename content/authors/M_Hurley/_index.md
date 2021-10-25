@@ -22,7 +22,7 @@ role: Research and Program Assistant
 social:
 - icon: envelope
   icon_pack: fas
-  link: mhurley@laurentian.ca
+  link: mailto:mhurley@laurentian.ca
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mikkealla-hurley-b24804122/

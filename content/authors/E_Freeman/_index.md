@@ -28,7 +28,7 @@ role: Ph.D. Student, Cambridge University
 social:
 - icon: envelope
   icon_pack: fas
-  link: erika.freem@gmail.com
+  link: mailto:erika.freem@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/echfree

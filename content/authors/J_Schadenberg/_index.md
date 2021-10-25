@@ -13,7 +13,7 @@ role: Watershed Analyst
 social:
 - icon: envelope
   icon_pack: fas
-  link: joe.schadenberg@NRCan-RNCan.gc.ca
+  link: mailto:joe.schadenberg@NRCan-RNCan.gc.ca
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joe-schadenberg/

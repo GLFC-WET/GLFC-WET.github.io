@@ -28,7 +28,7 @@ role: Research Scientist, Watershed Ecology Team Lead, Associate Editor CJFR
 social:
 - icon: envelope
   icon_pack: fas
-  link: erik.emilson@NRCan-RNCan.gc.ca
+  link: mailto:erik.emilson@NRCan-RNCan.gc.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wet_erik?lang=en

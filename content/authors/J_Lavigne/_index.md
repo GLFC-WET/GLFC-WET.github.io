@@ -26,7 +26,7 @@ role: Ph.D. Student, Laurentian University
 social:
 - icon: envelope
   icon_pack: fas
-  link: jlavigne1@laurentian.ca
+  link: mailto:jlavigne1@laurentian.ca
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jonathan-lavigne-51b57913b/?originalSubdomain=ca

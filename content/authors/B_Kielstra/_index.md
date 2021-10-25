@@ -25,7 +25,7 @@ role: Cumulative Effects Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: brian.kielstra@NRCan-RNCan.gc.ca
+  link: mailto:brian.kielstra@NRCan-RNCan.gc.ca
 - icon: github
   icon_pack: fab
   link: https://github.com/bkielstr

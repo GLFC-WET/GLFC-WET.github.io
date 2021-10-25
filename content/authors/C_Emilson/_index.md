@@ -22,7 +22,7 @@ role: Molecular Ecologist/ Bioinformatician
 social:
 - icon: envelope
   icon_pack: fas
-  link: caroline.emilson@NRCan-RNCan.gc.ca
+  link: mailto:caroline.emilson@NRCan-RNCan.gc.ca
 - icon: github
   icon_pack: fab
   link: https://github.com/cemilson

@@ -21,7 +21,7 @@ role: Forest Bioenergy Analyst
 social:
 - icon: envelope
   icon_pack: fas
-  link: emily.smenderovac@NRCan-RNCan.gc.ca
+  link: mailto:emily.smenderovac@NRCan-RNCan.gc.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Smendero?lang=en

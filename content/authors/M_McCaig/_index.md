@@ -24,7 +24,7 @@ role: M.Sc. Student, McMaster University
 social:
 - icon: envelope
   icon_pack: fas
-  link: mccaigml@mcmaster.ca
+  link: mailto:mccaigml@mcmaster.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/maddiemccaig?lang=en
