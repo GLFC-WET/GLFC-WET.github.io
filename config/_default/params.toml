@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "erik.emilson@canada.ca"
+email = "erik.emilson@NRCan-RNCan.gc.ca"
 phone = ""
 
 # Address
