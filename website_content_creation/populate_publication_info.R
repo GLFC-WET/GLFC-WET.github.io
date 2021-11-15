@@ -11,7 +11,10 @@ library(scholar)
 schol_id = "ghYLsSAAAAAJ"
 Erik_pubs <- get_publications(id = schol_id)
 
-Erik_pubs <- Erik_pubs[Erik_pubs$year >=2018,] ## group pubs only 2018 +
+Erik_pubs <- Erik_pubs[Erik_pubs$year >=2021,] ## group pubs only 2021 + ## Update for new pubs
+
+## Apply additional custom filtering to just most recent
+
 
 
 for(pub in 1:nrow(Erik_pubs)){
@@ -25,14 +28,16 @@ for(pub in 1:nrow(Erik_pubs)){
                 html_elements("a") %>%
                 html_attr("href")
         
-        pubhtml_linkto <- ifelse(!is.na(pubhtml[1]), pubhtml[1], "")
-        pubhtml_linktopdf <- ifelse(!is.na(pubhtml[2]), pubhtml[2], "")
-        pubhtml_linktofull <- ifelse(!is.na(pubhtml[3]), pubhtml[3], "")
+        pubhtml_linkto <- pubs4scrape
+        pubhtml_linktopdf <- pub_html %>% html_elements(".gsc_oci_title_ggi") %>%
+                html_elements("a") %>% 
+                html_attr("href")
+        pubhtml_linktofull <- pub_html %>% html_elements(".gsc_oci_title_link") %>% html_attr("href")
         
         pubabstract <- pub_html %>% html_elements(".gsh_csp") %>% html_text()
         pubabstract <- gsub("\\?\\?", ". . . ", pubabstract)
         
-        pubdet_extract <- pub_html %>% html_elements(".gsc_vcd_value") %>% html_text()
+        pubdet_extract <- pub_html %>% html_elements(".gsc_oci_value") %>% html_text()
         
         pubauths <- pubdet_extract[1]
         
@@ -83,12 +88,12 @@ for(pub in 1:nrow(Erik_pubs)){
                           "\n--- \n\n",
                           sep="")
         
-        fold_name <- paste(gsub(", ", "_", curr_pub$author), curr_pub$year, sep="_")
+        fold_name <- paste(str_extract(curr_pub$author, "[[:alpha:] ]+"), curr_pub$year, curr_pub$pubid, sep="_")
         if(!dir.exists(paste("content/publication", fold_name, sep="/"))){dir.create(paste("content/publication", fold_name, sep="/"))}
         
         write(YMl_head, file(paste("content/publication", fold_name, "index.md", sep="/"), encoding = "UTF-8"))
 
-        Sys.sleep(10 + sample(1:5, 1)) # so we don't get 429 Error
+        Sys.sleep(10 + sample(1:25, 1)) # so we don't get 429 Error
         }
 
 
