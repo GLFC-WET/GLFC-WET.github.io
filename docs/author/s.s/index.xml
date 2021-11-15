@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.S. | Watershed Ecology Team</title>
+    <link>/author/s.s./</link>
+      <atom:link href="/author/s.s./index.xml" rel="self" type="application/rss+xml" />
+    <description>S.S.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
+      <title>S.S.</title>
+      <link>/author/s.s./</link>
+    </image>
+    
+    <item>
+      <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do biological effects accumulate spatially?</title>
+      <link>/publication/m-erdozain_2021_j-pr_7nvfogc/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/m-erdozain_2021_j-pr_7nvfogc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
