@@ -5,12 +5,20 @@
     <link>/author/erik-emilson/</link>
       <atom:link href="/author/erik-emilson/index.xml" rel="self" type="application/rss+xml" />
     <description>Erik Emilson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/erik-emilson/avatar_hubbb99607eb7895d2872182508181f827_1183808_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Erik Emilson</title>
       <link>/author/erik-emilson/</link>
     </image>
+    
+    <item>
+      <title>Acidification recovery in a changing climate: Observations from thirty-five years of stream chemistry monitoring in forested headwater catchments at the Turkey Lakes Watershed …</title>
+      <link>/publication/kl-webster_2021_5qfkujpxouwc/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/kl-webster_2021_5qfkujpxouwc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forest defoliator outbreaks alter nutrient cycling in northern waters</title>
@@ -84,6 +92,16 @@ url_source: &amp;ldquo;&lt;a href=&#34;https://www.nature.com/articles/s41467-02
     </item>
     
     <item>
+      <title>Do management practices affect key freshwater ecosystem functions in forested landscapes?</title>
+      <link>/talk/do-management-practices-affect-key-freshwater-ecosystem-functions-in-forested-landscapes/</link>
+      <pubDate>Fri, 05 Mar 2021 14:39:00 +0000</pubDate>
+      <guid>/talk/do-management-practices-affect-key-freshwater-ecosystem-functions-in-forested-landscapes/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FGLFC.CFS%2Fvideos%2F387758542213546%2F&amp;show_text=false&amp;width=560&#34; width=&#34;560&#34; height=&#34;314&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do abiotic effects accumulate spatially?</title>
       <link>/publication/m-erdozain_2021_m05ib0d1s5ac/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
@@ -113,16 +131,6 @@ url_source: &amp;ldquo;&lt;a href=&#34;https://www.nature.com/articles/s41467-02
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Do management practices affect key freshwater ecosystem functions in forested landscapes?</title>
-      <link>/talk/do-management-practices-affect-key-freshwater-ecosystem-functions-in-forested-landscapes/</link>
-      <pubDate>Thu, 05 Mar 2020 14:39:00 +0000</pubDate>
-      <guid>/talk/do-management-practices-affect-key-freshwater-ecosystem-functions-in-forested-landscapes/</guid>
-      <description>&lt;p align=&#34;center&#34;&gt;
-&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FGLFC.CFS%2Fvideos%2F387758542213546%2F&amp;show_text=false&amp;width=560&#34; width=&#34;560&#34; height=&#34;314&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/p&gt;</description>
     </item>
     
     <item>

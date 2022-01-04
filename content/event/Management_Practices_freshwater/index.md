@@ -7,7 +7,7 @@ image:
 location: Great Lakes Forestry Centre
 projects:
 - internal-project
-publishDate: "2020-03-05T14:39:00Z"
+publishDate: "2021-03-05T14:39:00Z"
 summary: How do our forest management practices affect freshwater ecosystem functions, and how do we determine these influences?
 tags: []
 title: Do management practices affect key freshwater ecosystem functions in forested landscapes?
