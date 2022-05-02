@@ -29,7 +29,7 @@ social:
   link: https://www.linkedin.com/in/alexandrarclark/
 superuser: false
 title: Alexandra Clark
-user_groups: [NA]
+user_groups: [Watershed Ecology Team]
 authors:
 - A_Clark
 ---

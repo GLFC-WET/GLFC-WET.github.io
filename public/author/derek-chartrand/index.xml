@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derek Chartrand | Watershed Ecology Team</title>
+    <link>/author/derek-chartrand/</link>
+      <atom:link href="/author/derek-chartrand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Derek Chartrand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/derek-chartrand/avatar_huc4c705969d375bdba3675490c4ae781e_781283_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Derek Chartrand</title>
+      <link>/author/derek-chartrand/</link>
+    </image>
+    
+    <item>
+      <title>Variations in terrestrial arthropod DNA metabarcoding methods recovers robust beta diversity but variable richness and site indicators</title>
+      <link>/publication/tm-porter_dm-morris_n-basiliko_m-hajibabaei_d-doucet_s-bowman_..._2019/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tm-porter_dm-morris_n-basiliko_m-hajibabaei_d-doucet_s-bowman_..._2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
