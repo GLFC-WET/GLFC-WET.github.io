@@ -12,10 +12,8 @@ interests:
 - Spatial Analysis
 highlight_name: false
 organizations:
-- name: Interests
-  url: NA
-- name: Organization_name
-  url: URL
+- name: Watershed Ecology Team
+  url: glfc-wet.github.io
 role: Water Ecology Technician
 social:
 - icon: envelope
