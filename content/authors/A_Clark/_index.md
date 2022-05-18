@@ -14,7 +14,7 @@ highlight_name: false
 organizations:
 - name: Watershed Ecology Team
   url: glfc-wet.github.io
-role: Watershed Ecology Technician/Co-op Student
+role: Watershed Ecology Technician/ Co-op Student
 social:
 - icon: envelope
   icon_pack: fas
