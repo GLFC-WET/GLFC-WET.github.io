@@ -103,7 +103,9 @@ for(pub in 1:nrow(Erik_pubs)){
                           '\npublication_types:\n- "2"', 
                           "\npublishDate: '", pubdate, "'", 
                           "\ntitle: '", curr_pub$title, "'",
-                          "\nurl_pdf: ", '"', pubhtml_linktopdf, '"',  
+                          "\nurl_pdf: ", '"', ifelse(grepl("pdf", pubhtml_linktopdf), 
+                                                     grep("pdf", pubhtml_linktopdf, value = T),
+                                                     pubhtml_linktopdf[1]), '"',  
                           "\nurl_source: ", '"',pubhtml_linktofull,'"',
                           "\n--- \n\n",
                           sep="")
