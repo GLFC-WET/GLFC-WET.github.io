@@ -14,7 +14,27 @@ Erik_pubs <- get_publications(id = schol_id)
 Erik_pubs <- Erik_pubs[Erik_pubs$year >=2021,] ## group pubs only 2021 + ## Update for new pubs
 
 ## Apply additional custom filtering to just most recent
+## Find the titles that are already in the dataset and filter out
+db.pubs <- list.files("content/publication", pattern = "index.md", full.names = T, recursive = T)
 
+db.pubs <- db.pubs[!grepl("_index", db.pubs)]
+
+db.pub.titles <- sapply(db.pubs, function(x){
+        temp <- readLines(x)
+        title <- grep("title:", temp, value = T)
+        title <- gsub("'|title: ", "", title)
+        return(title)
+        }) %>% unlist()
+
+Erik_pubs <- Erik_pubs[!Erik_pubs$title %in% db.pub.titles, ]
+rm(db.pub.titles)
+
+## Also find the scholar tags that are in db already and filter out
+db.pubs <- list.dirs("content/publication")
+
+gIDs.notin <- Erik_pubs$pubid[!Erik_pubs$pubid %in% unique(str_extract(db.pubs, str_c(Erik_pubs$pubid, collapse = "|")))]
+
+Erik_pubs <- Erik_pubs[Erik_pubs$pubid %in% gIDs.notin, ]
 
 
 for(pub in 1:nrow(Erik_pubs)){
