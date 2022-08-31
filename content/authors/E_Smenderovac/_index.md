@@ -36,7 +36,7 @@ social:
   link: https://orcid.org/0000-0001-6773-4808
 superuser: false
 title: Emily Smenderovac
-user_groups: [WETlab Contributors from the GLFC]
+user_groups: [Watershed Ecology Team]
 authors:
 - E_Smenderovac
 ---

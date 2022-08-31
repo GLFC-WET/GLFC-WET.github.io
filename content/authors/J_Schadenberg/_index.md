@@ -19,7 +19,7 @@ social:
   link: https://www.linkedin.com/in/joe-schadenberg/
 superuser: false
 title: Joe Schadenberg
-user_groups: [Watershed Ecology Team]
+user_groups: [Past WETlab Members]
 authors:
 - J_Schadenberg
 ---
