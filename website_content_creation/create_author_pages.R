@@ -8,7 +8,7 @@ directories <- list.dirs("website_content_creation/authors", recursive = F)
 ## Iterate through directories
 for(cur_dir in directories){
         filesin <- list.files(cur_dir, full.names = TRUE)
-        pic <- filesin[grepl(".jpg|.png|.jpeg", filesin)]
+        pic <- filesin[grepl(".jpg|.png|.jpeg", tolower(filesin))]
         
         if(length(pic) ==0){
                 pic <- "static/media/meeple.jpg"
@@ -113,6 +113,6 @@ for(cur_dir in directories){
         if(!dir.exists(paste("content/authors", auth_code, sep="/"))){dir.create(paste("content/authors", auth_code, sep="/"))}
         
         write(YHead, paste("content/authors", auth_code, "_index.md", sep="/"))
-        file.copy(pic, paste("content/authors", auth_code, "avatar.jpg", sep="/"))
+        file.copy(pic, paste("content/authors", auth_code, "avatar.jpg", sep="/"), overwrite = T)
            
 }
