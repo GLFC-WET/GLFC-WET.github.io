@@ -19,7 +19,7 @@ organizations:
   url: https://conservationdatalab.org/
 - name: Gamma Theta Upsilon
   url: https://gammathetaupsilon.org/
-role: M.Sc. Student, Trent
+role: M.Sc. Student, Trent University
 social:
 - icon: envelope
   icon_pack: fas

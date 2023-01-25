@@ -43,7 +43,7 @@ social:
   link: https://orcid.org/0000-0002-1516-9728
 superuser: false
 title: Erik Emilson
-user_groups: [Leadership]
+user_groups: [Watershed Ecology Team]
 authors:
 - E_Emilson
 ---
