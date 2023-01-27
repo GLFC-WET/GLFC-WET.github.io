@@ -17,6 +17,7 @@ subtitle = ""
   user_groups = ["Leadership",
                  "Watershed Ecology Team",
                  "Visiting and Co-supervised Students",
+                 "Visiting Scientists",
                  "WETlab Contributors from the GLFC",
                  "Past WETlab Members"]
 

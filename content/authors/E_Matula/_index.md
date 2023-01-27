@@ -29,7 +29,7 @@ social:
   link: erm04417
 - icon: github
   icon_pack: fab
-  link: ematula3
+  link: www.github.com/ematula3
 superuser: false
 title: Erin Matula
 user_groups: [Visiting and Co-supervised Students]
