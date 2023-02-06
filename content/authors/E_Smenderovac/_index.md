@@ -17,7 +17,7 @@ highlight_name: false
 organizations:
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
-role: Forest Bioenergy Analyst
+role: Watershed Ecologist
 social:
 - icon: envelope
   icon_pack: fas

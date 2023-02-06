@@ -48,7 +48,7 @@ superuser: false
 title: Asun Rodríguez-Uña
 user_groups: [Visiting Scientists]
 authors:
-- A_Rodríguez-U?a
+- A_Rodríguez-Uña
 ---
 
 

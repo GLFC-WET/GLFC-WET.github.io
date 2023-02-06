@@ -18,7 +18,7 @@ highlight_name: false
 organizations:
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://cfs.nrcan.gc.ca/authors/read/25245
-role: Molecular Ecologist/ Bioinformatician
+role: Forest Ecologist and Bioinformatician
 social:
 - icon: envelope
   icon_pack: fas

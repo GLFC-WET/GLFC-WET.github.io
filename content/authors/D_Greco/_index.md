@@ -33,7 +33,7 @@ social:
   link: https://orcid.org/0000-0001-5919-6907
 superuser: false
 title: Danielle Greco
-user_groups: [WETlab Contributors from the GLFC]
+user_groups: [Watershed Ecology Team]
 authors:
 - D_Greco
 ---
