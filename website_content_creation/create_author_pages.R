@@ -109,10 +109,11 @@ for(cur_dir in directories){
                      sep="\n\n"),
                sep="")
         
+        Encoding(YHead) = "UTF-8"
 
         if(!dir.exists(paste("content/authors", auth_code, sep="/"))){dir.create(paste("content/authors", auth_code, sep="/"))}
         
-        write(YHead, paste("content/authors", auth_code, "_index.md", sep="/"))
+        stringi::stri_write_lines(YHead, paste("content/authors", auth_code, "_index.md", sep="/"))
         file.copy(pic, paste("content/authors", auth_code, "avatar.jpg", sep="/"), overwrite = T)
            
 }

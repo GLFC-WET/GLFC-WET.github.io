@@ -15,7 +15,7 @@ interests:
 - Disturbance impacts
 highlight_name: false
 organizations:
-- name: Great Lakes Forestry Centre
+- name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-and-data/research-centres-and-labs/forestry-research-centres/great-lakes-forestry-centre/13459
 role: Forest Biologist
 social:

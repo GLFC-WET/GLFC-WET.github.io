@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
-- name: Canadian Journal of Forestry Research
+- name: Canadian Journal of Forest Research
   url: https://cdnsciencepub.com/journal/cjfr/about/editorial-board
 role: Research Scientist, Watershed Ecology Team Lead, Associate Editor CJFR
 social:
