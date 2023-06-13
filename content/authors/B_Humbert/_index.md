@@ -26,7 +26,7 @@ social:
   link: https://www.linkedin.com/in/bastien-humbert-0bb2a8238/?originalSubdomain=fr
 superuser: false
 title: Bastien Humbert
-user_groups: [NA]
+user_groups: [Visiting and Co-supervised Students]
 authors:
 - B_Humbert
 ---
