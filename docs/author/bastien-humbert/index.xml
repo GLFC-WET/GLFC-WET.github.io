@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bastien Humbert | Watershed Ecology Team</title>
+    <link>/author/bastien-humbert/</link>
+      <atom:link href="/author/bastien-humbert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bastien Humbert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/bastien-humbert/avatar_hua1857f1181a61e5c493862c39b8c1a84_3713641_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bastien Humbert</title>
+      <link>/author/bastien-humbert/</link>
+    </image>
+    
+  </channel>
+</rss>
