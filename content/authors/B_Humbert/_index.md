@@ -13,8 +13,9 @@ education:
     year: current
 email: "NA"
 interests:
-- NA
-- Interests
+- Outdoors
+- Culinary Arts
+- Biotechnology
 highlight_name: false
 organizations:
 - name: ABIL BioSciences INSA Lyon
