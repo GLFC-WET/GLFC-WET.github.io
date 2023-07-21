@@ -46,7 +46,7 @@ social:
   link: https://orcid.org/https://orcid.org/0000-0002-1951-7005
 superuser: false
 title: Asun Rodríguez-Uña
-user_groups: [Visiting Scientists]
+user_groups: [Visiting and Contributing Scientists]
 authors:
 - A_Rodríguez-Uña
 ---

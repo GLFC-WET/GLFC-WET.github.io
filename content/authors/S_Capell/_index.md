@@ -24,7 +24,7 @@ social:
   link: mailto:scott.capell@NRCan-RNCan.gc.ca
 superuser: false
 title: Scott Capell
-user_groups: [Watershed Ecology Team]
+user_groups: [Past WETlab Members]
 authors:
 - S_Capell
 ---

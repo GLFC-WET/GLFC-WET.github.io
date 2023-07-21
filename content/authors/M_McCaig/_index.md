@@ -4,7 +4,7 @@ education:
   courses:
   - course: M.Sc.
     institution: McMaster University
-    year: current
+    year: 2023
   - course: B.Sc. Environmental Science
     institution: University of Ottawa
     year: 2017
@@ -20,7 +20,7 @@ organizations:
   url: http://www.karenkiddlab.com/
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-and-data/research-centres-and-labs/forestry-research-centres/great-lakes-forestry-centre/13459
-role: M.Sc. Student, McMaster University
+role: Forest Biologist
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,7 +33,7 @@ social:
   link: https://www.linkedin.com/in/mccaigm/
 superuser: false
 title: Madison McCaig
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Watershed Ecology Team]
 authors:
 - M_McCaig
 ---

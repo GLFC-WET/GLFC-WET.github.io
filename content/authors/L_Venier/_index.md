@@ -33,7 +33,7 @@ social:
   link: https://orcid.org/0000-0002-7738-1361
 superuser: false
 title: Lisa Venier
-user_groups: [WETlab Contributors from the GLFC]
+user_groups: [Visiting and Contributing Scientists]
 authors:
 - L_Venier
 ---
