@@ -82,6 +82,7 @@ Once you are sure of your changes, run `blogdown::stop_server()` to shut of the 
 
 
 ```{r publish}
+#blogdown::build_site()
 blogdown::hugo_build(local=FALSE, relativeURLs = TRUE)
 ```
 

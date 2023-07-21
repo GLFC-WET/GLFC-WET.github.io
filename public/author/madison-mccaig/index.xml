@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Madison McCaig | Watershed Ecology Team</title>
-    <link>/author/madison-mccaig/</link>
-      <atom:link href="/author/madison-mccaig/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://glfc-wet.github.io/author/madison-mccaig/</link>
+      <atom:link href="https://glfc-wet.github.io/author/madison-mccaig/index.xml" rel="self" type="application/rss+xml" />
     <description>Madison McCaig</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/author/madison-mccaig/avatar_huea3715c6df4421329dc6eb13917d9410_622183_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://glfc-wet.github.io/author/madison-mccaig/avatar_huea3715c6df4421329dc6eb13917d9410_622183_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Madison McCaig</title>
-      <link>/author/madison-mccaig/</link>
+      <link>https://glfc-wet.github.io/author/madison-mccaig/</link>
     </image>
     
   </channel>
