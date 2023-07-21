@@ -16,6 +16,7 @@ publication: '*bioRxiv*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-01-01T00:00:00Z'
 publishDate: '2022-01-01T00:00:00Z'
 title: 'Universal microbial reworking of dissolved organic matter along environmental gradients'
 url_pdf: "https://www.biorxiv.org/content/biorxiv/early/2022/11/25/2022.11.23.517109.full.pdf"

@@ -11,6 +11,7 @@ publication: '*zenodo*'
 publication_short: ''
 publication_types:
 - "0"
+date: '2021-04-29T00:00:00Z'
 publishDate: '2021-04-29T00:00:00Z'
 title: 'hydroweight: Inverse distance-weighted rasters and landscape attributes'
 url_code: "https://github.com/bkielstr/hydroweight/tree/v1.0.0"

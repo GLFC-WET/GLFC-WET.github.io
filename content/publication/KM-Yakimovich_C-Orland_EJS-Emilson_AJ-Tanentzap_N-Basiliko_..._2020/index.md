@@ -13,6 +13,7 @@ publication: '*The ISME Journal*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2020-05-18T00:00:00Z'
 publishDate: '2020-05-18T00:00:00Z'
 title: 'Lake characteristics influence how methanogens in littoral sediments respond to terrestrial litter inputs'
 url_pdf: "https://www.nature.com/articles/s41396-020-0680-9.pdf?origin=ppub"

@@ -12,6 +12,7 @@ publication: '*Geophysical Research Letters*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-06-16T00:00:00Z'
 publishDate: '2022-06-16T00:00:00Z'
 title: 'Long-Term Trends in pCO2 in Lake Surface Water Following Rebrowning'
 url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022GL097973"

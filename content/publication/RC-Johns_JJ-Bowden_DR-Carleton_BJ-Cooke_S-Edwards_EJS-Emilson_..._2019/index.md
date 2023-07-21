@@ -26,6 +26,7 @@ publication: '*Forests*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2019-10-01T00:00:00Z'
 publishDate: '2019-10-01T00:00:00Z'
 title: 'A Conceptual Framework for the Spruce Budworm Early Intervention Strategy: Can Outbreaks be Stopped?'
 url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=RC&aulast=Johns&atitle=A+conceptual+framework+for+the+spruce+budworm+early+intervention+strategy:+can+outbreaks+be+stopped%3F&id=doi:10.3390/f10100910&title=Forests&volume=10&issue=10&date=2019&spage=910&issn=1999-4907"

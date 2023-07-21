@@ -14,6 +14,7 @@ publication: '*Environmental Toxicology and Chemistry*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-06-01T00:00:00Z'
 publishDate: '2022-06-01T00:00:00Z'
 title: 'Are There Longitudinal Effects of Forest Harvesting on Carbon Quality and Flow and Methylmercury Bioaccumulation in Primary Consumers of Temperate Stream Networks?'
 url_pdf: "https://setac.onlinelibrary.wiley.com/doi/pdf/10.1002/etc.5330"

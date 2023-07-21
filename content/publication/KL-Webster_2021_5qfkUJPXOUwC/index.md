@@ -12,6 +12,7 @@ publication: '*Hydrological Processes, e*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2021-12-01T00:00:00Z'
 publishDate: '2021-12-01T00:00:00Z'
 title: 'Acidification recovery in a changing climate: Observations from thirty-five years of stream chemistry monitoring in forested headwater catchments at the Turkey Lakes Watershed …'
 url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hyp.14346"

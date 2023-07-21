@@ -14,6 +14,7 @@ publication: '*The Forestry Chronicle*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-11-01T00:00:00Z'
 publishDate: '2022-11-01T00:00:00Z'
 title: 'Understanding the effects of forest management on streams and rivers: A synthesis of research conducted in New Brunswick (Canada) 2014–2018'
 url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=M&aulast=Erdozain&atitle=Understanding+the+effects+of+forest+management+on+streams+and+rivers:+A+synthesis+of+research+conducted+in+New+Brunswick+(Canada)+2014%E2%80%932018&id=doi:10.5558/tfc2022-010&title=Forestry+chronicle&volume=98&issue=1&date=2022&spage=77&issn=0015-7546"

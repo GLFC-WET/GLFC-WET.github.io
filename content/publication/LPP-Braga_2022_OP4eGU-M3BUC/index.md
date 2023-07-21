@@ -16,6 +16,7 @@ publication: '*Proceedings of the National Academy of Sciences*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-10-11T00:00:00Z'
 publishDate: '2022-10-11T00:00:00Z'
 title: 'Viruses direct carbon cycling in lake sediments under global change'
 url_pdf: "https://www.pnas.org/doi/full/10.1073/pnas.2202261119"

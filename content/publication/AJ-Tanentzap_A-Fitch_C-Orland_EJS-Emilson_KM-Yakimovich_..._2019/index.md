@@ -14,6 +14,7 @@ publication: '*Proceedings of the National Academy of Sciences*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2019-12-03T00:00:00Z'
 publishDate: '2019-12-03T00:00:00Z'
 title: 'Chemical and microbial diversity covary in fresh water to influence ecosystem functioning'
 url_pdf: "https://www.pnas.org/content/116/49/24689"

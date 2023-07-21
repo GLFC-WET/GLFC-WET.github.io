@@ -12,6 +12,7 @@ publication: '*Environmental science & technology*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2018-02-14T00:00:00Z'
 publishDate: '2018-02-14T00:00:00Z'
 title: 'Optical Properties of Dissolved Organic Matter and Their Relation to Mercury Concentrations in Water and Biota Across a Remote Freshwater Drainage Basin'
 url_pdf: "https://pubs.acs.org/doi/full/10.1021/acs.est.7b05348"

@@ -13,7 +13,8 @@ publication: '*Journal of Environmental Management*'
 publication_short: ''
 publication_types:
 - "2"
-publishDate: '2023-11-01T00:00:00Z'
+date: '2023-11-01T00:00:00Z'
+publishDate: '2023-07-01'
 title: 'Watershed characteristics and chemical properties govern methyl mercury concentrations within headwater streams of boreal forests in Ontario, Canada'
 url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=TJ&aulast=Harrow-Lyle&atitle=Watershed+characteristics+and+chemical+properties+govern+methyl+mercury+concentrations+within+headwater+streams+of+boreal+forests+in+Ontario,+Canada&id=doi:10.1016/j.jenvman.2023.118526&title=Journal+of+environmental+management&volume=345&date=2023&spage=118526&issn=0301-4797"
 url_source: "https://www.sciencedirect.com/science/article/pii/S0301479723013142"

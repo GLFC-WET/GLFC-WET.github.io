@@ -14,6 +14,7 @@ publication: '*Nature Communications*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2021-11-03T00:00:00Z'
 publishDate: '2021-11-03T00:00:00Z'
 title: 'Forest defoliator outbreaks alter nutrient cycling in northern waters'
 url_pdf: "https://www.nature.com/articles/s41467-021-26666-1"

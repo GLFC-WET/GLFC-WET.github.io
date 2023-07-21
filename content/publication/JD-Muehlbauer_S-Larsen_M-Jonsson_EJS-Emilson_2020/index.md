@@ -11,6 +11,7 @@ publication: '*Contaminants and Ecological Subsidies*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2020-12-01T00:00:00Z'
 publishDate: '2020-12-01T00:00:00Z'
 title: 'Variables affecting resource subsidies from streams and rivers to land and their susceptibility to global change stressors'
 url_pdf: "https://scholar.google.com/scholar?oi=bibs&hl=fr&oe=ASCII&cites=11243462018856290305&as_sdt=5"

@@ -19,6 +19,7 @@ publication: '*Scientific Reports*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2019-12-03T00:00:00Z'
 publishDate: '2019-12-03T00:00:00Z'
 title: 'Variations in terrestrial arthropod DNA metabarcoding methods recovers robust beta diversity but variable richness and site indicators'
 url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=TM&aulast=Porter&atitle=Variations+in+terrestrial+arthropod+DNA+metabarcoding+methods+recovers+robust+beta+diversity+but+variable+richness+and+site+indicators&id=doi:10.1038/s41598-019-54532-0&title=Scientific+reports&volume=9&issue=1&date=2019&spage=1&issn=2045-2322"

@@ -12,6 +12,7 @@ publication: '*Ecotoxicology*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-10-01T00:00:00Z'
 publishDate: '2022-10-01T00:00:00Z'
 title: 'Tebufenozide has limited direct effects on simulated aquatic communities'
 url_pdf: "https://link.springer.com/article/10.1007/s10646-022-02582-y"

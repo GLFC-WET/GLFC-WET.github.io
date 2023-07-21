@@ -16,6 +16,7 @@ publication: '*Nature communications*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2018-05-04T00:00:00Z'
 publishDate: '2018-05-04T00:00:00Z'
 title: 'Climate-driven shifts in sediment chemistry enhance methane production in northern lakes'
 url_pdf: "https://www.nature.com/articles/s41467-018-04236-2.pdf?origin=ppub"

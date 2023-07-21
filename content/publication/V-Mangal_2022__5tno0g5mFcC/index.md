@@ -13,6 +13,7 @@ publication: '*Biogeochemistry*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-06-09T00:00:00Z'
 publishDate: '2022-06-09T00:00:00Z'
 title: 'Molecular correlations of dissolved organic matter with inorganic mercury and methylmercury in Canadian boreal streams'
 url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=V&aulast=Mangal&atitle=Molecular+correlations+of+dissolved+organic+matter+with+inorganic+mercury+and+methylmercury+in+Canadian+boreal+streams&id=doi:10.1007/s10533-022-00944-6"

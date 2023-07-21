@@ -13,6 +13,7 @@ publication: '*Forest Ecology and Management*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-09-01T00:00:00Z'
 publishDate: '2022-09-01T00:00:00Z'
 title: 'Long-term stream chemistry response to harvesting in a northern hardwood forest watershed experiencing environmental change'
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0378112722003395"

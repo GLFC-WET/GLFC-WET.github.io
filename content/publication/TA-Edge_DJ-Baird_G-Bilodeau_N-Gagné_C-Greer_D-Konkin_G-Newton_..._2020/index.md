@@ -47,6 +47,7 @@ publication: '*Science of The Total Environment*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2020-03-25T00:00:00Z'
 publishDate: '2020-03-25T00:00:00Z'
 title: 'The ecobiomics project: Advancing metagenomics assessment of soil health and freshwater quality in Canada'
 url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=TA&aulast=Edge&atitle=The+Ecobiomics+project:+Advancing+metagenomics+assessment+of+soil+health+and+freshwater+quality+in+Canada&id=doi:10.1016/j.scitotenv.2019.135906&title=The+Science+of+the+total+environment&volume=710&date=2020&spage=135906&issn=0048-9697"

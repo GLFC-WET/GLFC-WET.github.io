@@ -12,6 +12,7 @@ publication: '*Global change biology*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2018-11-01T00:00:00Z'
 publishDate: '2018-11-01T00:00:00Z'
 title: 'Feasting on terrestrial organic matter: Dining in a dark lake changes microbial decomposition'
 url_pdf: "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14391"

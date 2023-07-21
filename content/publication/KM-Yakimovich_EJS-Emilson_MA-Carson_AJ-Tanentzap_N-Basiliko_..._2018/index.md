@@ -13,6 +13,7 @@ publication: '*Frontiers in Microbiology*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2018-12-01T00:00:00Z'
 publishDate: '2018-12-01T00:00:00Z'
 title: 'Plant litter type dictates microbial communities responsible for greenhouse gas production in amended lake sediments'
 url_pdf: "https://www.frontiersin.org/articles/10.3389/fmicb.2018.02662/full"

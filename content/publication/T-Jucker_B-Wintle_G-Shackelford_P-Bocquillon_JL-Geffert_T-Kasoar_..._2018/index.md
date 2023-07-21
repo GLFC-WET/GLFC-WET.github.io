@@ -52,6 +52,7 @@ publication: '*Conservation Biology*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2018-12-01T00:00:00Z'
 publishDate: '2018-12-01T00:00:00Z'
 title: 'Ten-year assessment of the 100 priority questions for global biodiversity conservation'
 url_pdf: "https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/cobi.13159"

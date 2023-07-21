@@ -24,6 +24,7 @@ publication: '*Nature Communications*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2023-03-21T00:00:00Z'
 publishDate: '2023-03-21T00:00:00Z'
 title: 'Integrating terrestrial and aquatic ecosystems to constrain estimates of land-atmosphere carbon exchange'
 url_pdf: "https://www.nature.com/articles/s41467-023-37232-2"

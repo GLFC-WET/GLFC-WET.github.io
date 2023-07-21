@@ -13,6 +13,7 @@ publication: '*Ecosystems*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2021-10-22T00:00:00Z'
 publishDate: '2021-10-22T00:00:00Z'
 title: 'Elevated Allochthony in Stream Food Webs as a Result of Longitudinal Cumulative Effects of Forest Management'
 url_pdf: "https://link.springer.com/article/10.1007/s10021-021-00717-6"

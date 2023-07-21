@@ -12,7 +12,8 @@ publication: '*bioRxiv*'
 publication_short: ''
 publication_types:
 - "2"
-publishDate: '2023-12-01T00:00:00Z'
+date: '2023-12-01T00:00:00Z'
+publishDate: '2023-01-01T00:00:00Z'
 title: 'Logging disrupts the ecology of molecules in headwater streams'
 url_pdf: "https://www.biorxiv.org/content/biorxiv/early/2023/03/08/2023.03.07.531469.full.pdf"
 url_source: "https://www.biorxiv.org/content/10.1101/2023.03.07.531469.abstract"

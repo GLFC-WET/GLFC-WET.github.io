@@ -13,6 +13,7 @@ publication: '*Environmental Research Letters*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2022-01-10T00:00:00Z'
 publishDate: '2022-01-10T00:00:00Z'
 title: 'Spring coherence in dissolved organic carbon export dominates total coherence in Boreal Shield forested catchments'
 url_pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/ac462f/pdf"

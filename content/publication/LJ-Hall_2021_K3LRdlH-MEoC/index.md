@@ -11,6 +11,7 @@ publication: '*Science of The Total Environment*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2021-04-15T00:00:00Z'
 publishDate: '2021-04-15T00:00:00Z'
 title: 'Patterns and trends in lake concentrations of dissolved organic carbon in a landscape recovering from environmental degradation and widespread acidification'
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0048969720362082"

@@ -13,6 +13,7 @@ publication: '*The ISME journal*'
 publication_short: ''
 publication_types:
 - "2"
+date: '2019-01-01T00:00:00Z'
 publishDate: '2019-01-01T00:00:00Z'
 title: 'Microbiome functioning depends on individual and interactive effects of the environment and community structure'
 url_pdf: "http://du2rq3qj3n.scholar.serialssolutions.com/?sid=google&auinit=C&aulast=Orland&atitle=Microbiome+functioning+depends+on+individual+and+interactive+effects+of+the+environment+and+community+structure&id=doi:10.1038/s41396-018-0230-x&title=The+ISME+Journal&volume=13&issue=1&date=2019&spage=1&issn=1751-7362"
