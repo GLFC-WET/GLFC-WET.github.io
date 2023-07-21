@@ -110,7 +110,7 @@ for(pub in 1:nrow(Erik_pubs)){
                           "\n--- \n\n",
                           sep="")
         
-        fold_name <- paste(str_extract(curr_pub$author, "[[:alpha:] ]+"), curr_pub$year, curr_pub$pubid, sep="_")
+        fold_name <- paste(str_extract(gsub(" ", "-", curr_pub$author, "[[:alpha:] ]+")), curr_pub$year, curr_pub$pubid, sep="_")
         if(!dir.exists(paste("content/publication", fold_name, sep="/"))){dir.create(paste("content/publication", fold_name, sep="/"))}
         
         write(YMl_head, file(paste("content/publication", fold_name, "index.md", sep="/"), encoding = "UTF-8"))
