@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Kreutzweiser | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/david-kreutzweiser/</link>
-      <atom:link href="https://glfc-wet.github.io/author/david-kreutzweiser/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/david-kreutzweiser/</link>
+      <atom:link href="/author/david-kreutzweiser/index.xml" rel="self" type="application/rss+xml" />
     <description>David Kreutzweiser</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glfc-wet.github.io/author/david-kreutzweiser/avatar_hu61c3510ff6430947e71ca8ae26f6157b_1271547_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/david-kreutzweiser/avatar_hu61c3510ff6430947e71ca8ae26f6157b_1271547_270x270_fill_q75_lanczos_center.jpg</url>
       <title>David Kreutzweiser</title>
-      <link>https://glfc-wet.github.io/author/david-kreutzweiser/</link>
+      <link>/author/david-kreutzweiser/</link>
     </image>
     
     <item>
       <title>Understanding the effects of forest management on streams and rivers: A synthesis of research conducted in New Brunswick (Canada) 2014–2018</title>
-      <link>https://glfc-wet.github.io/publication/m-erdozain_2022_nzcliglrvowc/</link>
+      <link>/publication/m-erdozain_2022_nzcliglrvowc/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/m-erdozain_2022_nzcliglrvowc/</guid>
+      <guid>/publication/m-erdozain_2022_nzcliglrvowc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are There Longitudinal Effects of Forest Harvesting on Carbon Quality and Flow and Methylmercury Bioaccumulation in Primary Consumers of Temperate Stream Networks?</title>
-      <link>https://glfc-wet.github.io/publication/kl-charbonneau_2022_anf4urpfarac/</link>
+      <link>/publication/kl-charbonneau_2022_anf4urpfarac/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/kl-charbonneau_2022_anf4urpfarac/</guid>
+      <guid>/publication/kl-charbonneau_2022_anf4urpfarac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elevated Allochthony in Stream Food Webs as a Result of Longitudinal Cumulative Effects of Forest Management</title>
-      <link>https://glfc-wet.github.io/publication/m-erdozain_2021_pvjk1bu6vjqc/</link>
+      <link>/publication/m-erdozain_2021_pvjk1bu6vjqc/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/m-erdozain_2021_pvjk1bu6vjqc/</guid>
+      <guid>/publication/m-erdozain_2021_pvjk1bu6vjqc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do biological effects accumulate spatially?</title>
-      <link>https://glfc-wet.github.io/publication/m-erdozain_2021_j-pr_7nvfogc/</link>
+      <link>/publication/m-erdozain_2021_j-pr_7nvfogc/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/m-erdozain_2021_j-pr_7nvfogc/</guid>
+      <guid>/publication/m-erdozain_2021_j-pr_7nvfogc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forest management impacts on stream integrity at varying intensities and spatial scales: Do abiotic effects accumulate spatially?</title>
-      <link>https://glfc-wet.github.io/publication/m-erdozain_2021_m05ib0d1s5ac/</link>
+      <link>/publication/m-erdozain_2021_m05ib0d1s5ac/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/m-erdozain_2021_m05ib0d1s5ac/</guid>
+      <guid>/publication/m-erdozain_2021_m05ib0d1s5ac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ecobiomics project: Advancing metagenomics assessment of soil health and freshwater quality in Canada</title>
-      <link>https://glfc-wet.github.io/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</link>
+      <link>/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</guid>
+      <guid>/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</guid>
       <description></description>
     </item>
     

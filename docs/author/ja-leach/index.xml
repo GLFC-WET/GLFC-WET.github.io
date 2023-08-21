@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JA Leach | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/ja-leach/</link>
-      <atom:link href="https://glfc-wet.github.io/author/ja-leach/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ja-leach/</link>
+      <atom:link href="/author/ja-leach/index.xml" rel="self" type="application/rss+xml" />
     <description>JA Leach</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glfc-wet.github.io/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
       <title>JA Leach</title>
-      <link>https://glfc-wet.github.io/author/ja-leach/</link>
+      <link>/author/ja-leach/</link>
     </image>
     
     <item>
       <title>Long-term stream chemistry response to harvesting in a northern hardwood forest watershed experiencing environmental change</title>
-      <link>https://glfc-wet.github.io/publication/kl-webster_2022_2vqyfgb8itec/</link>
+      <link>/publication/kl-webster_2022_2vqyfgb8itec/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/kl-webster_2022_2vqyfgb8itec/</guid>
+      <guid>/publication/kl-webster_2022_2vqyfgb8itec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acidification recovery in a changing climate: Observations from thirty-five years of stream chemistry monitoring in forested headwater catchments at the Turkey Lakes Watershed …</title>
-      <link>https://glfc-wet.github.io/publication/kl-webster_2021_5qfkujpxouwc/</link>
+      <link>/publication/kl-webster_2021_5qfkujpxouwc/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/kl-webster_2021_5qfkujpxouwc/</guid>
+      <guid>/publication/kl-webster_2021_5qfkujpxouwc/</guid>
       <description></description>
     </item>
     

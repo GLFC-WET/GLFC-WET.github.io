@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandra Clark | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/alexandra-clark/</link>
-      <atom:link href="https://glfc-wet.github.io/author/alexandra-clark/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/alexandra-clark/</link>
+      <atom:link href="/author/alexandra-clark/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandra Clark</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://glfc-wet.github.io/author/alexandra-clark/avatar_hufade70c06a0699fdb94ee14ffad049e5_327863_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/alexandra-clark/avatar_hufade70c06a0699fdb94ee14ffad049e5_327863_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Alexandra Clark</title>
-      <link>https://glfc-wet.github.io/author/alexandra-clark/</link>
+      <link>/author/alexandra-clark/</link>
     </image>
     
   </channel>

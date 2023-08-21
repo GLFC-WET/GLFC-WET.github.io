@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pascal Bodmer | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/pascal-bodmer/</link>
-      <atom:link href="https://glfc-wet.github.io/author/pascal-bodmer/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/pascal-bodmer/</link>
+      <atom:link href="/author/pascal-bodmer/index.xml" rel="self" type="application/rss+xml" />
     <description>Pascal Bodmer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glfc-wet.github.io/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
       <title>Pascal Bodmer</title>
-      <link>https://glfc-wet.github.io/author/pascal-bodmer/</link>
+      <link>/author/pascal-bodmer/</link>
     </image>
     
     <item>
       <title>Integrating terrestrial and aquatic ecosystems to constrain estimates of land-atmosphere carbon exchange</title>
-      <link>https://glfc-wet.github.io/publication/jp-casas_2023_8xutwznsdmoc/</link>
+      <link>/publication/jp-casas_2023_8xutwznsdmoc/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/jp-casas_2023_8xutwznsdmoc/</guid>
+      <guid>/publication/jp-casas_2023_8xutwznsdmoc/</guid>
       <description></description>
     </item>
     

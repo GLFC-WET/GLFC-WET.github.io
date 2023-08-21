@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Sachs | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/joel-sachs/</link>
-      <atom:link href="https://glfc-wet.github.io/author/joel-sachs/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/joel-sachs/</link>
+      <atom:link href="/author/joel-sachs/index.xml" rel="self" type="application/rss+xml" />
     <description>Joel Sachs</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://glfc-wet.github.io/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
+      <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
       <title>Joel Sachs</title>
-      <link>https://glfc-wet.github.io/author/joel-sachs/</link>
+      <link>/author/joel-sachs/</link>
     </image>
     
     <item>
       <title>The ecobiomics project: Advancing metagenomics assessment of soil health and freshwater quality in Canada</title>
-      <link>https://glfc-wet.github.io/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</link>
+      <link>/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://glfc-wet.github.io/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</guid>
+      <guid>/publication/ta-edge_dj-baird_g-bilodeau_n-gagne_c-greer_d-konkin_g-newton_..._2020/</guid>
       <description></description>
     </item>
     

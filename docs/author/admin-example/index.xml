@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin example | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/admin-example/</link>
-      <atom:link href="https://glfc-wet.github.io/author/admin-example/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/admin-example/</link>
+      <atom:link href="/author/admin-example/index.xml" rel="self" type="application/rss+xml" />
     <description>admin example</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://glfc-wet.github.io/author/admin-example/avatar_hu398568d7e99630470e15035d3ba09ac9_23148_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/admin-example/avatar_hu398568d7e99630470e15035d3ba09ac9_23148_270x270_fill_q75_lanczos_center.jpg</url>
       <title>admin example</title>
-      <link>https://glfc-wet.github.io/author/admin-example/</link>
+      <link>/author/admin-example/</link>
     </image>
     
   </channel>

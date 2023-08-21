@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mikkealla Hurley | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/mikkealla-hurley/</link>
-      <atom:link href="https://glfc-wet.github.io/author/mikkealla-hurley/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/mikkealla-hurley/</link>
+      <atom:link href="/author/mikkealla-hurley/index.xml" rel="self" type="application/rss+xml" />
     <description>Mikkealla Hurley</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://glfc-wet.github.io/author/mikkealla-hurley/avatar_hudb5d92f850d7f9044851e5c692d092b6_382236_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/mikkealla-hurley/avatar_hudb5d92f850d7f9044851e5c692d092b6_382236_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mikkealla Hurley</title>
-      <link>https://glfc-wet.github.io/author/mikkealla-hurley/</link>
+      <link>/author/mikkealla-hurley/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erin Matula | Watershed Ecology Team</title>
-    <link>https://glfc-wet.github.io/author/erin-matula/</link>
-      <atom:link href="https://glfc-wet.github.io/author/erin-matula/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/erin-matula/</link>
+      <atom:link href="/author/erin-matula/index.xml" rel="self" type="application/rss+xml" />
     <description>Erin Matula</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://glfc-wet.github.io/author/erin-matula/avatar_hu4b4cc8c240101d1248bda2e62d71304c_3502041_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/erin-matula/avatar_hu4b4cc8c240101d1248bda2e62d71304c_3502041_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Erin Matula</title>
-      <link>https://glfc-wet.github.io/author/erin-matula/</link>
+      <link>/author/erin-matula/</link>
     </image>
     
   </channel>
