@@ -47,6 +47,6 @@ Our group integrates fine-scale microbial and molecular processes across spatial
 
 <!--- If there is a new graduate student opportunity, update the link below to the opportunity and activate it --->
 <!--- {{< mybtn "NEW: Graduate Student Opportunity" "https://nercdtp.esc.cam.ac.uk/projects/bc341" >}} --->
- {{< mybtn "NEW: Opportunity in collaboration with Dr. Andrew Tanentzap at Trent University" "https://www.trentu.ca/els/current-research-opportunities" >}}
+<!--- {{< mybtn "NEW: Opportunity in collaboration with Dr. Andrew Tanentzap at Trent University" "https://www.trentu.ca/els/current-research-opportunities" >}} --->
 
 

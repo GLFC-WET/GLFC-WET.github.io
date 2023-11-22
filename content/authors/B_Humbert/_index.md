@@ -27,7 +27,7 @@ social:
   link: https://www.linkedin.com/in/bastien-humbert-0bb2a8238/?originalSubdomain=fr
 superuser: false
 title: Bastien Humbert
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Past WETlab Members]
 authors:
 - B_Humbert
 ---

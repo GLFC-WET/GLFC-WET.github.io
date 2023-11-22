@@ -20,7 +20,7 @@ organizations:
   url: http://www.karenkiddlab.com/
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-and-data/research-centres-and-labs/forestry-research-centres/great-lakes-forestry-centre/13459
-role: Forest Biologist
+role: Watershed Analyst
 social:
 - icon: envelope
   icon_pack: fas

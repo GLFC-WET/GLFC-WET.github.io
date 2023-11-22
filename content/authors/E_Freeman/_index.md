@@ -4,7 +4,7 @@ education:
   courses:
   - course: Ph.D. Plant Sciences
     institution: University of Cambridge
-    year: 2018-
+    year: 2018-2022
   - course: M.Sc. Geography
     institution: Western University
     year: 2018
@@ -40,7 +40,7 @@ social:
   link: https://orcid.org/0000-0001-7161-6038
 superuser: false
 title: Erika C. Freeman
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Past WETlab Members]
 authors:
 - E_Freeman
 ---

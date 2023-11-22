@@ -5,6 +5,9 @@ education:
   - course: B.S. Environmental Science
     institution: Northern Michigan University
     year: 2022
+  - course: M.Sc
+    institution: Trent University
+    year: 2023 - current
 email: "erm04417@gmail.com"
 interests:
 - GIS

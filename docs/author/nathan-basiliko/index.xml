@@ -5,12 +5,52 @@
     <link>/author/nathan-basiliko/</link>
       <atom:link href="/author/nathan-basiliko/index.xml" rel="self" type="application/rss+xml" />
     <description>Nathan Basiliko</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
       <title>Nathan Basiliko</title>
       <link>/author/nathan-basiliko/</link>
     </image>
+    
+    <item>
+      <title>Soil carbon pools and fluxes following the regreening of a mining and smelting degraded landscape</title>
+      <link>/publication/pa-levasseur_2023_aul-kaqhntoc/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pa-levasseur_2023_aul-kaqhntoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovery of Smelter-Impacted Peat and Sphagnum Moss: a Microbial Perspective</title>
+      <link>/publication/j-seward_2023_zzlsgrqyykmc/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/j-seward_2023_zzlsgrqyykmc/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;abstract: &amp;ldquo;Peatlands store approximately one-half of terrestrial soil carbon and one-tenth of non-glacial freshwater. Some of these important ecosystems are located near heavy metal emitting smelters. To improve the understanding of smelter impacts and potential recovery after initial pollution controls in the 1970s (roughly 50 years of potential recovery), we sampled peatlands along a distance gradient of 134 km from a smelter in Sudbury, Ontario, Canada, an area with over a century of nickel (Ni) and copper (Cu) mining activity. This work is aimed at evaluating potential shifts in bacterial and archaeal community structures in Sphagnum moss and its underlying peat within smelter-impacted poor fens. In peat, total Ni and Cu concentrations were higher (0.062–0.067 and 0.110–0.208 mg/g, respectively) at sites close to the smelter and exponentially dropped with distance from the smelter. This exponential decrease in Ni …&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;James Seward&lt;/li&gt;
+&lt;li&gt;Suzanna Bräuer&lt;/li&gt;
+&lt;li&gt;Peter Beckett&lt;/li&gt;
+&lt;li&gt;Pascale Roy-Léveillée&lt;/li&gt;
+&lt;li&gt;E_Emilson&lt;/li&gt;
+&lt;li&gt;Shaun Watmough&lt;/li&gt;
+&lt;li&gt;Nathan Basiliko
+featured: false
+projects: []
+publication: &amp;lsquo;&lt;em&gt;Microbial Ecology&lt;/em&gt;&amp;rsquo;
+publication_short: &#39;&#39;
+publication_types:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;2&amp;rdquo;
+date: &amp;lsquo;2023-08-26T00:00:00Z&amp;rsquo;
+publishDate: &amp;lsquo;2023-11-22&amp;rsquo;
+title: &amp;lsquo;Recovery of Smelter-Impacted Peat and Sphagnum Moss: a Microbial Perspective&amp;rsquo;
+url_pdf: &amp;ldquo;&lt;a href=&#34;https://link.springer.com/content/pdf/10.1007/s00248-023-02289-5.pdf%22&#34;&gt;https://link.springer.com/content/pdf/10.1007/s00248-023-02289-5.pdf&amp;quot;&lt;/a&gt;
+url_source: &amp;ldquo;&lt;a href=&#34;https://link.springer.com/article/10.1007/s00248-023-02289-5%22&#34;&gt;https://link.springer.com/article/10.1007/s00248-023-02289-5&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Viruses direct carbon cycling in lake sediments under global change</title>

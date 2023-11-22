@@ -2,8 +2,8 @@
 bio: NA
 education:
   courses:
-  - course: Ph.D. Boreal Ecology
-    institution: Laurentian University
+  - course: Ph.D. Forest Sciences
+    institution: Lakehead University
     year: 2020-
   - course: M.Sc. Biology
     institution: Laurentian University
@@ -11,7 +11,7 @@ education:
   - course: B.Sc. Environmental Science
     institution: Laurentian University
     year: 2017
-email: "jlavigne1@laurentian.ca"
+email: "Jonathan.Lavigne@NRCan-RNCan.gc.ca"
 interests:
 - Land Reclamation
 - Wetland Science
@@ -26,7 +26,7 @@ role: Ph.D. Student, Laurentian University
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jlavigne1@laurentian.ca
+  link: mailto:Jonathan.Lavigne@NRCan-RNCan.gc.ca
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jonathan-lavigne-51b57913b/?originalSubdomain=ca
