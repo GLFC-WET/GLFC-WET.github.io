@@ -52,6 +52,6 @@ authors:
 
 I am interested in how forests support freshwater ecosystem services. My research combines microbial and molecular approaches to undertand how forest productivity and disturbances affect ecosystem functions in headwater streams and lakes.
 
-
+<i class="fa-brands fa-canadian-maple-leaf"></i> [Canadian Forest Service Page](https://profils-profiles.science.gc.ca/en/profile/erik-js-emilson)
 
 [Google Scholar](https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en&oi=ao)
