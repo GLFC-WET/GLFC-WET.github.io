@@ -5,12 +5,20 @@
     <link>/author/brian-kielstra/</link>
       <atom:link href="/author/brian-kielstra/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian Kielstra</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/brian-kielstra/avatar_hu9c24ef7a8a13cbac8b8820a921ee561a_66800_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Brian Kielstra</title>
       <link>/author/brian-kielstra/</link>
     </image>
+    
+    <item>
+      <title>Increasing spruce budworm defoliation increases catchment discharge in conifer forests</title>
+      <link>/publication/hk-sidhu_2023_f1b5zuv5xrec/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hk-sidhu_2023_f1b5zuv5xrec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hydroweight: Inverse distance-weighted rasters and landscape attributes</title>

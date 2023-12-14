@@ -22,7 +22,7 @@ organizations:
   url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
 - name: Living with Lakes Centre, Laurentian University
   url: Vale Living with Lakes Centre (laurentian.ca)
-role: Ph.D. Student, Laurentian University
+role: Ph.D. Student, Lakehead University
 social:
 - icon: envelope
   icon_pack: fas
