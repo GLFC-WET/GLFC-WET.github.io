@@ -70,6 +70,8 @@ for(cur_dir in directories){
                                                              basicinf["github"], sep="") }    
         if(!is.na(basicinf["LinkedIN"])){social_yaml <- paste(social_yaml, "\n- icon: linkedin\n  icon_pack: fab\n  link: ", 
                                                             basicinf["LinkedIN"], sep="") } 
+        if(!is.na(basicinf["Canada"])){social_yaml <- paste(social_yaml, "\n- icon: canadian-maple-leaf\n  icon_pack: fab\n  link: ", 
+                                                              basicinf["Canada"], sep="") } 
         if(!is.na(basicinf["Google Scholar"])){social_yaml <- paste(social_yaml, "\n- icon: google-scholar\n  icon_pack: ai\n  link: ", 
                                                               gsub("\u202a|\u202c", "", basicinf["Google Scholar"]), sep="") }
         if(!is.na(basicinf["OrcID"])){social_yaml <- paste(social_yaml, "\n- icon: orcid\n  icon_pack: ai\n  link: ", 

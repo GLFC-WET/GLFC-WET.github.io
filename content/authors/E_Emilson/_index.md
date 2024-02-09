@@ -35,6 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ErikEmilson
+- icon: canadian-maple-leaf
+  icon_pack: fab
+  link: https://profils-profiles.science.gc.ca/en/profile/erik-js-emilson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=ghYLsSAAAAAJ&hl=en&oi=ao
