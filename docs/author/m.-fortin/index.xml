@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Fortin | Watershed Ecology Team</title>
+    <link>/author/m.-fortin/</link>
+      <atom:link href="/author/m.-fortin/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Fortin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
+      <title>M. Fortin</title>
+      <link>/author/m.-fortin/</link>
+    </image>
+    
+    <item>
+      <title>2023 Blueprint for Forest Carbon Science in Canada</title>
+      <link>/publication/je-c_2024_0czhzzyuky4c/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/je-c_2024_0czhzzyuky4c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
