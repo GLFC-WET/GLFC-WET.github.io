@@ -25,9 +25,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:mccaigml@mcmaster.ca
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/maddiemccaig?lang=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mccaigm/

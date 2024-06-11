@@ -22,9 +22,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:emily.smenderovac@NRCan-RNCan.gc.ca
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Smendero?lang=en
 - icon: github
   icon_pack: fab
   link: https://github.com/Smendero

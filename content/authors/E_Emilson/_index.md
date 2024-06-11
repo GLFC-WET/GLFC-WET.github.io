@@ -29,9 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:erik.emilson@NRCan-RNCan.gc.ca
-- icon: twitter
+- icon: instagram
   icon_pack: fab
-  link: https://twitter.com/wet_erik?lang=en
+  link: NA
 - icon: github
   icon_pack: fab
   link: https://github.com/ErikEmilson
