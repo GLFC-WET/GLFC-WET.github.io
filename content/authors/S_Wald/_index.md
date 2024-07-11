@@ -7,8 +7,8 @@ education:
     year: 2023-2026
 email: "sw2108@cam.ac.uk"
 interests:
-- NA
-- Interests
+- Hiking
+- Outdoors
 highlight_name: false
 organizations:
 - name: Ecosystem change group
