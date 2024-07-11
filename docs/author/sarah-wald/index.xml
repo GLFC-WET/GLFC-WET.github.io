@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Wald | Watershed Ecology Team</title>
+    <link>/author/sarah-wald/</link>
+      <atom:link href="/author/sarah-wald/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Wald</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/sarah-wald/avatar_hu18b45d3e5a6ace21733d222e425d0171_4026550_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sarah Wald</title>
+      <link>/author/sarah-wald/</link>
+    </image>
+    
+  </channel>
+</rss>
