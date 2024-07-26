@@ -3,7 +3,7 @@ bio: NA
 education:
   courses:
   - course: Undergraduate
-    institution: Cambridge University
+    institution: University of Cambridge
     year: 2023-2026
 email: "sw2108@cam.ac.uk"
 interests:
@@ -11,7 +11,7 @@ interests:
 - Outdoors
 highlight_name: false
 organizations:
-- name: Cambridge University
+- name: University of Cambridge
   url: www.cam.ac.uk
 role: Summer intern, University of Cambridge
 social:
