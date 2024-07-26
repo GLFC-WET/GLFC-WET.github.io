@@ -11,9 +11,9 @@ interests:
 - Outdoors
 highlight_name: false
 organizations:
-- name: Ecosystem change group
-  url: ecosystemchange.com
-role: Summer intern
+- name: Cambridge University
+  url: www.cam.ac.uk
+role: Summer intern, University of Cambridge
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,7 +26,7 @@ social:
   link: https://www.linkedin.com/in/sarah-wald-289b63201/
 superuser: false
 title: Sarah Wald
-user_groups: [Watershed Ecology Team]
+user_groups: [Visiting and Co-supervised Students]
 authors:
 - S_Wald
 ---
