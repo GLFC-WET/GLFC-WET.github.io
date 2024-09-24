@@ -20,13 +20,13 @@ social:
   link: mailto:sw2108@cam.ac.uk
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/sarahwald_
+  link: NA
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sarah-wald-289b63201/
 superuser: false
 title: Sarah Wald
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Past WETlab Members]
 authors:
 - S_Wald
 ---
