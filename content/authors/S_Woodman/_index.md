@@ -19,6 +19,8 @@ highlight_name: false
 organizations:
 - name: Great Lakes Forestry Centre
   url: https://natural-resources.canada.ca/great-lakes-forestry-centre/13459
+- name: Natural Resources Canada
+  url: https://natural-resources.canada.ca/
 role: Watershed Geoinformatics Specialist
 social:
 - icon: envelope

@@ -20,7 +20,7 @@ social:
   link: mailto:sw2108@cam.ac.uk
 - icon: instagram
   icon_pack: fab
-  link: NA
+  link: https://www.instagram.com/sarahwald_
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sarah-wald-289b63201/

@@ -64,7 +64,7 @@ for(cur_dir in directories){
                                                                     paste(social_yaml, "\n- icon: envelope\n  icon_pack: fas\n  link: /#contact", sep="") 
                                                             }
         if(!is.na(basicinf["Instagram"])){social_yaml <- paste(social_yaml, "\n- icon: instagram\n  icon_pack: fab\n  link: ", 
-                                                             basicinf["Twitter"], sep="") }
+                                                             basicinf["Instagram"], sep="") }
         
         if(!is.na(basicinf["github"])){social_yaml <- paste(social_yaml, "\n- icon: github\n  icon_pack: fab\n  link: ", 
                                                              basicinf["github"], sep="") }    

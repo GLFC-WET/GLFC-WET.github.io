@@ -31,7 +31,7 @@ social:
   link: mailto:erik.emilson@NRCan-RNCan.gc.ca
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/waterik_
+  link: https://www.instagram.com/waterik_/
 - icon: github
   icon_pack: fab
   link: https://github.com/ErikEmilson
