@@ -29,6 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ar2190@cam.ac.uk
+- icon: x-twitter
+  icon_pack: fab
+  link: https://X.com/AsunRdgz
 - icon: github
   icon_pack: fab
   link: https://github.com/asunrodriguez

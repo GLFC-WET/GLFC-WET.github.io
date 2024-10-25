@@ -66,6 +66,12 @@ for(cur_dir in directories){
         if(!is.na(basicinf["Instagram"])){social_yaml <- paste(social_yaml, "\n- icon: instagram\n  icon_pack: fab\n  link: ", 
                                                              basicinf["Instagram"], sep="") }
         
+        if(!is.na(basicinf["X"])){social_yaml <- paste(social_yaml, "\n- icon: x-twitter\n  icon_pack: fab\n  link: ", 
+                                                               basicinf["X"], sep="") }
+        
+        if(!is.na(basicinf["Twitter"])){social_yaml <- paste(social_yaml, "\n- icon: x-twitter\n  icon_pack: fab\n  link: ", 
+                                                       basicinf["Twitter"], sep="") }
+        
         if(!is.na(basicinf["github"])){social_yaml <- paste(social_yaml, "\n- icon: github\n  icon_pack: fab\n  link: ", 
                                                              basicinf["github"], sep="") }    
         if(!is.na(basicinf["LinkedIN"])){social_yaml <- paste(social_yaml, "\n- icon: linkedin\n  icon_pack: fab\n  link: ", 

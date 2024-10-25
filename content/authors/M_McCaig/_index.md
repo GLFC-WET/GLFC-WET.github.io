@@ -8,7 +8,7 @@ education:
   - course: B.Sc. Environmental Science
     institution: University of Ottawa
     year: 2017
-email: "mccaigml@mcmaster.ca"
+email: "madison.mccaig@nrcan-rncan.gc.ca"
 interests:
 - Aquatic Ecology
 - Forest Health
@@ -20,11 +20,14 @@ organizations:
   url: http://www.karenkiddlab.com/
 - name: Great Lakes Forestry Centre, Natural Resources Canada
   url: https://www.nrcan.gc.ca/science-and-data/research-centres-and-labs/forestry-research-centres/great-lakes-forestry-centre/13459
-role: Watershed Analyst
+role: Forest Watershed Biologist
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:mccaigml@mcmaster.ca
+  link: mailto:madison.mccaig@nrcan-rncan.gc.ca
+- icon: x-twitter
+  icon_pack: fab
+  link: https://X.com/maddiemccaig?lang=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mccaigm/
@@ -34,8 +37,6 @@ user_groups: [Watershed Ecology Team]
 authors:
 - M_McCaig
 ---
-
-Supervised by: Dr. Karen Kidd and Dr. Erik Emilson
 
 
 

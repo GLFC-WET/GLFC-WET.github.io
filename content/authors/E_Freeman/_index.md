@@ -29,6 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:erika.freem@gmail.com
+- icon: x-twitter
+  icon_pack: fab
+  link: https://twitter.com/echfree
 - icon: github
   icon_pack: fab
   link: https://github.com/erikafreeman

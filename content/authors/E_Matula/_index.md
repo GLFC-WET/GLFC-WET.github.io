@@ -27,6 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:erm04417@gmail.com
+- icon: x-twitter
+  icon_pack: fab
+  link: erm04417
 - icon: github
   icon_pack: fab
   link: www.github.com/ematula3

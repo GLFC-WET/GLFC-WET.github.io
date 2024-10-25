@@ -19,6 +19,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:hcampbell@forestprotectionlimited.com
+- icon: x-twitter
+  icon_pack: fab
+  link: https://twitter.com/hollycampbell_2
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/holly-campbell

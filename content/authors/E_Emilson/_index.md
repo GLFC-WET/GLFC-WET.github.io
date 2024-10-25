@@ -32,6 +32,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/waterik_/
+- icon: x-twitter
+  icon_pack: fab
+  link: https://x.com/waterik_
 - icon: github
   icon_pack: fab
   link: https://github.com/ErikEmilson
