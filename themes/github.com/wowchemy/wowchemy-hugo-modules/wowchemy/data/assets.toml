@@ -76,7 +76,7 @@
 # CSS
 
 [css.fontAwesome]
-  version = "5.14.0"
+  version = "6.6.0"
   sri = "sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc="
   url = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"
 [css.academicons]
