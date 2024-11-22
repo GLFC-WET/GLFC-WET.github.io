@@ -34,6 +34,7 @@ social:
   link: https://orcid.org/https://orcid.org/0000-0002-0182-5368
 superuser: false
 title: Sommer F. Starr
+weight: 2
 user_groups: [Visiting and Contributing Scientists]
 authors:
 - S_Starr

@@ -40,6 +40,7 @@ social:
   link: https://orcid.org/https://orcid.org/0000-0001-9725-5867
 superuser: false
 title: Samuel Woodman
+weight: 2
 user_groups: [Watershed Ecology Team]
 authors:
 - S_Woodman

@@ -32,6 +32,7 @@ social:
   link: https://www.linkedin.com/in/jonathan-lavigne-51b57913b/?originalSubdomain=ca
 superuser: false
 title: Jonathan Lavigne
+weight: 2
 user_groups: [Visiting and Co-supervised Students]
 authors:
 - J_Lavigne

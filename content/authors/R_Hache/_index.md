@@ -22,6 +22,7 @@ social:
   link: mailto:raija.hache@nrcan-rncan.gc.ca
 superuser: false
 title: Raija Hache
+weight: 2
 user_groups: [Watershed Ecology Team]
 authors:
 - R_Hache

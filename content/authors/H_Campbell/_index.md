@@ -27,6 +27,7 @@ social:
   link: www.linkedin.com/in/holly-campbell
 superuser: false
 title: Holly Campbell
+weight: 2
 user_groups: [Past WETlab Members]
 authors:
 - H_Campbell

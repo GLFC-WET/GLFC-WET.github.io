@@ -101,6 +101,7 @@ for(cur_dir in directories){
                "\n", social_yaml,
                "\nsuperuser: false", 
                "\ntitle: ", basicinf["name"],
+               "\nweight: ", ifelse(auth_code == "E_Emilson", 1, 2), ## keeps Erik's profile displaying first
                "\nuser_groups: ", usergroups,
                "\nauthors:\n- ", auth_code,
                "\n---\n\n",

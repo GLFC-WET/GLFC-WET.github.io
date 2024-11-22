@@ -28,6 +28,7 @@ social:
   link: https://www.linkedin.com/in/mikkealla-hurley-b24804122/
 superuser: false
 title: Mikkealla Hurley
+weight: 2
 user_groups: [Past WETlab Members]
 authors:
 - M_Hurley

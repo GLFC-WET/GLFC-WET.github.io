@@ -36,6 +36,7 @@ social:
   link: https://orcid.org/0000-0001-6773-4808
 superuser: false
 title: Emily Smenderovac
+weight: 2
 user_groups: [Watershed Ecology Team]
 authors:
 - E_Smenderovac

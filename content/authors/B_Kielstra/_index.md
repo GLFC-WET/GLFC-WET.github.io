@@ -37,6 +37,7 @@ social:
   link: https://orcid.org/0000-0003-1105-4971
 superuser: false
 title: Brian Kielstra
+weight: 2
 user_groups: [Past WETlab Members]
 authors:
 - B_Kielstra

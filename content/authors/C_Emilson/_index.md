@@ -37,6 +37,7 @@ social:
   link: https://orcid.org/0000-0002-4770-1117
 superuser: false
 title: Caroline Emilson
+weight: 2
 user_groups: [Visiting and Contributing Scientists]
 authors:
 - C_Emilson

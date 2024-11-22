@@ -24,6 +24,7 @@ social:
   link: mailto:scott.capell@NRCan-RNCan.gc.ca
 superuser: false
 title: Scott Capell
+weight: 2
 user_groups: [Past WETlab Members]
 authors:
 - S_Capell

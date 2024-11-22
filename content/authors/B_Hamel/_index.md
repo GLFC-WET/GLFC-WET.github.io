@@ -27,6 +27,7 @@ social:
   link: mailto:benoit.hamel@NRCan-RNCan.gc.ca
 superuser: false
 title: Benoit Hamel
+weight: 2
 user_groups: [Visiting and Contributing Scientists]
 authors:
 - B_Hamel

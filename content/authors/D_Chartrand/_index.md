@@ -17,6 +17,7 @@ social:
   link: mailto:derek.chartrand@NRCan-RNCan.gc.ca
 superuser: false
 title: Derek Chartrand
+weight: 2
 user_groups: [Watershed Ecology Team]
 authors:
 - D_Chartrand

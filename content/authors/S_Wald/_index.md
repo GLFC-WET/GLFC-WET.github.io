@@ -26,6 +26,7 @@ social:
   link: https://www.linkedin.com/in/sarah-wald-289b63201/
 superuser: false
 title: Sarah Wald
+weight: 2
 user_groups: [Past WETlab Members]
 authors:
 - S_Wald

@@ -27,6 +27,7 @@ social:
   link: https://www.linkedin.com/in/alexandrarclark/
 superuser: false
 title: Alexandra Clark
+weight: 2
 user_groups: [Past WETlab Members]
 authors:
 - A_Clark

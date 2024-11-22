@@ -49,6 +49,7 @@ social:
   link: https://orcid.org/0000-0002-1516-9728
 superuser: false
 title: Erik J.S. Emilson
+weight: 1
 user_groups: [Watershed Ecology Team]
 authors:
 - E_Emilson

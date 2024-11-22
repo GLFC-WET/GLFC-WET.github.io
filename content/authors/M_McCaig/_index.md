@@ -33,6 +33,7 @@ social:
   link: https://www.linkedin.com/in/mccaigm/
 superuser: false
 title: Madison McCaig
+weight: 2
 user_groups: [Watershed Ecology Team]
 authors:
 - M_McCaig

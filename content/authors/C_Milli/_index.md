@@ -31,6 +31,7 @@ social:
   link: linkedin.com/in/celeste-milli
 superuser: false
 title: Celeste Milli
+weight: 2
 user_groups: [Visiting and Co-supervised Students]
 authors:
 - C_Milli
