@@ -36,7 +36,7 @@ social:
 superuser: false
 title: Erin Matula
 weight: 2
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Past WETlab Members]
 authors:
 - E_Matula
 ---
