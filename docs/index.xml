@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Watershed Ecology Team</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
       <title>Watershed Ecology Team</title>
@@ -105,6 +105,76 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mixed Model Approaches Can Leverage Database Information to Improve the Estimation of Size-Adjusted Contaminant Concentrations in Fish Populations</title>
+      <link>/publication/e-smenderovac_2025_se3iqnhoufwc/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/e-smenderovac_2025_se3iqnhoufwc/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;abstract: &amp;ldquo;Concentrations of bioaccumulative contaminants in fish increase with their size and age; thus, research and monitoring of these contaminants in fish across space and time can be confounded by size covariation. To account for this, size-standardization of contaminant concentrations within fish samples is a common practice. Standardized concentrations are often estimated using within-sample regression models, also known as power series regression (referred to here as sampling event regressions, or SERs). This approach requires higher sample sizes than mixed effect models (MEMs), which are suited for this application but are not as commonly used. Herein we compare SERs to three MEM approaches; restricted maximum likelihood, Bayesian inference via Markov chain Monte Carlo (MCMC), and approximate Bayesian inference with nested Laplace approximation (INLA). We did this for two contaminants …&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E_Smenderovac&lt;/li&gt;
+&lt;li&gt;B_Kielstra&lt;/li&gt;
+&lt;li&gt;Calvin Kluke&lt;/li&gt;
+&lt;li&gt;Thomas A Johnston&lt;/li&gt;
+&lt;li&gt;Satyendra P Bhavsar&lt;/li&gt;
+&lt;li&gt;Robert Mackereth&lt;/li&gt;
+&lt;li&gt;Stephanie Melles&lt;/li&gt;
+&lt;li&gt;Gretchen L Lescord&lt;/li&gt;
+&lt;li&gt;E_Emilson
+featured: false
+projects: []
+publication: &amp;lsquo;&lt;em&gt;Environmental Science &amp;amp; Technology&lt;/em&gt;&amp;rsquo;
+publication_short: &#39;&#39;
+publication_types:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;2&amp;rdquo;
+date: &amp;lsquo;2025-03-04T00:00:00Z&amp;rsquo;
+publishDate: &amp;lsquo;2025-03-07&amp;rsquo;
+title: &amp;lsquo;Mixed Model Approaches Can Leverage Database Information to Improve the Estimation of Size-Adjusted Contaminant Concentrations in Fish Populations&amp;rsquo;
+url_pdf: &amp;ldquo;&lt;a href=&#34;https://pubs.acs.org/doi/full/10.1021/acs.est.4c10303%22&#34;&gt;https://pubs.acs.org/doi/full/10.1021/acs.est.4c10303&amp;quot;&lt;/a&gt;
+url_source: &amp;ldquo;&lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acs.est.4c10303%22&#34;&gt;https://pubs.acs.org/doi/abs/10.1021/acs.est.4c10303&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses</title>
+      <link>/publication/e-smenderovac_2025_lkgwnxomwfcc/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/e-smenderovac_2025_lkgwnxomwfcc/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;abstract: &amp;ldquo;The study of microbial communities of the plant phyllosphere in remote locations using DNA-based approaches is limited by the challenges associated with their preservation in the field and during transportation. Freezing is a common DNA preservation strategy, but it may be unsuitable for leaf samples, or inaccessible in some locations. Other methods such as desiccation, ethanol or commercial preservatives are potential alternative DNA preservation methods for ambient temperature storage. In this study, we assessed the efficacy of desiccation (with silica gel packs), and of three preservation solutions (95% ethanol, RNAlater, LifeGuard) for the preservation of epiphytic phyllosphere communities of Populus tremuloides and Picea glauca at ambient indoor temperature (21 °C) for up to three weeks. We assessed effects on DNA concentration and quality and used metabarcoding to detect changes in bacterial and …&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E_Smenderovac&lt;/li&gt;
+&lt;li&gt;Karelle Rheault&lt;/li&gt;
+&lt;li&gt;Marie-Ange Moisan&lt;/li&gt;
+&lt;li&gt;C_Emilson&lt;/li&gt;
+&lt;li&gt;Élodie Brazeau&lt;/li&gt;
+&lt;li&gt;Marie-Josée Morency&lt;/li&gt;
+&lt;li&gt;Patrick Gagné&lt;/li&gt;
+&lt;li&gt;Vincent Maire&lt;/li&gt;
+&lt;li&gt;E_Emilson&lt;/li&gt;
+&lt;li&gt;L_Venier&lt;/li&gt;
+&lt;li&gt;Christine Martineau
+featured: false
+projects: []
+publication: &amp;lsquo;&lt;em&gt;Scientific Reports&lt;/em&gt;&amp;rsquo;
+publication_short: &#39;&#39;
+publication_types:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;2&amp;rdquo;
+date: &amp;lsquo;2025-02-04T00:00:00Z&amp;rsquo;
+publishDate: &amp;lsquo;2025-03-07&amp;rsquo;
+title: &amp;lsquo;Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses&amp;rsquo;
+url_pdf: &amp;ldquo;&lt;a href=&#34;https://www.nature.com/articles/s41598-024-82367-x%22&#34;&gt;https://www.nature.com/articles/s41598-024-82367-x&amp;quot;&lt;/a&gt;
+url_source: &amp;ldquo;&lt;a href=&#34;https://www.nature.com/articles/s41598-024-82367-x%22&#34;&gt;https://www.nature.com/articles/s41598-024-82367-x&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
     </item>
     
     <item>
@@ -764,37 +834,6 @@ url_source: &amp;ldquo;&lt;a href=&#34;https://link.springer.com/article/10.1007
     </item>
     
     <item>
-      <title>Mixed Model Approaches Can Leverage Database Information to Improve the Estimation of Size-Adjusted Contaminant Concentrations in Fish Populations</title>
-      <link>/publication/e-smenderovac_2025_se3iqnhoufwc/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/e-smenderovac_2025_se3iqnhoufwc/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;abstract: &amp;ldquo;The microbial communities of lake sediments play key roles in carbon cycling, linking lakes to their surrounding landscapes and to the global climate system as incubators of terrestrial organic matter and emitters of greenhouse gasses, respectively. Here, we amended lake sediments with three different plant leaf litters: a coniferous forest mix, deciduous forest mix, cattails (Typha latifolia) and then examined the bacterial, fungal and methanogen community profiles and abundances. Polyphenols were found to correlate with changes in the bacterial, methanogen, and fungal communities; most notably dominance of fungi over bacteria as polyphenol levels increased with higher abundance of the white rot fungi Phlebia spp. Additionally, we saw a shift in the dominant orders of fermentative bacteria with increasing polyphenol levels, and differences in the dominant methanogen groups, with high CH4 production being more strongly associated with generalist groups of methanogens found at lower polyphenol levels. Our present study provides insights into and basis for future study on how shifting upland and wetland plant communities may influence anaerobic microbial communities and processes in lake sediments, and may alter the fate of terrestrial carbon entering inland waters.&amp;rdquo;
-authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kurt M Yakimovich&lt;/li&gt;
-&lt;li&gt;E_Emilson&lt;/li&gt;
-&lt;li&gt;Michael A Carson&lt;/li&gt;
-&lt;li&gt;Andrew J Tanentzap&lt;/li&gt;
-&lt;li&gt;Nathan Basiliko&lt;/li&gt;
-&lt;li&gt;Nadia Mykytczuk
-featured: false
-projects: []
-publication: &amp;lsquo;&lt;em&gt;Environmental Science &amp;amp; Technology&lt;/em&gt;&amp;rsquo;
-publication_short: &#39;&#39;
-publication_types:&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;2&amp;rdquo;
-date: &amp;lsquo;2018-12-01T00:00:00Z&amp;rsquo;
-publishDate: &amp;lsquo;2025-03-07&amp;rsquo;
-title: &amp;lsquo;Mixed Model Approaches Can Leverage Database Information to Improve the Estimation of Size-Adjusted Contaminant Concentrations in Fish Populations&amp;rsquo;
-url_pdf: &amp;ldquo;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fmicb.2018.02662/full%22&#34;&gt;https://www.frontiersin.org/articles/10.3389/fmicb.2018.02662/full&amp;quot;&lt;/a&gt;
-url_source: &amp;ldquo;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fmicb.2018.02662/full%22&#34;&gt;https://www.frontiersin.org/articles/10.3389/fmicb.2018.02662/full&amp;quot;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Plant litter type dictates microbial communities responsible for greenhouse gas production in amended lake sediments</title>
       <link>/publication/km-yakimovich_ejs-emilson_ma-carson_aj-tanentzap_n-basiliko_..._2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -808,36 +847,6 @@ url_source: &amp;ldquo;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/publication/t-jucker_b-wintle_g-shackelford_p-bocquillon_jl-geffert_t-kasoar_..._2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses</title>
-      <link>/publication/e-smenderovac_2025_lkgwnxomwfcc/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/e-smenderovac_2025_lkgwnxomwfcc/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;abstract: &amp;ldquo;Boreal lakes are major components of the global carbon cycle, partly because of sediment‐bound heterotrophic microorganisms that decompose within‐lake and terrestrially derived organic matter (t‐OM). The ability for sediment bacteria to break down and alter t‐OM may depend on environmental characteristics and community composition. However, the connection between these two potential drivers of decomposition is poorly understood. We tested how bacterial activity changed along experimental gradients in the quality and quantity of t‐OM inputs into littoral sediments of two small boreal lakes, a dark and a clear lake, and measured the abundance of operational taxonomic units and functional genes to identify mechanisms underlying bacterial responses. We found that bacterial production (BP) decreased across lakes with aromatic dissolved organic matter (DOM) in sediment pore water, but the process …&amp;rdquo;
-authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Amelia Fitch&lt;/li&gt;
-&lt;li&gt;Chloe Orland&lt;/li&gt;
-&lt;li&gt;David Willer&lt;/li&gt;
-&lt;li&gt;E_Emilson&lt;/li&gt;
-&lt;li&gt;Andrew J Tanentzap
-featured: false
-projects: []
-publication: &amp;lsquo;&lt;em&gt;Scientific Reports&lt;/em&gt;&amp;rsquo;
-publication_short: &#39;&#39;
-publication_types:&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;2&amp;rdquo;
-date: &amp;lsquo;2018-11-01T00:00:00Z&amp;rsquo;
-publishDate: &amp;lsquo;2025-03-07&amp;rsquo;
-title: &amp;lsquo;Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses&amp;rsquo;
-url_pdf: &amp;ldquo;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14391%22&#34;&gt;https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14391&amp;quot;&lt;/a&gt;
-url_source: &amp;ldquo;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14391%22&#34;&gt;https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14391&amp;quot;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
     </item>
     
     <item>

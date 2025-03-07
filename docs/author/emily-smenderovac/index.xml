@@ -5,12 +5,82 @@
     <link>/author/emily-smenderovac/</link>
       <atom:link href="/author/emily-smenderovac/index.xml" rel="self" type="application/rss+xml" />
     <description>Emily Smenderovac</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/emily-smenderovac/avatar_hu55185e3b8a15d45d54114d1e78438b3f_26316_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Emily Smenderovac</title>
       <link>/author/emily-smenderovac/</link>
     </image>
+    
+    <item>
+      <title>Mixed Model Approaches Can Leverage Database Information to Improve the Estimation of Size-Adjusted Contaminant Concentrations in Fish Populations</title>
+      <link>/publication/e-smenderovac_2025_se3iqnhoufwc/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/e-smenderovac_2025_se3iqnhoufwc/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;abstract: &amp;ldquo;Concentrations of bioaccumulative contaminants in fish increase with their size and age; thus, research and monitoring of these contaminants in fish across space and time can be confounded by size covariation. To account for this, size-standardization of contaminant concentrations within fish samples is a common practice. Standardized concentrations are often estimated using within-sample regression models, also known as power series regression (referred to here as sampling event regressions, or SERs). This approach requires higher sample sizes than mixed effect models (MEMs), which are suited for this application but are not as commonly used. Herein we compare SERs to three MEM approaches; restricted maximum likelihood, Bayesian inference via Markov chain Monte Carlo (MCMC), and approximate Bayesian inference with nested Laplace approximation (INLA). We did this for two contaminants …&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E_Smenderovac&lt;/li&gt;
+&lt;li&gt;B_Kielstra&lt;/li&gt;
+&lt;li&gt;Calvin Kluke&lt;/li&gt;
+&lt;li&gt;Thomas A Johnston&lt;/li&gt;
+&lt;li&gt;Satyendra P Bhavsar&lt;/li&gt;
+&lt;li&gt;Robert Mackereth&lt;/li&gt;
+&lt;li&gt;Stephanie Melles&lt;/li&gt;
+&lt;li&gt;Gretchen L Lescord&lt;/li&gt;
+&lt;li&gt;E_Emilson
+featured: false
+projects: []
+publication: &amp;lsquo;&lt;em&gt;Environmental Science &amp;amp; Technology&lt;/em&gt;&amp;rsquo;
+publication_short: &#39;&#39;
+publication_types:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;2&amp;rdquo;
+date: &amp;lsquo;2025-03-04T00:00:00Z&amp;rsquo;
+publishDate: &amp;lsquo;2025-03-07&amp;rsquo;
+title: &amp;lsquo;Mixed Model Approaches Can Leverage Database Information to Improve the Estimation of Size-Adjusted Contaminant Concentrations in Fish Populations&amp;rsquo;
+url_pdf: &amp;ldquo;&lt;a href=&#34;https://pubs.acs.org/doi/full/10.1021/acs.est.4c10303%22&#34;&gt;https://pubs.acs.org/doi/full/10.1021/acs.est.4c10303&amp;quot;&lt;/a&gt;
+url_source: &amp;ldquo;&lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acs.est.4c10303%22&#34;&gt;https://pubs.acs.org/doi/abs/10.1021/acs.est.4c10303&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses</title>
+      <link>/publication/e-smenderovac_2025_lkgwnxomwfcc/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/e-smenderovac_2025_lkgwnxomwfcc/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;abstract: &amp;ldquo;The study of microbial communities of the plant phyllosphere in remote locations using DNA-based approaches is limited by the challenges associated with their preservation in the field and during transportation. Freezing is a common DNA preservation strategy, but it may be unsuitable for leaf samples, or inaccessible in some locations. Other methods such as desiccation, ethanol or commercial preservatives are potential alternative DNA preservation methods for ambient temperature storage. In this study, we assessed the efficacy of desiccation (with silica gel packs), and of three preservation solutions (95% ethanol, RNAlater, LifeGuard) for the preservation of epiphytic phyllosphere communities of Populus tremuloides and Picea glauca at ambient indoor temperature (21 °C) for up to three weeks. We assessed effects on DNA concentration and quality and used metabarcoding to detect changes in bacterial and …&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E_Smenderovac&lt;/li&gt;
+&lt;li&gt;Karelle Rheault&lt;/li&gt;
+&lt;li&gt;Marie-Ange Moisan&lt;/li&gt;
+&lt;li&gt;C_Emilson&lt;/li&gt;
+&lt;li&gt;Élodie Brazeau&lt;/li&gt;
+&lt;li&gt;Marie-Josée Morency&lt;/li&gt;
+&lt;li&gt;Patrick Gagné&lt;/li&gt;
+&lt;li&gt;Vincent Maire&lt;/li&gt;
+&lt;li&gt;E_Emilson&lt;/li&gt;
+&lt;li&gt;L_Venier&lt;/li&gt;
+&lt;li&gt;Christine Martineau
+featured: false
+projects: []
+publication: &amp;lsquo;&lt;em&gt;Scientific Reports&lt;/em&gt;&amp;rsquo;
+publication_short: &#39;&#39;
+publication_types:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;2&amp;rdquo;
+date: &amp;lsquo;2025-02-04T00:00:00Z&amp;rsquo;
+publishDate: &amp;lsquo;2025-03-07&amp;rsquo;
+title: &amp;lsquo;Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses&amp;rsquo;
+url_pdf: &amp;ldquo;&lt;a href=&#34;https://www.nature.com/articles/s41598-024-82367-x%22&#34;&gt;https://www.nature.com/articles/s41598-024-82367-x&amp;quot;&lt;/a&gt;
+url_source: &amp;ldquo;&lt;a href=&#34;https://www.nature.com/articles/s41598-024-82367-x%22&#34;&gt;https://www.nature.com/articles/s41598-024-82367-x&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Response of stream habitat and microbiomes to spruce budworm defoliation: New considerations for outbreak management</title>
