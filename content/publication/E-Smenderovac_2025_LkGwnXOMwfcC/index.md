@@ -1,44 +1,56 @@
 --- 
-abstract: "Boreal lakes are major components of the global carbon cycle, partly because of sediment‐bound heterotrophic microorganisms that decompose within‐lake and terrestrially derived organic matter (t‐OM). The ability for sediment bacteria to break down and alter t‐OM may depend on environmental characteristics and community composition. However, the connection between these two potential drivers of decomposition is poorly understood. We tested how bacterial activity changed along experimental gradients in the quality and quantity of t‐OM inputs into littoral sediments of two small boreal lakes, a dark and a clear lake, and measured the abundance of operational taxonomic units and functional genes to identify mechanisms underlying bacterial responses. We found that bacterial production (BP) decreased across lakes with aromatic dissolved organic matter (DOM) in sediment pore water, but the process …"
+abstract: "The study of microbial communities of the plant phyllosphere in remote locations using DNA-based approaches is limited by the challenges associated with their preservation in the field and during transportation. Freezing is a common DNA preservation strategy, but it may be unsuitable for leaf samples, or inaccessible in some locations. Other methods such as desiccation, ethanol or commercial preservatives are potential alternative DNA preservation methods for ambient temperature storage. In this study, we assessed the efficacy of desiccation (with silica gel packs), and of three preservation solutions (95% ethanol, RNAlater, LifeGuard) for the preservation of epiphytic phyllosphere communities of Populus tremuloides and Picea glauca at ambient indoor temperature (21 °C) for up to three weeks. We assessed effects on DNA concentration and quality and used metabarcoding to detect changes in bacterial and …"
 authors: 
--  Amelia Fitch
--  Chloe Orland
--  David Willer
+-  E_Smenderovac
+-  Karelle Rheault
+-  Marie-Ange Moisan
+-  C_Emilson
+-  Élodie Brazeau
+-  Marie-Josée Morency
+-  Patrick Gagné
+-  Vincent Maire
 -  E_Emilson
--  Andrew J Tanentzap
+-  L_Venier
+-  Christine Martineau
 featured: false
 projects: []
 publication: '*Scientific Reports*'
 publication_short: ''
 publication_types:
 - "2"
-date: '2018-11-01T00:00:00Z'
+date: '2025-02-04T00:00:00Z'
 publishDate: '2025-03-07'
 title: 'Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses'
-url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14391"
-url_source: "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14391"
+url_pdf: "https://www.nature.com/articles/s41598-024-82367-x"
+url_source: "https://www.nature.com/articles/s41598-024-82367-x"
 --- 
 
 
 --- 
-abstract: "Boreal lakes are major components of the global carbon cycle, partly because of sediment‐bound heterotrophic microorganisms that decompose within‐lake and terrestrially derived organic matter (t‐OM). The ability for sediment bacteria to break down and alter t‐OM may depend on environmental characteristics and community composition. However, the connection between these two potential drivers of decomposition is poorly understood. We tested how bacterial activity changed along experimental gradients in the quality and quantity of t‐OM inputs into littoral sediments of two small boreal lakes, a dark and a clear lake, and measured the abundance of operational taxonomic units and functional genes to identify mechanisms underlying bacterial responses. We found that bacterial production (BP) decreased across lakes with aromatic dissolved organic matter (DOM) in sediment pore water, but the process …"
+abstract: "The study of microbial communities of the plant phyllosphere in remote locations using DNA-based approaches is limited by the challenges associated with their preservation in the field and during transportation. Freezing is a common DNA preservation strategy, but it may be unsuitable for leaf samples, or inaccessible in some locations. Other methods such as desiccation, ethanol or commercial preservatives are potential alternative DNA preservation methods for ambient temperature storage. In this study, we assessed the efficacy of desiccation (with silica gel packs), and of three preservation solutions (95% ethanol, RNAlater, LifeGuard) for the preservation of epiphytic phyllosphere communities of Populus tremuloides and Picea glauca at ambient indoor temperature (21 °C) for up to three weeks. We assessed effects on DNA concentration and quality and used metabarcoding to detect changes in bacterial and …"
 authors: 
--  Amelia Fitch
--  Chloe Orland
--  David Willer
+-  E_Smenderovac
+-  Karelle Rheault
+-  Marie-Ange Moisan
+-  C_Emilson
+-  Élodie Brazeau
+-  Marie-Josée Morency
+-  Patrick Gagné
+-  Vincent Maire
 -  E_Emilson
--  Andrew J Tanentzap
+-  L_Venier
+-  Christine Martineau
 featured: false
 projects: []
 publication: '*Scientific Reports*'
 publication_short: ''
 publication_types:
 - "2"
-date: '2018-11-01T00:00:00Z'
+date: '2025-02-04T00:00:00Z'
 publishDate: '2025-03-07'
 title: 'Desiccation as a suitable alternative to cold-storage of phyllosphere samples for DNA-based microbial community analyses'
-url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.14391"
-url_source: "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14391"
+url_pdf: "https://www.nature.com/articles/s41598-024-82367-x"
+url_source: "https://www.nature.com/articles/s41598-024-82367-x"
 --- 
 
 

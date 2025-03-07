@@ -1,7 +1,7 @@
 ### Pull publication info from Erik's Google Scholar to make pages ###
 
 ## Occassionally, there will be some strangeness from google scholar, so just check the pages. E.g. scrambled initials and order for one pub. Fixed it manually in Yaml.
-
+library(tidyverse)
 library(rvest)
 library(stringr)
 library(scholar)
@@ -13,7 +13,10 @@ Erik_pubs <- get_publications(id = schol_id)
 
 Emily_pubs <- get_publications(id = "ZRWn6UwAAAAJ")
 
-Erik_pubs <- Erik_pubs[Erik_pubs$year >=2021,] %>% rbind(Emily_pubs[Emily_pubs$year >= 2025,]) ## group pubs only 2021 + ## Update for new pubs
+Erik_pubs <- Erik_pubs[Erik_pubs$year >=2021,] %>% 
+        mutate(schol_id = schol_id) %>% 
+        rbind(Emily_pubs[Emily_pubs$year >= 2025,] %>% 
+                      mutate(schol_id = "ZRWn6UwAAAAJ")) ## group pubs only 2021 + ## Update for new pubs
 
 rm(Emily_pubs)
 ## Apply additional custom filtering to just most recent
@@ -43,7 +46,7 @@ Erik_pubs <- Erik_pubs[Erik_pubs$pubid %in% gIDs.notin, ]
 for(pub in 1:nrow(Erik_pubs)){
         curr_pub<- Erik_pubs[pub, ]
         pubs4scrape <-  paste0("http://scholar.google.com/citations?view_op=view_citation&hl=fr&user=",
-                               schol_id, "&citation_for_view=", schol_id,":", curr_pub$pubid)
+                               curr_pub$schol_id, "&citation_for_view=", curr_pub$schol_id,":", curr_pub$pubid)
         
         pub_html <- read_html(pubs4scrape) 
         
