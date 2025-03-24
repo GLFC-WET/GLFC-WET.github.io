@@ -19,9 +19,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:clarka40@mcmaster.ca
-- icon: x-twitter
-  icon_pack: fab
-  link: alexandrarenec1
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alexandrarclark/

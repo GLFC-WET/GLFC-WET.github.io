@@ -22,9 +22,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:danielle.greco@NRcan-RNcan.gc.ca
-- icon: x-twitter
-  icon_pack: fab
-  link: https://twitter.com/dan13llegreco
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=OAgDNkYAAAAJ

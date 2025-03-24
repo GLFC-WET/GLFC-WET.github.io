@@ -25,9 +25,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:madison.mccaig@nrcan-rncan.gc.ca
-- icon: x-twitter
-  icon_pack: fab
-  link: https://X.com/maddiemccaig?lang=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mccaigm/
