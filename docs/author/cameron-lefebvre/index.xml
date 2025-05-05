@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cameron Lefebvre | Watershed Ecology Team</title>
+    <link>/author/cameron-lefebvre/</link>
+      <atom:link href="/author/cameron-lefebvre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cameron Lefebvre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/cameron-lefebvre/avatar_huab28432746a27240669eaa32335cabb9_3283008_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Cameron Lefebvre</title>
+      <link>/author/cameron-lefebvre/</link>
+    </image>
+    
+  </channel>
+</rss>

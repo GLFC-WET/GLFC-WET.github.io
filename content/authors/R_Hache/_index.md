@@ -23,7 +23,7 @@ social:
 superuser: false
 title: Raija Hache
 weight: 2
-user_groups: [Watershed Ecology Team]
+user_groups: [Past WETlab Members]
 authors:
 - R_Hache
 ---

@@ -11,12 +11,12 @@ library(scholar)
 schol_id = "ghYLsSAAAAAJ"
 Erik_pubs <- get_publications(id = schol_id)
 
-Emily_pubs <- get_publications(id = "ZRWn6UwAAAAJ")
+#Emily_pubs <- get_publications(id = "ZRWn6UwAAAAJ")
 
 Erik_pubs <- Erik_pubs[Erik_pubs$year >=2021,] %>% 
-        mutate(schol_id = schol_id) %>% 
-        rbind(Emily_pubs[Emily_pubs$year >= 2025,] %>% 
-                      mutate(schol_id = "ZRWn6UwAAAAJ")) ## group pubs only 2021 + ## Update for new pubs
+        mutate(schol_id = schol_id) #%>% 
+        #rbind(Emily_pubs[Emily_pubs$year >= 2025,] %>% 
+                     # mutate(schol_id = "ZRWn6UwAAAAJ")) ## group pubs only 2021 + ## Update for new pubs
 
 rm(Emily_pubs)
 ## Apply additional custom filtering to just most recent

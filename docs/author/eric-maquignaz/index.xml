@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Maquignaz | Watershed Ecology Team</title>
+    <link>/author/eric-maquignaz/</link>
+      <atom:link href="/author/eric-maquignaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Maquignaz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/eric-maquignaz/avatar_hubd233aa1a3ae668cdf5b90650f1eb786_1727415_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Eric Maquignaz</title>
+      <link>/author/eric-maquignaz/</link>
+    </image>
+    
+  </channel>
+</rss>
