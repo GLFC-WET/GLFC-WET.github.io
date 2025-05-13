@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Benoit Hamel
 weight: 2
-user_groups: [Visiting and Contributing Scientists]
+user_groups: [Past WETlab Members]
 authors:
 - B_Hamel
 ---

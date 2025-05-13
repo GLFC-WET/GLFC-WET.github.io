@@ -4,7 +4,7 @@ education:
   courses:
   - course: Ph.D. Forest Sciences
     institution: Lakehead University
-    year: 2020-
+    year: 2025
   - course: M.Sc. Biology
     institution: Laurentian University
     year: 2020
@@ -22,7 +22,7 @@ organizations:
   url: https://www.nrcan.gc.ca/science-data/research-centres-labs/forestry-research-centres/great-lakes-forestry-centre/13459
 - name: Living with Lakes Centre, Laurentian University
   url: Vale Living with Lakes Centre (laurentian.ca)
-role: Ph.D. Student, Lakehead University
+role: Biologist
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,7 +33,7 @@ social:
 superuser: false
 title: Jonathan Lavigne
 weight: 2
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Past WETlab Members]
 authors:
 - J_Lavigne
 ---

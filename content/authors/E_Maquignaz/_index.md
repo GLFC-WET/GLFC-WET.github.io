@@ -38,7 +38,7 @@ authors:
 - E_Maquignaz
 ---
 
-Supervised by: Dr. Dalal Hanna
+Supervised by: Dr. Dalal Hanna & Erik Emilson
 
 
 

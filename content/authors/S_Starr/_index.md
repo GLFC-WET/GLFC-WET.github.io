@@ -35,7 +35,7 @@ social:
 superuser: false
 title: Sommer F. Starr
 weight: 2
-user_groups: [Visiting and Contributing Scientists]
+user_groups: [Past WETlab Members]
 authors:
 - S_Starr
 ---
