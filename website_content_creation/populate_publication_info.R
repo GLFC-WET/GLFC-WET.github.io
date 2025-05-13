@@ -18,7 +18,7 @@ Erik_pubs <- Erik_pubs[Erik_pubs$year >=2021,] %>%
         #rbind(Emily_pubs[Emily_pubs$year >= 2025,] %>% 
                      # mutate(schol_id = "ZRWn6UwAAAAJ")) ## group pubs only 2021 + ## Update for new pubs
 
-rm(Emily_pubs)
+#rm(Emily_pubs)
 ## Apply additional custom filtering to just most recent
 ## Find the titles that are already in the dataset and filter out
 db.pubs <- list.files("content/publication", pattern = "index.md", full.names = T, recursive = T)
