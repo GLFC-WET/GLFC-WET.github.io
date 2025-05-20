@@ -1,10 +1,13 @@
 --- 
-bio: I finished my undegraduate degree at Laurentian Univerity study deer mice in Algonquin Provincial Park. Now I'm excited to make the move to aquatic ecosystems and to learn everything I can in this field!
+bio: I finished my undergraduate degree at Laurentian University studying deer mice in Algonquin Provincial Park. Now I'm excited to make the move to aquatic ecosystems and to learn everything I can in this field! I am currently working on biodiversity in benthic stream ecosystems.
 education:
   courses:
   - course: BSc. Biology, Spec. Restoration Biology
     institution: Laurentian University
     year: 2025
+  - course: MSc Biology
+    institution: Laurentian University
+    year: current
 email: "clefebvre4@laurentian.ca"
 interests:
 - Environmental Remediation
@@ -33,7 +36,7 @@ Supervised by: Dr. Erik Emilson, Dr. Brie Edwards
 
 
 
-I finished my undegraduate degree at Laurentian Univerity study deer mice in Algonquin Provincial Park. Now I'm excited to make the move to aquatic ecosystems and to learn everything I can in this field!
+I finished my undergraduate degree at Laurentian University studying deer mice in Algonquin Provincial Park. Now I'm excited to make the move to aquatic ecosystems and to learn everything I can in this field! I am currently working on biodiversity in benthic stream ecosystems.
 
 
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma Perry | Watershed Ecology Team</title>
+    <link>/author/emma-perry/</link>
+      <atom:link href="/author/emma-perry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emma Perry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/emma-perry/avatar_hu398db7c26e833c8872ef8f197f8c7073_2013735_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Emma Perry</title>
+      <link>/author/emma-perry/</link>
+    </image>
+    
+  </channel>
+</rss>
