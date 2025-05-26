@@ -28,7 +28,7 @@ authors:
 - E_Perry
 ---
 
-Supervised by: Cory Sheppard and Erik Emilson
+Supervised by: Cory Wallace
 
 
 
