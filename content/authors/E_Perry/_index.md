@@ -11,10 +11,8 @@ interests:
 - Aquatic Community Diversity
 highlight_name: false
 organizations:
-- name: Interests
-  url: NA
-- name: Organization_name
-  url: URL
+- name: Memorial University, Grenfell campus
+  url: https://mun.ca/grenfellcampus/
 role: MSc student, Memorial University
 social:
 - icon: envelope
