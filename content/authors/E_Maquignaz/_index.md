@@ -26,10 +26,10 @@ social:
   link: mailto:ericmaquignaz@cmail.carleton.ca
 - icon: instagram
   icon_pack: fab
-  link: www.instagram.com/ringbeakedseagull
+  link: https://www.instagram.com/ringbeakedseagull
 - icon: github
   icon_pack: fab
-  link: www.github.com/ARUListening
+  link: https://www.github.com/ARUListening
 superuser: false
 title: Eric Maquignaz
 weight: 2
