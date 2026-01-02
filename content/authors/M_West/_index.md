@@ -23,7 +23,7 @@ social:
 superuser: false
 title: Mallory West
 weight: 2
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Past WETlab Members]
 authors:
 - M_West
 ---

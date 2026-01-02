@@ -31,7 +31,7 @@ social:
   link: https://github.com/sg-woodman
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/samuel-woodman-78692b207
+  link: https://www.linkedin.com/in/samuel-woodman-78692b207
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=P0AkziYAAAAJ&hl=en
