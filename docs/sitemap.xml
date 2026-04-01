@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/author/erik-j.s.-emilson/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/emily-smenderovac/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/lisa-venier/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/madison-mccaig/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/scott-capell/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/erika-c.-freeman/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
@@ -23,16 +29,10 @@
     <loc>/author/caroline-emilson/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/madison-mccaig/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/jonathan-lavigne/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/david-kreutzweiser/</loc>
-    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/scott-capell/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/derek-chartrand/</loc>
@@ -72,6 +72,8 @@
   </url><url>
     <loc>/author/raija-hache/</loc>
   </url><url>
+    <loc>/author/raleigh-grysko/</loc>
+  </url><url>
     <loc>/author/samuel-woodman/</loc>
   </url><url>
     <loc>/author/sarah-wald/</loc>
@@ -88,10 +90,79 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ejs-emilson_2026_mpfhp-ddyjuc/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/karen-a-kidd/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/michael-stastny/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/lisa-galantini/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/roxane-maranger/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/sandrine-ouimet/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/s-ouimet_2026_7brz7jt4uncc/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/jb-tanney_2026_pabash6fao0c/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/christian-hebert/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/francois-nicolas-robinne/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jason-leach/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/joey-b-tanney/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/junior-a-tremblay/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/karen-e-hodges/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/kathy-bleiker/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/kendrick-j-brown/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/samuel-hache/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/sean-naman/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/stephen-w-taylor/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/thea-whitman/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/carl-pj-mitchell/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
@@ -99,19 +170,7 @@
     <loc>/author/k-sally-ju/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/karen-a-kidd/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/ks-ju_2026_u4n9ynqmcaic/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/cme-lajoie_2025_ck4rrx0j3m0c/</loc>
@@ -297,9 +356,6 @@
     <loc>/author/jason-edwards/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/jason-leach/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/joanne-c-white/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -366,7 +422,16 @@
     <loc>/publication/je-c_2024_0czhzzyuky4c/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/c-smyth_2024_7hz3acdfbsoc/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/brittany-g-perrotta/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/c-boisvenue/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/c-smyth/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/c.-boisvenue/</loc>
@@ -381,6 +446,9 @@
     <loc>/author/cpj-mitchell/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/author/d-pare/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/d.-pare/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -390,7 +458,19 @@
     <loc>/author/fidele-bognounou/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/author/h-macdonald/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/h.-macdonald/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/j-krakowski/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/j-laganiere/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/j-wolfe/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/j.-edwards-c.-smyth/</loc>
@@ -408,6 +488,12 @@
     <loc>/author/j.-wolfe/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/author/je-edwards/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jm-metsaranta/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/jerome-laganiere/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -417,13 +503,22 @@
     <loc>/author/kara-webster/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/author/kl-webster/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/m-dosanjh/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/m-fortin/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/m.-dosanjh/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/m.-fortin/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/michael-stastny/</loc>
+    <loc>/author/p-tompalski/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/p.-tompalski/</loc>
@@ -433,6 +528,9 @@
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/rw-mackereth/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/s-le-noble/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/s.-le-noble/</loc>
@@ -448,6 +546,9 @@
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/wy-lam/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/x-zhu/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/x.-zhu/</loc>
@@ -778,9 +879,6 @@
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/jm-buttle/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/kl-webster/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/kl-webster_2022_2vqyfgb8itec/</loc>

@@ -21,7 +21,7 @@ social:
 superuser: false
 title: Emma Perry
 weight: 2
-user_groups: [Visiting and Co-supervised Students]
+user_groups: [Past WETlab Members]
 authors:
 - E_Perry
 ---
