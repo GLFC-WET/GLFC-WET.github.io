@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ambre Audebert | Watershed Ecology Team</title>
+    <link>/author/ambre-audebert/</link>
+      <atom:link href="/author/ambre-audebert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ambre Audebert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/ambre-audebert/avatar_hu4ba25ddc6f2223a0c9ab26becc254bc2_210804_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ambre Audebert</title>
+      <link>/author/ambre-audebert/</link>
+    </image>
+    
+  </channel>
+</rss>
