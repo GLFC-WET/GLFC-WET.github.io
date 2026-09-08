@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/author/erik-j.s.-emilson/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/caroline-emilson/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/emily-smenderovac/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/lisa-venier/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/madison-mccaig/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
@@ -25,9 +28,6 @@
   </url><url>
     <loc>/author/brian-kielstra/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/caroline-emilson/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/jonathan-lavigne/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
@@ -92,27 +92,42 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/ejs-emilson_2026_mpfhp-ddyjuc/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/byron-smiley/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/dave-m-morris/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ein-ohara/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/l-venier_2026_j7_hqoaduruc/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/teresita-m-porter/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ejs-emilson_2026_mpfhp-ddyjuc/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/karen-a-kidd/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/michael-stastny/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/lisa-galantini/</loc>
@@ -190,13 +205,7 @@
     <loc>/author/wai-ying-lam/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/dave-m-morris/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/tm-porter_2025_ldasjj6cecoc/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/teresita-m-porter/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/carl-mitchell/</loc>
@@ -305,9 +314,6 @@
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/ben-filewod/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/byron-smiley/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/caroline-gagne/</loc>

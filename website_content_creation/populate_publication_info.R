@@ -61,7 +61,11 @@ for(pub in 1:nrow(Erik_pubs)){
         pubhtml_linktofull <- pub_html %>% html_elements(".gsc_oci_title_link") %>% html_attr("href")
         
         pubabstract <- pub_html %>% html_elements(".gsh_csp") %>% html_text()
-        pubabstract <- gsub("\\?\\?", ". . . ", pubabstract)
+        pubabstract <- str_replace_all(
+                pubabstract,
+                c("\\?\\?" = ". . . ",
+                  "\u00A0\u2026" = ". . . ")
+        )
         
         pubdet_extract <- pub_html %>% html_elements(".gsc_oci_value") %>% html_text()
         
@@ -69,7 +73,10 @@ for(pub in 1:nrow(Erik_pubs)){
         
         pubauths <- str_split(pubauths, ", ")[[1]]
         
-        pubauths <- gsub("Szkokan-", "", pubauths) #Replace any known name changes
+        pubauths <- str_replace_all(
+                pubauths,
+                c("Szkokan-" = "")
+        ) #Replace any known name changes
         
         ## compare listed authors to team names
         auth_profiles <- list.dirs("content/authors", recursive = FALSE, full.names = FALSE)

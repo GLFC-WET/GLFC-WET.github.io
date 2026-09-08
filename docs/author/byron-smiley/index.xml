@@ -5,12 +5,45 @@
     <link>/author/byron-smiley/</link>
       <atom:link href="/author/byron-smiley/index.xml" rel="self" type="application/rss+xml" />
     <description>Byron Smiley</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu9fdf0e76be7bf30d573db6272a9cf2da_158257_300x300_fit_lanczos_2.png</url>
       <title>Byron Smiley</title>
       <link>/author/byron-smiley/</link>
     </image>
+    
+    <item>
+      <title>Measuring biodiversity with DNA metabarcoding: applications in forest management.</title>
+      <link>/publication/l-venier_2026_j7_hqoaduruc/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/l-venier_2026_j7_hqoaduruc/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;abstract: &amp;ldquo;Biodiversity data play a central role in the iterative process of adaptive forest management, offering insights into the sustainability of forest practices. Traditional indicators of forest integrity have relied heavily on above ground taxa, primarily vertebrates and plants, which operate across regional to stand level scales. In contrast, below ground and freshwater biomes—including soil communities, aquatic microbiomes, and deadwood associated taxa—remain comparatively understudied. Recent advances in molecular methods, particularly metabarcoding, have transformed our ability to characterize this biodiversity enabling rapid, comprehensive assessments of community composition from environmental DNA (eDNA) in substrates such as soil, water, and wood. These tools provide opportunities to evaluate how forest management influences ecological processes and to support improved sustainable forest�…&amp;rdquo;
+authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;L_Venier&lt;/li&gt;
+&lt;li&gt;Teresita M Porter&lt;/li&gt;
+&lt;li&gt;E_Smenderovac&lt;/li&gt;
+&lt;li&gt;Dave M Morris&lt;/li&gt;
+&lt;li&gt;C_Emilson&lt;/li&gt;
+&lt;li&gt;E_Emilson&lt;/li&gt;
+&lt;li&gt;E�in O&amp;rsquo;Hara&lt;/li&gt;
+&lt;li&gt;Byron Smiley
+featured: false
+projects: []
+publication: &amp;lsquo;&lt;em&gt;Canadian Journal of Forest Research&lt;/em&gt;&amp;rsquo;
+publication_short: &#39;&#39;
+publication_types:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;2&amp;rdquo;
+date: &amp;lsquo;2026-08-06T00:00:00Z&amp;rsquo;
+publishDate: &amp;lsquo;2026-09-08&amp;rsquo;
+title: &amp;lsquo;Measuring biodiversity with DNA metabarcoding: applications in forest management.&amp;rsquo;
+url_pdf: &amp;ldquo;&lt;a href=&#34;https://cdnsciencepub.com/doi/pdf/10.1139/cjfr-2026-0076%22&#34;&gt;https://cdnsciencepub.com/doi/pdf/10.1139/cjfr-2026-0076&amp;quot;&lt;/a&gt;
+url_source: &amp;ldquo;&lt;a href=&#34;https://cdnsciencepub.com/doi/abs/10.1139/cjfr-2026-0076%22&#34;&gt;https://cdnsciencepub.com/doi/abs/10.1139/cjfr-2026-0076&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Measuring and responding to forest degradation in Canada: an operational framework</title>
