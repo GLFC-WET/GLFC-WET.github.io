@@ -5,12 +5,20 @@
     <link>/author/samuel-woodman/</link>
       <atom:link href="/author/samuel-woodman/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel Woodman</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/samuel-woodman/avatar_hueca2c007ccbf2631d6e9c548dafc1879_91719_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Samuel Woodman</title>
       <link>/author/samuel-woodman/</link>
     </image>
+    
+    <item>
+      <title>LANDSAT Satellite Monitoring of Forest Recovery (1984-2025) in the Laurentian University Greenspace (LUGS), Lake Laurentian Conservation Area (LLCA), Daisy Lake Uplands …</title>
+      <link>/publication/sg-woodman_2026_fiytvqdavhgc/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/sg-woodman_2026_fiytvqdavhgc/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

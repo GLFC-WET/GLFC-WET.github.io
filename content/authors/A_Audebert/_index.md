@@ -17,7 +17,7 @@ highlight_name: false
 organizations:
 - name: UQAT
   url: https://www.uqat.ca
-role: master degree student, UQAT
+role: MSc student, UQAT
 social:
 - icon: envelope
   icon_pack: fas
