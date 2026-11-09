@@ -7,7 +7,7 @@ authors:
 -  Dave M Morris
 -  C_Emilson
 -  E_Emilson
--  E�in O'Hara
+-  Eòin O'Hara
 -  Byron Smiley
 featured: false
 projects: []

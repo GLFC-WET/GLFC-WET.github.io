@@ -3,7 +3,7 @@ abstract: ""
 authors: 
 -  E_Smenderovac
 -  C_Emilson
--  E�in O’Hara
+-  Eòin O’Hara
 -  Kerrie Wainio-Keizer
 -  D_Chartrand
 -  Dave Morris
